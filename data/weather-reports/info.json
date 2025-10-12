@@ -1,5 +1,21 @@
 [
   {
+    "name": "Advisory for Severe Lightning  1 ",
+    "time_str": "2025-10-12 12:00",
+    "time_id": "20251012.1200",
+    "ut": 1760250600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_-_10_at_1200_noon_on_12__1760250607.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Severe Lightning  1 (Tamil)",
+    "time_str": "2025-10-12 12:00",
+    "time_id": "20251012.1200",
+    "ut": 1760250600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_-_10_at_1200_noon_on_12__1760251241.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-10-12 05:30",
     "time_id": "20251012.0530",
