@@ -1,5 +1,21 @@
 [
   {
+    "name": "Special Weather Bulletin",
+    "time_str": "2025-10-14 14:30",
+    "time_id": "20251014.1430",
+    "ut": 1760432400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Special_Weather_Bulletin_at_1430_hrs_on_2025__1760434054.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-10-14 14:00",
+    "time_id": "20251014.1400",
+    "ut": 1760430600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2025__1760433159.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Severe Lightning",
     "time_str": "2025-10-14 12:00",
     "time_id": "20251014.1200",
