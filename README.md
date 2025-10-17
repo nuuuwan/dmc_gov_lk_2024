@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**663/670** documents downloaded.
+**664/671** documents downloaded.
 
+* [2025-10-17 16:00 Landslide Early Warning](data/landslide-warnings/20251017.1600.landslide-early-warning.pdf)
 * [2025-10-16 16:00 Weather forecast](data/landslide-warnings/20251016.1600.weather-forecast.pdf)
 * [2025-10-15 19:30 Landslide Early Warning](data/landslide-warnings/20251015.1930.landslide-early-warning.pdf)
 * [2025-10-13 21:00 Landslide Early Warning](data/landslide-warnings/20251013.2100.landslide-early-warning.pdf)
@@ -15,7 +16,6 @@
 * [2025-09-26 16:00 Landslide Early Warning](data/landslide-warnings/20250926.1600.landslide-early-warning.pdf)
 * [2025-09-25 22:00 Landslide Early Warning](data/landslide-warnings/20250925.2200.landslide-early-warning.pdf)
 * [2025-09-19 10:00 Landslide Early Warning Report](data/landslide-warnings/20250919.1000.landslide-early-warning-report.pdf)
-* [2025-06-17 16:00 Landslide Early Warning](data/landslide-warnings/20250617.1600.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -57,8 +57,10 @@
 
 ## Weather Reports
 
-**10250/10496** documents downloaded.
+**10252/10498** documents downloaded.
 
+* [2025-10-17 16:00 Weather Forcast](data/weather-reports/20251017.1600.weather-forcast.pdf)
+* [2025-10-17 15:15 Advisory for Heavy Rain](data/weather-reports/20251017.1515.advisory-for-heavy-rain.pdf)
 * [2025-10-17 14:00 Weather Forcast](data/weather-reports/20251017.1400.weather-forcast.pdf)
 * [2025-10-17 12:30 Advisory for Severe Lightning](data/weather-reports/20251017.1230.advisory-for-severe-lightning.pdf)
 * [2025-10-17 07:00 Weather Forcast for coastal areas](data/weather-reports/20251017.0700.weather-forcast-for-coastal-areas.pdf)
@@ -67,8 +69,6 @@
 * [2025-10-16 14:00 Weather Report](data/weather-reports/20251016.1400.weather-report.pdf)
 * [2025-10-16 12:00 Advisory for Severe Lightning](data/weather-reports/20251016.1200.advisory-for-severe-lightning.pdf)
 * [2025-10-16 05:30 Weather Forcast](data/weather-reports/20251016.0530.weather-forcast.pdf)
-* [2025-10-15 16:00 Weather Forecast](data/weather-reports/20251015.1600.weather-forecast.pdf)
-* [2025-10-15 15:00 Advisory for Heavy Rain](data/weather-reports/20251015.1500.advisory-for-heavy-rain.pdf)
 
 ## River Water Level And Flood Warnings
 
