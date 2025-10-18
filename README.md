@@ -79,8 +79,10 @@
 
 ## Situation Reports
 
-**4452/4517** documents downloaded.
+**4454/4519** documents downloaded.
 
+* [2025-10-18 09:00 Situation Report](data/situation-reports/20251018.0900.situation-report.pdf)
+* [2025-10-18 09:00 Drought Situation Report](data/situation-reports/20251018.0900.drought-situation-report.pdf)
 * [2025-10-17 09:00 Situation Report](data/situation-reports/20251017.0900.situation-report.pdf)
 * [2025-10-17 09:00 Drought Situation Report](data/situation-reports/20251017.0900.drought-situation-report.pdf)
 * [2025-10-16 09:00 Situation Report](data/situation-reports/20251016.0900.situation-report.pdf)
@@ -89,8 +91,6 @@
 * [2025-10-15 09:00 Drought Situation Report](data/situation-reports/20251015.0900.drought-situation-report.pdf)
 * [2025-10-14 09:00 Situation Report](data/situation-reports/20251014.0900.situation-report.pdf)
 * [2025-10-14 09:00 Drought Situation Report](data/situation-reports/20251014.0900.drought-situation-report.pdf)
-* [2025-10-13 09:00 Situation Report](data/situation-reports/20251013.0900.situation-report.pdf)
-* [2025-10-13 09:00 Drought Situation Report](data/situation-reports/20251013.0900.drought-situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
