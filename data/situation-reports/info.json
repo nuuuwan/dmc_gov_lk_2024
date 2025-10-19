@@ -1,6 +1,22 @@
 [
   {
     "name": "Situation Report",
+    "time_str": "2025-10-19 09:00",
+    "time_id": "20251019.0900",
+    "ut": 1760844600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_on_2025__1760844920.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Drought Situation Report",
+    "time_str": "2025-10-19 09:00",
+    "time_id": "20251019.0900",
+    "ut": 1760844600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Drought_Situation_Report_on_2025__1760845229.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Situation Report",
     "time_str": "2025-10-18 09:00",
     "time_id": "20251018.0900",
     "ut": 1760758200.0,

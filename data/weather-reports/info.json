@@ -1,5 +1,21 @@
 [
   {
+    "name": "Advisory for Heavy Rain ",
+    "time_str": "2025-10-19 08:30",
+    "time_id": "20251019.0830",
+    "ut": 1760842800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_0830hrs_on_19__1760844073.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Heavy Rain (Tamil)",
+    "time_str": "2025-10-19 08:30",
+    "time_id": "20251019.0830",
+    "ut": 1760842800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_0830hrs_on_19__1760845454.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-10-19 05:30",
     "time_id": "20251019.0530",
