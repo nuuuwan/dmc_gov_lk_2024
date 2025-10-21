@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**671/678** documents downloaded.
+**672/679** documents downloaded.
 
+* [2025-10-21 17:00 Lanslide Early Warning](data/landslide-warnings/20251021.1700.lanslide-early-warning.pdf)
 * [2025-10-21 05:30 Landslide Early Warning](data/landslide-warnings/20251021.0530.landslide-early-warning.pdf)
 * [2025-10-20 20:30 Landslide Early Warning](data/landslide-warnings/20251020.2030.landslide-early-warning.pdf)
 * [2025-10-20 16:00 Landslide EW Report](data/landslide-warnings/20251020.1600.landslide-ew-report.pdf)
@@ -15,7 +16,6 @@
 * [2025-10-17 19:30 Landslide Early Warning](data/landslide-warnings/20251017.1930.landslide-early-warning.pdf)
 * [2025-10-17 16:00 Landslide Early Warning](data/landslide-warnings/20251017.1600.landslide-early-warning.pdf)
 * [2025-10-16 16:00 Weather forecast](data/landslide-warnings/20251016.1600.weather-forecast.pdf)
-* [2025-10-15 19:30 Landslide Early Warning](data/landslide-warnings/20251015.1930.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -72,8 +72,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1757/2074** documents downloaded.
+**1758/2075** documents downloaded.
 
+* [2025-10-21 18:00 Water Level](data/river-water-level-and-flood-warnings/20251021.1800.water-level.pdf)
 * [2025-10-21 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251021.1530.water-level-rainfall.pdf)
 * [2025-10-21 13:00 Deduru Oya Flood warning](data/river-water-level-and-flood-warnings/20251021.1300.deduru-oya-flood-warning.pdf)
 * [2025-10-21 12:30 water level](data/river-water-level-and-flood-warnings/20251021.1230.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-10-20 21:30 water level](data/river-water-level-and-flood-warnings/20251020.2130.water-level.pdf)
 * [2025-10-20 18:00 water level](data/river-water-level-and-flood-warnings/20251020.1800.water-level.pdf)
 * [2025-10-20 15:30 water level](data/river-water-level-and-flood-warnings/20251020.1530.water-level.pdf)
-* [2025-10-20 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251020.1230.water-level-rainfall.pdf)
 
 ## Flood Inundation Maps
 
