@@ -1,5 +1,13 @@
 [
   {
+    "name": "Water level  Rainfall",
+    "time_str": "2025-10-21 15:30",
+    "time_id": "20251021.1530",
+    "ut": 1761040800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1761041416.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Deduru Oya Flood warning ",
     "time_str": "2025-10-21 13:00",
     "time_id": "20251021.1300",
