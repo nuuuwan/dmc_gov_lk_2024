@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**670/677** documents downloaded.
+**671/678** documents downloaded.
 
+* [2025-10-21 05:30 Landslide Early Warning](data/landslide-warnings/20251021.0530.landslide-early-warning.pdf)
 * [2025-10-20 20:30 Landslide Early Warning](data/landslide-warnings/20251020.2030.landslide-early-warning.pdf)
 * [2025-10-20 16:00 Landslide EW Report](data/landslide-warnings/20251020.1600.landslide-ew-report.pdf)
 * [2025-10-19 21:30 Landslide Early Warning](data/landslide-warnings/20251019.2130.landslide-early-warning.pdf)
@@ -15,7 +16,6 @@
 * [2025-10-17 16:00 Landslide Early Warning](data/landslide-warnings/20251017.1600.landslide-early-warning.pdf)
 * [2025-10-16 16:00 Weather forecast](data/landslide-warnings/20251016.1600.weather-forecast.pdf)
 * [2025-10-15 19:30 Landslide Early Warning](data/landslide-warnings/20251015.1930.landslide-early-warning.pdf)
-* [2025-10-13 21:00 Landslide Early Warning](data/landslide-warnings/20251013.2100.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10271/10517** documents downloaded.
+**10272/10518** documents downloaded.
 
+* [2025-10-21 05:30 Weather Forecast](data/weather-reports/20251021.0530.weather-forecast.pdf)
 * [2025-10-20 16:00 Weather Forecast](data/weather-reports/20251020.1600.weather-forecast.pdf)
 * [2025-10-20 14:30 Advisory for strong winds and rough seas](data/weather-reports/20251020.1430.advisory-for-strong-winds-and-rough-seas.pdf)
 * [2025-10-20 14:30 Advisory for strong winds and rough seas (Tamil)](data/weather-reports/20251020.1430.advisory-for-strong-winds-and-rough-seas-tamil.pdf)
@@ -68,7 +69,6 @@
 * [2025-10-20 05:30 Weather Forecast](data/weather-reports/20251020.0530.weather-forecast.pdf)
 * [2025-10-19 16:00 Weather Forecast](data/weather-reports/20251019.1600.weather-forecast.pdf)
 * [2025-10-19 15:50 Advisory for Severe Lightning (Tamil)](data/weather-reports/20251019.1550.advisory-for-severe-lightning-tamil.pdf)
-* [2025-10-19 14:00 Weather Forecast](data/weather-reports/20251019.1400.weather-forecast.pdf)
 
 ## River Water Level And Flood Warnings
 
