@@ -72,8 +72,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1762/2079** documents downloaded.
+**1763/2080** documents downloaded.
 
+* [2025-10-22 09:00 water level](data/river-water-level-and-flood-warnings/20251022.0900.water-level.pdf)
 * [2025-10-22 06:30 water level](data/river-water-level-and-flood-warnings/20251022.0630.water-level.pdf)
 * [2025-10-22 03:30 water level](data/river-water-level-and-flood-warnings/20251022.0330.water-level.pdf)
 * [2025-10-22 00:30 Water Level](data/river-water-level-and-flood-warnings/20251022.0030.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-10-21 13:00 Deduru Oya Flood warning](data/river-water-level-and-flood-warnings/20251021.1300.deduru-oya-flood-warning.pdf)
 * [2025-10-21 12:30 water level](data/river-water-level-and-flood-warnings/20251021.1230.water-level.pdf)
 * [2025-10-21 09:30 water level](data/river-water-level-and-flood-warnings/20251021.0930.water-level.pdf)
-* [2025-10-21 03:30 water level](data/river-water-level-and-flood-warnings/20251021.0330.water-level.pdf)
 
 ## Flood Inundation Maps
 
