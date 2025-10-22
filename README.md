@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10278/10524** documents downloaded.
+**10279/10525** documents downloaded.
 
+* [2025-10-22 13:00 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251022.1300.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
 * [2025-10-22 05:30 Weather Forcast](data/weather-reports/20251022.0530.weather-forcast.pdf)
 * [2025-10-21 16:00 Weather Forcast](data/weather-reports/20251021.1600.weather-forcast.pdf)
 * [2025-10-21 14:00 Weather Forcast](data/weather-reports/20251021.1400.weather-forcast.pdf)
@@ -68,7 +69,6 @@
 * [2025-10-21 05:30 Weather Forecast](data/weather-reports/20251021.0530.weather-forecast.pdf)
 * [2025-10-20 16:00 Weather Forecast](data/weather-reports/20251020.1600.weather-forecast.pdf)
 * [2025-10-20 14:30 Advisory for strong winds and rough seas](data/weather-reports/20251020.1430.advisory-for-strong-winds-and-rough-seas.pdf)
-* [2025-10-20 14:30 Advisory for strong winds and rough seas (Tamil)](data/weather-reports/20251020.1430.advisory-for-strong-winds-and-rough-seas-tamil.pdf)
 
 ## River Water Level And Flood Warnings
 
