@@ -1,5 +1,21 @@
 [
   {
+    "name": "Fishermen bulletin for strong winds and rough seas ",
+    "time_str": "2025-10-22 15:00",
+    "time_id": "20251022.1500",
+    "ut": 1761125400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Fishermen_bulletin_for_strong_winds_and_rough_seas_at_1500hrs_on_22__1761126455.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-10-22 14:00",
+    "time_id": "20251022.1400",
+    "ut": 1761121800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2025__1761123939.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for strong winds heavy showers and rough seas",
     "time_str": "2025-10-22 13:00",
     "time_id": "20251022.1300",
