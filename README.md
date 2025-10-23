@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**673/680** documents downloaded.
+**674/681** documents downloaded.
 
+* [2025-10-23 16:00 Landslide Ew Report](data/landslide-warnings/20251023.1600.landslide-ew-report.pdf)
 * [2025-10-22 16:00 Landslide Ew Report](data/landslide-warnings/20251022.1600.landslide-ew-report.pdf)
 * [2025-10-21 17:00 Lanslide Early Warning](data/landslide-warnings/20251021.1700.lanslide-early-warning.pdf)
 * [2025-10-21 05:30 Landslide Early Warning](data/landslide-warnings/20251021.0530.landslide-early-warning.pdf)
@@ -15,7 +16,6 @@
 * [2025-10-19 16:00 Landslide EW Report](data/landslide-warnings/20251019.1600.landslide-ew-report.pdf)
 * [2025-10-18 19:00 Landslide Early Warning](data/landslide-warnings/20251018.1900.landslide-early-warning.pdf)
 * [2025-10-17 19:30 Landslide Early Warning](data/landslide-warnings/20251017.1930.landslide-early-warning.pdf)
-* [2025-10-17 16:00 Landslide Early Warning](data/landslide-warnings/20251017.1600.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10286/10532** documents downloaded.
+**10287/10533** documents downloaded.
 
+* [2025-10-23 16:00 Weather Forecast](data/weather-reports/20251023.1600.weather-forecast.pdf)
 * [2025-10-23 14:30 Warning for strong winds and rough seas](data/weather-reports/20251023.1430.warning-for-strong-winds-and-rough-seas.pdf)
 * [2025-10-23 14:00 Weather Forcast](data/weather-reports/20251023.1400.weather-forcast.pdf)
 * [2025-10-23 13:00 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251023.1300.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
@@ -68,12 +69,12 @@
 * [2025-10-22 14:00 Weather Forcast](data/weather-reports/20251022.1400.weather-forcast.pdf)
 * [2025-10-22 13:00 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251022.1300.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
 * [2025-10-22 05:30 Weather Forcast](data/weather-reports/20251022.0530.weather-forcast.pdf)
-* [2025-10-21 16:00 Weather Forcast](data/weather-reports/20251021.1600.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1772/2089** documents downloaded.
+**1773/2090** documents downloaded.
 
+* [2025-10-23 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251023.1530.water-level-rainfall.pdf)
 * [2025-10-23 12:00 water level](data/river-water-level-and-flood-warnings/20251023.1200.water-level.pdf)
 * [2025-10-23 09:30 water level](data/river-water-level-and-flood-warnings/20251023.0930.water-level.pdf)
 * [2025-10-23 03:30 water level](data/river-water-level-and-flood-warnings/20251023.0330.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-10-22 16:00 Withdrawal of Flood warning](data/river-water-level-and-flood-warnings/20251022.1600.withdrawal-of-flood-warning.pdf)
 * [2025-10-22 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251022.1530.water-level-rainfall.pdf)
 * [2025-10-22 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251022.1230.water-level-rainfall.pdf)
-* [2025-10-22 09:00 water level](data/river-water-level-and-flood-warnings/20251022.0900.water-level.pdf)
 
 ## Flood Inundation Maps
 
