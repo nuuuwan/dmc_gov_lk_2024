@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10292/10538** documents downloaded.
+**10293/10539** documents downloaded.
 
+* [2025-10-24 17:00 Warning for strong winds and rough seas](data/weather-reports/20251024.1700.warning-for-strong-winds-and-rough-seas.pdf)
 * [2025-10-24 16:00 Weather Forecast](data/weather-reports/20251024.1600.weather-forecast.pdf)
 * [2025-10-24 14:00 Weather Forecast](data/weather-reports/20251024.1400.weather-forecast.pdf)
 * [2025-10-24 14:00 Weather Forecast (Tamil)](data/weather-reports/20251024.1400.weather-forecast-tamil.pdf)
@@ -68,12 +69,12 @@
 * [2025-10-23 14:30 Warning for strong winds and rough seas](data/weather-reports/20251023.1430.warning-for-strong-winds-and-rough-seas.pdf)
 * [2025-10-23 14:00 Weather Forcast](data/weather-reports/20251023.1400.weather-forcast.pdf)
 * [2025-10-23 13:00 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251023.1300.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
-* [2025-10-23 05:30 Weather Forcast](data/weather-reports/20251023.0530.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1781/2097** documents downloaded.
+**1782/2098** documents downloaded.
 
+* [2025-10-24 18:30 Water Level](data/river-water-level-and-flood-warnings/20251024.1830.water-level.pdf)
 * [2025-10-24 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251024.1530.water-level-rainfall.pdf)
 * [2025-10-24 12:30 water level](data/river-water-level-and-flood-warnings/20251024.1230.water-level.pdf)
 * [2025-10-24 09:00 water level](data/river-water-level-and-flood-warnings/20251024.0900.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-10-23 18:30 Water Level](data/river-water-level-and-flood-warnings/20251023.1830.water-level.pdf)
 * [2025-10-23 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251023.1530.water-level-rainfall.pdf)
 * [2025-10-23 12:00 water level](data/river-water-level-and-flood-warnings/20251023.1200.water-level.pdf)
-* [2025-10-23 09:30 water level](data/river-water-level-and-flood-warnings/20251023.0930.water-level.pdf)
 
 ## Flood Inundation Maps
 
