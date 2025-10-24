@@ -1,6 +1,14 @@
 [
   {
     "name": "Landslide Ew Report ",
+    "time_str": "2025-10-24 16:00",
+    "time_id": "20251024.1600",
+    "ut": 1761301800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Landslide_Ew_Report_at_1600hrs_on_2025__1761302857.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Landslide Ew Report ",
     "time_str": "2025-10-23 16:00",
     "time_id": "20251023.1600",
     "ut": 1761215400.0,
