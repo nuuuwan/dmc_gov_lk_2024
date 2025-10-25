@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10294/10540** documents downloaded.
+**10295/10541** documents downloaded.
 
+* [2025-10-25 12:00 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251025.1200.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
 * [2025-10-25 05:30 Weather Forcast](data/weather-reports/20251025.0530.weather-forcast.pdf)
 * [2025-10-24 17:00 Warning for strong winds and rough seas](data/weather-reports/20251024.1700.warning-for-strong-winds-and-rough-seas.pdf)
 * [2025-10-24 16:00 Weather Forecast](data/weather-reports/20251024.1600.weather-forecast.pdf)
@@ -68,13 +69,13 @@
 * [2025-10-24 05:30 Weather Forcast](data/weather-reports/20251024.0530.weather-forcast.pdf)
 * [2025-10-23 16:00 Weather Forecast](data/weather-reports/20251023.1600.weather-forecast.pdf)
 * [2025-10-23 14:30 Warning for strong winds and rough seas](data/weather-reports/20251023.1430.warning-for-strong-winds-and-rough-seas.pdf)
-* [2025-10-23 14:00 Weather Forcast](data/weather-reports/20251023.1400.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1788/2104** documents downloaded.
+**1790/2105** documents downloaded.
 
-* [2025-10-25 21:30 water level](data/river-water-level-and-flood-warnings/20251025.2130.water-level.pdf)
+* [2025-10-25 12:45 Flood Warning for Kuda Ganga Sub Basin of Kalu River  NO 0 (Tamil)](data/river-water-level-and-flood-warnings/20251025.1245.flood-warning-for-kuda-ganga-sub-basin-of-kalu-river-no-0-tamil.pdf)
+* [2025-10-25 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251025.1230.water-level-rainfall.pdf)
 * [2025-10-25 11:30 Flood Warning for Kuda Ganga SubBasin Of Kalu River  NO 01](data/river-water-level-and-flood-warnings/20251025.1130.flood-warning-for-kuda-ganga-subbasin-of-kalu-river-no-01.pdf)
 * [2025-10-25 09:30 water level](data/river-water-level-and-flood-warnings/20251025.0930.water-level.pdf)
 * [2025-10-25 06:30 water level](data/river-water-level-and-flood-warnings/20251025.0630.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-10-24 18:30 Water Level](data/river-water-level-and-flood-warnings/20251024.1830.water-level.pdf)
 * [2025-10-24 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251024.1530.water-level-rainfall.pdf)
 * [2025-10-24 12:30 water level](data/river-water-level-and-flood-warnings/20251024.1230.water-level.pdf)
-* [2025-10-24 09:00 water level](data/river-water-level-and-flood-warnings/20251024.0900.water-level.pdf)
 
 ## Flood Inundation Maps
 
