@@ -72,8 +72,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1791/2106** documents downloaded.
+**1792/2107** documents downloaded.
 
+* [2025-10-25 18:30 Water Level](data/river-water-level-and-flood-warnings/20251025.1830.water-level.pdf)
 * [2025-10-25 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251025.1530.water-level-rainfall.pdf)
 * [2025-10-25 12:45 Flood Warning for Kuda Ganga Sub Basin of Kalu River  NO 0 (Tamil)](data/river-water-level-and-flood-warnings/20251025.1245.flood-warning-for-kuda-ganga-sub-basin-of-kalu-river-no-0-tamil.pdf)
 * [2025-10-25 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251025.1230.water-level-rainfall.pdf)
@@ -83,7 +84,6 @@
 * [2025-10-25 03:30 water level](data/river-water-level-and-flood-warnings/20251025.0330.water-level.pdf)
 * [2025-10-25 00:30 water level](data/river-water-level-and-flood-warnings/20251025.0030.water-level.pdf)
 * [2025-10-24 18:30 Water Level](data/river-water-level-and-flood-warnings/20251024.1830.water-level.pdf)
-* [2025-10-24 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251024.1530.water-level-rainfall.pdf)
 
 ## Flood Inundation Maps
 
