@@ -1,5 +1,13 @@
 [
   {
+    "name": "Water level  Rainfall ",
+    "time_str": "2025-10-25 15:30",
+    "time_id": "20251025.1530",
+    "ut": 1761386400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1761386405.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Flood Warning for Kuda Ganga Sub Basin of Kalu River  NO 0 (Tamil)",
     "time_str": "2025-10-25 12:45",
     "time_id": "20251025.1245",
