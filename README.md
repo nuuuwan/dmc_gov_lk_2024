@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**675/682** documents downloaded.
+**676/683** documents downloaded.
 
+* [2025-10-25 16:00 Landslide Ew Report](data/landslide-warnings/20251025.1600.landslide-ew-report.pdf)
 * [2025-10-24 16:00 Landslide Ew Report](data/landslide-warnings/20251024.1600.landslide-ew-report.pdf)
 * [2025-10-23 16:00 Landslide Ew Report](data/landslide-warnings/20251023.1600.landslide-ew-report.pdf)
 * [2025-10-22 16:00 Landslide Ew Report](data/landslide-warnings/20251022.1600.landslide-ew-report.pdf)
@@ -15,7 +16,6 @@
 * [2025-10-20 16:00 Landslide EW Report](data/landslide-warnings/20251020.1600.landslide-ew-report.pdf)
 * [2025-10-19 21:30 Landslide Early Warning](data/landslide-warnings/20251019.2130.landslide-early-warning.pdf)
 * [2025-10-19 16:00 Landslide EW Report](data/landslide-warnings/20251019.1600.landslide-ew-report.pdf)
-* [2025-10-18 19:00 Landslide Early Warning](data/landslide-warnings/20251018.1900.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10298/10544** documents downloaded.
+**10299/10545** documents downloaded.
 
+* [2025-10-25 16:00 Weather Forecast](data/weather-reports/20251025.1600.weather-forecast.pdf)
 * [2025-10-25 14:00 Weather Forecast](data/weather-reports/20251025.1400.weather-forecast.pdf)
 * [2025-10-25 14:00 Weather Forecast(Tamil)](data/weather-reports/20251025.1400.weather-forecasttamil.pdf)
 * [2025-10-25 13:30 Advisory for strong winds heavy showers and rough seas (Tamil)](data/weather-reports/20251025.1330.advisory-for-strong-winds-heavy-showers-and-rough-seas-tamil.pdf)
@@ -68,7 +69,6 @@
 * [2025-10-24 16:00 Weather Forecast](data/weather-reports/20251024.1600.weather-forecast.pdf)
 * [2025-10-24 14:00 Weather Forecast](data/weather-reports/20251024.1400.weather-forecast.pdf)
 * [2025-10-24 14:00 Weather Forecast (Tamil)](data/weather-reports/20251024.1400.weather-forecast-tamil.pdf)
-* [2025-10-24 10:45 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251024.1045.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
 
 ## River Water Level And Flood Warnings
 
