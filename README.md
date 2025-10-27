@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**4464/4530** documents downloaded.
+**4465/4531** documents downloaded.
 
+* [2025-10-27 09:00 Situation Report](data/situation-reports/20251027.0900.situation-report.pdf)
 * [2025-10-26 10:30 Situation Report](data/situation-reports/20251026.1030.situation-report.pdf)
 * [2025-10-25 09:00 Situation Report](data/situation-reports/20251025.0900.situation-report.pdf)
 * [2025-10-24 10:00 Situation Report](data/situation-reports/20251024.1000.situation-report.pdf)
@@ -45,7 +46,6 @@
 * [2025-10-21 10:00 Situation Report](data/situation-reports/20251021.1000.situation-report.pdf)
 * [2025-10-20 09:00 Situation Report](data/situation-reports/20251020.0900.situation-report.pdf)
 * [2025-10-20 09:00 Drought Situation Report](data/situation-reports/20251020.0900.drought-situation-report.pdf)
-* [2025-10-19 09:00 Drought Situation Report](data/situation-reports/20251019.0900.drought-situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10306/10552** documents downloaded.
+**10307/10553** documents downloaded.
 
+* [2025-10-27 08:30 Advisory for Strong winds](data/weather-reports/20251027.0830.advisory-for-strong-winds.pdf)
 * [2025-10-27 07:00 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251027.0700.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
 * [2025-10-27 05:30 Weather Forcast](data/weather-reports/20251027.0530.weather-forcast.pdf)
 * [2025-10-26 16:00 Weather Forcast](data/weather-reports/20251026.1600.weather-forcast.pdf)
@@ -68,7 +69,6 @@
 * [2025-10-26 05:30 Weather Forcast](data/weather-reports/20251026.0530.weather-forcast.pdf)
 * [2025-10-25 16:00 Weather Forecast](data/weather-reports/20251025.1600.weather-forecast.pdf)
 * [2025-10-25 14:00 Weather Forecast](data/weather-reports/20251025.1400.weather-forecast.pdf)
-* [2025-10-25 14:00 Weather Forecast(Tamil)](data/weather-reports/20251025.1400.weather-forecasttamil.pdf)
 
 ## River Water Level And Flood Warnings
 
