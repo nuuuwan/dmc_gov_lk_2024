@@ -1,5 +1,13 @@
 [
   {
+    "name": "Advisory for strong winds heavy showers and rough seas",
+    "time_str": "2025-10-27 07:00",
+    "time_id": "20251027.0700",
+    "ut": 1761528600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds,_heavy_showers_and_rough_seas__0700hrs_on_27__1761530878.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-10-27 05:30",
     "time_id": "20251027.0530",
