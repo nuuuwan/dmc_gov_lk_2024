@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10307/10553** documents downloaded.
+**10308/10554** documents downloaded.
 
+* [2025-10-27 14:00 Weather Forcast](data/weather-reports/20251027.1400.weather-forcast.pdf)
 * [2025-10-27 08:30 Advisory for Strong winds](data/weather-reports/20251027.0830.advisory-for-strong-winds.pdf)
 * [2025-10-27 07:00 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251027.0700.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
 * [2025-10-27 05:30 Weather Forcast](data/weather-reports/20251027.0530.weather-forcast.pdf)
@@ -68,12 +69,12 @@
 * [2025-10-26 08:30 Advisory for Strong winds](data/weather-reports/20251026.0830.advisory-for-strong-winds.pdf)
 * [2025-10-26 05:30 Weather Forcast](data/weather-reports/20251026.0530.weather-forcast.pdf)
 * [2025-10-25 16:00 Weather Forecast](data/weather-reports/20251025.1600.weather-forecast.pdf)
-* [2025-10-25 14:00 Weather Forecast](data/weather-reports/20251025.1400.weather-forecast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1799/2115** documents downloaded.
+**1800/2116** documents downloaded.
 
+* [2025-10-27 15:00 Withdrawal of Flood warning Kudaganga Sub Basin of Kalu River](data/river-water-level-and-flood-warnings/20251027.1500.withdrawal-of-flood-warning-kudaganga-sub-basin-of-kalu-river.pdf)
 * [2025-10-27 09:00 Water Level](data/river-water-level-and-flood-warnings/20251027.0900.water-level.pdf)
 * [2025-10-26 15:30 water level](data/river-water-level-and-flood-warnings/20251026.1530.water-level.pdf)
 * [2025-10-26 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251026.1230.water-level-rainfall.pdf)
@@ -83,7 +84,6 @@
 * [2025-10-26 00:30 water level](data/river-water-level-and-flood-warnings/20251026.0030.water-level.pdf)
 * [2025-10-25 21:30 water level](data/river-water-level-and-flood-warnings/20251025.2130.water-level.pdf)
 * [2025-10-25 18:30 Water Level](data/river-water-level-and-flood-warnings/20251025.1830.water-level.pdf)
-* [2025-10-25 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251025.1530.water-level-rainfall.pdf)
 
 ## Flood Inundation Maps
 
