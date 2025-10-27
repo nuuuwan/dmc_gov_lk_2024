@@ -1,5 +1,13 @@
 [
   {
+    "name": "Fishermen bulletin for strong winds and rough seas",
+    "time_str": "2025-10-27 15:00",
+    "time_id": "20251027.1500",
+    "ut": 1761557400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Fishermen_bulletin_for_strong_winds_and_rough_seas_1500hrs_on_27__1761559501.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-10-27 14:00",
     "time_id": "20251027.1400",
