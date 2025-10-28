@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**678/685** documents downloaded.
+**679/686** documents downloaded.
 
+* [2025-10-28 16:00 Landslide Early Warning](data/landslide-warnings/20251028.1600.landslide-early-warning.pdf)
 * [2025-10-27 16:00 Landslide Early Warning](data/landslide-warnings/20251027.1600.landslide-early-warning.pdf)
 * [2025-10-26 16:00 Landslide Early Warning](data/landslide-warnings/20251026.1600.landslide-early-warning.pdf)
 * [2025-10-25 16:00 Landslide Ew Report](data/landslide-warnings/20251025.1600.landslide-ew-report.pdf)
@@ -15,7 +16,6 @@
 * [2025-10-21 17:00 Lanslide Early Warning](data/landslide-warnings/20251021.1700.lanslide-early-warning.pdf)
 * [2025-10-21 05:30 Landslide Early Warning](data/landslide-warnings/20251021.0530.landslide-early-warning.pdf)
 * [2025-10-20 20:30 Landslide Early Warning](data/landslide-warnings/20251020.2030.landslide-early-warning.pdf)
-* [2025-10-20 16:00 Landslide EW Report](data/landslide-warnings/20251020.1600.landslide-ew-report.pdf)
 
 ## Earthquakes
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10314/10561** documents downloaded.
+**10315/10562** documents downloaded.
 
+* [2025-10-28 16:00 Weather Forcast](data/weather-reports/20251028.1600.weather-forcast.pdf)
 * [2025-10-28 14:00 Weather Forcast](data/weather-reports/20251028.1400.weather-forcast.pdf)
 * [2025-10-28 11:00 The Advisory for Strong winds Report](data/weather-reports/20251028.1100.the-advisory-for-strong-winds-report.pdf)
 * [2025-10-28 07:00 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251028.0700.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
@@ -68,7 +69,6 @@
 * [2025-10-27 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20251027.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2025-10-27 14:00 Weather Forcast](data/weather-reports/20251027.1400.weather-forcast.pdf)
 * [2025-10-27 08:30 Advisory for Strong winds](data/weather-reports/20251027.0830.advisory-for-strong-winds.pdf)
-* [2025-10-27 07:00 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251027.0700.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
 
 ## River Water Level And Flood Warnings
 
