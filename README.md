@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**4467/4533** documents downloaded.
+**4468/4534** documents downloaded.
 
+* [2025-10-30 09:00 Situation Report](data/situation-reports/20251030.0900.situation-report.pdf)
 * [2025-10-29 09:00 Situation Report](data/situation-reports/20251029.0900.situation-report.pdf)
 * [2025-10-28 09:00 Situation Report](data/situation-reports/20251028.0900.situation-report.pdf)
 * [2025-10-27 09:00 Situation Report](data/situation-reports/20251027.0900.situation-report.pdf)
@@ -44,7 +45,6 @@
 * [2025-10-24 10:00 Situation Report](data/situation-reports/20251024.1000.situation-report.pdf)
 * [2025-10-23 11:00 Situation Report](data/situation-reports/20251023.1100.situation-report.pdf)
 * [2025-10-22 11:00 Situation Report](data/situation-reports/20251022.1100.situation-report.pdf)
-* [2025-10-21 10:00 Situation Report](data/situation-reports/20251021.1000.situation-report.pdf)
 * [2025-10-21 10:00 Situation Report](data/situation-reports/20251021.1000.situation-report.pdf)
 
 ## Emergency Response Data Viewer
@@ -72,8 +72,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1800/2116** documents downloaded.
+**1801/2117** documents downloaded.
 
+* [2025-10-30 09:30 Water Level](data/river-water-level-and-flood-warnings/20251030.0930.water-level.pdf)
 * [2025-10-27 15:00 Withdrawal of Flood warning Kudaganga Sub Basin of Kalu River](data/river-water-level-and-flood-warnings/20251027.1500.withdrawal-of-flood-warning-kudaganga-sub-basin-of-kalu-river.pdf)
 * [2025-10-27 09:00 Water Level](data/river-water-level-and-flood-warnings/20251027.0900.water-level.pdf)
 * [2025-10-26 15:30 water level](data/river-water-level-and-flood-warnings/20251026.1530.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-10-26 03:30 water level](data/river-water-level-and-flood-warnings/20251026.0330.water-level.pdf)
 * [2025-10-26 00:30 water level](data/river-water-level-and-flood-warnings/20251026.0030.water-level.pdf)
 * [2025-10-25 21:30 water level](data/river-water-level-and-flood-warnings/20251025.2130.water-level.pdf)
-* [2025-10-25 18:30 Water Level](data/river-water-level-and-flood-warnings/20251025.1830.water-level.pdf)
 
 ## Flood Inundation Maps
 
