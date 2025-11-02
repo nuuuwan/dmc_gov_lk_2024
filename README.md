@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10330/10578** documents downloaded.
+**10331/10579** documents downloaded.
 
+* [2025-11-02 14:00 Weather Forecast](data/weather-reports/20251102.1400.weather-forecast.pdf)
 * [2025-11-02 05:30 Weather Forcast](data/weather-reports/20251102.0530.weather-forcast.pdf)
 * [2025-11-01 16:00 Weather Forecast](data/weather-reports/20251101.1600.weather-forecast.pdf)
 * [2025-11-01 14:00 Weather Forcast](data/weather-reports/20251101.1400.weather-forcast.pdf)
@@ -68,7 +69,6 @@
 * [2025-10-31 14:00 Weather Report](data/weather-reports/20251031.1400.weather-report.pdf)
 * [2025-10-31 07:00 Weather Forcast For Multiday Boats](data/weather-reports/20251031.0700.weather-forcast-for-multiday-boats.pdf)
 * [2025-10-31 05:30 Weather Forcast](data/weather-reports/20251031.0530.weather-forcast.pdf)
-* [2025-10-30 14:00 Weather Forcast](data/weather-reports/20251030.1400.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
