@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**4472/4538** documents downloaded.
+**4473/4539** documents downloaded.
 
+* [2025-11-06 09:00 Situation Report](data/situation-reports/20251106.0900.situation-report.pdf)
 * [2025-11-04 09:00 Situation Report](data/situation-reports/20251104.0900.situation-report.pdf)
 * [2025-11-03 09:00 Situation Report](data/situation-reports/20251103.0900.situation-report.pdf)
 * [2025-11-02 09:00 Situation Report](data/situation-reports/20251102.0900.situation-report.pdf)
@@ -45,7 +46,6 @@
 * [2025-10-28 09:00 Situation Report](data/situation-reports/20251028.0900.situation-report.pdf)
 * [2025-10-27 09:00 Situation Report](data/situation-reports/20251027.0900.situation-report.pdf)
 * [2025-10-26 10:30 Situation Report](data/situation-reports/20251026.1030.situation-report.pdf)
-* [2025-10-25 09:00 Situation Report](data/situation-reports/20251025.0900.situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -72,8 +72,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1803/2119** documents downloaded.
+**1804/2120** documents downloaded.
 
+* [2025-11-06 09:00 Water Level](data/river-water-level-and-flood-warnings/20251106.0900.water-level.pdf)
 * [2025-11-03 09:00 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251103.0900.water-level-rainfall.pdf)
 * [2025-11-01 10:00 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251101.1000.water-level-rainfall.pdf)
 * [2025-10-30 09:30 Water Level](data/river-water-level-and-flood-warnings/20251030.0930.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-10-26 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251026.1230.water-level-rainfall.pdf)
 * [2025-10-26 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251026.0930.water-level-rainfall.pdf)
 * [2025-10-26 06:30 water level](data/river-water-level-and-flood-warnings/20251026.0630.water-level.pdf)
-* [2025-10-26 03:30 water level](data/river-water-level-and-flood-warnings/20251026.0330.water-level.pdf)
 
 ## Flood Inundation Maps
 
