@@ -1,10 +1,26 @@
 [
   {
+    "name": "Weather Advisory",
+    "time_str": "2025-11-07 15:00",
+    "time_id": "20251107.1500",
+    "ut": 1762507800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_Report_at_1500hrs_on_2025__1762508674.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-11-07 14:00",
     "time_id": "20251107.1400",
     "ut": 1762504200.0,
     "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_on_07__1762505288.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast (Tamil)",
+    "time_str": "2025-11-07 14:00",
+    "time_id": "20251107.1400",
+    "ut": 1762504200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_on_07__1762506254.pdf",
     "ext": "pdf"
   },
   {
