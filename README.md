@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10374/10622** documents downloaded.
+**10375/10623** documents downloaded.
 
+* [2025-11-14 12:30 Advisory for Severe Lightning](data/weather-reports/20251114.1230.advisory-for-severe-lightning.pdf)
 * [2025-11-14 05:30 Weather Forcast](data/weather-reports/20251114.0530.weather-forcast.pdf)
 * [2025-11-13 16:00 Weather Forecast](data/weather-reports/20251113.1600.weather-forecast.pdf)
 * [2025-11-13 14:00 Weather Forecast](data/weather-reports/20251113.1400.weather-forecast.pdf)
@@ -68,12 +69,12 @@
 * [2025-11-12 15:00 Fishermen bulletin for strong winds and rough seas](data/weather-reports/20251112.1500.fishermen-bulletin-for-strong-winds-and-rough-seas.pdf)
 * [2025-11-12 15:00 Advisory for Severe Lightning](data/weather-reports/20251112.1500.advisory-for-severe-lightning.pdf)
 * [2025-11-12 14:00 Weather Forcast](data/weather-reports/20251112.1400.weather-forcast.pdf)
-* [2025-11-12 05:30 Weather Forcast](data/weather-reports/20251112.0530.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1815/2131** documents downloaded.
+**1816/2132** documents downloaded.
 
+* [2025-11-14 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251114.1230.water-level-rainfall.pdf)
 * [2025-11-14 00:30 River Water level](data/river-water-level-and-flood-warnings/20251114.0030.river-water-level.pdf)
 * [2025-11-13 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251113.1230.water-level-rainfall.pdf)
 * [2025-11-13 09:00 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251113.0900.water-level-rainfall.pdf)
@@ -83,7 +84,6 @@
 * [2025-11-12 06:30 water level](data/river-water-level-and-flood-warnings/20251112.0630.water-level.pdf)
 * [2025-11-12 00:30 River Water level](data/river-water-level-and-flood-warnings/20251112.0030.river-water-level.pdf)
 * [2025-11-11 00:30 River Water level](data/river-water-level-and-flood-warnings/20251111.0030.river-water-level.pdf)
-* [2025-11-10 12:00 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251110.1200.water-level-rainfall.pdf)
 
 ## Flood Inundation Maps
 
