@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10382/10630** documents downloaded.
+**10383/10631** documents downloaded.
 
+* [2025-11-16 12:30 Advisory for Heavy Rain](data/weather-reports/20251116.1230.advisory-for-heavy-rain.pdf)
 * [2025-11-16 05:30 Weather Forcast](data/weather-reports/20251116.0530.weather-forcast.pdf)
 * [2025-11-15 16:00 Weather Forcast](data/weather-reports/20251115.1600.weather-forcast.pdf)
 * [2025-11-15 14:00 Weather Forecast](data/weather-reports/20251115.1400.weather-forecast.pdf)
@@ -68,12 +69,12 @@
 * [2025-11-14 14:00 Weather Forecast](data/weather-reports/20251114.1400.weather-forecast.pdf)
 * [2025-11-14 12:30 Advisory for Severe Lightning](data/weather-reports/20251114.1230.advisory-for-severe-lightning.pdf)
 * [2025-11-14 05:30 Weather Forcast](data/weather-reports/20251114.0530.weather-forcast.pdf)
-* [2025-11-13 16:00 Weather Forecast](data/weather-reports/20251113.1600.weather-forecast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1817/2133** documents downloaded.
+**1818/2134** documents downloaded.
 
+* [2025-11-16 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251116.1230.water-level-rainfall.pdf)
 * [2025-11-15 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251115.1230.water-level-rainfall.pdf)
 * [2025-11-14 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251114.1230.water-level-rainfall.pdf)
 * [2025-11-14 00:30 River Water level](data/river-water-level-and-flood-warnings/20251114.0030.river-water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-11-12 18:00 water level](data/river-water-level-and-flood-warnings/20251112.1800.water-level.pdf)
 * [2025-11-12 09:30 Water Level](data/river-water-level-and-flood-warnings/20251112.0930.water-level.pdf)
 * [2025-11-12 06:30 water level](data/river-water-level-and-flood-warnings/20251112.0630.water-level.pdf)
-* [2025-11-12 00:30 River Water level](data/river-water-level-and-flood-warnings/20251112.0030.river-water-level.pdf)
 
 ## Flood Inundation Maps
 
