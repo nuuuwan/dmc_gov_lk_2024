@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10386/10634** documents downloaded.
+**10387/10635** documents downloaded.
 
+* [2025-11-17 12:30 Advisory for Severe Lightning](data/weather-reports/20251117.1230.advisory-for-severe-lightning.pdf)
 * [2025-11-17 05:30 Weather Forcast](data/weather-reports/20251117.0530.weather-forcast.pdf)
 * [2025-11-16 16:00 Weather Forecast](data/weather-reports/20251116.1600.weather-forecast.pdf)
 * [2025-11-16 14:00 Weather Forecast](data/weather-reports/20251116.1400.weather-forecast.pdf)
@@ -68,12 +69,12 @@
 * [2025-11-15 14:00 Weather Forecast](data/weather-reports/20251115.1400.weather-forecast.pdf)
 * [2025-11-15 12:30 Advisory for Severe Lightning](data/weather-reports/20251115.1230.advisory-for-severe-lightning.pdf)
 * [2025-11-15 05:30 Weather Forcast](data/weather-reports/20251115.0530.weather-forcast.pdf)
-* [2025-11-14 16:00 Weather Forecast](data/weather-reports/20251114.1600.weather-forecast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1819/2135** documents downloaded.
+**1820/2136** documents downloaded.
 
+* [2025-11-17 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251117.1230.water-level-rainfall.pdf)
 * [2025-11-17 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251117.0930.water-level-rainfall.pdf)
 * [2025-11-16 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251116.1230.water-level-rainfall.pdf)
 * [2025-11-15 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251115.1230.water-level-rainfall.pdf)
@@ -83,7 +84,6 @@
 * [2025-11-13 09:00 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251113.0900.water-level-rainfall.pdf)
 * [2025-11-13 00:30 River Water level](data/river-water-level-and-flood-warnings/20251113.0030.river-water-level.pdf)
 * [2025-11-12 18:00 water level](data/river-water-level-and-flood-warnings/20251112.1800.water-level.pdf)
-* [2025-11-12 09:30 Water Level](data/river-water-level-and-flood-warnings/20251112.0930.water-level.pdf)
 
 ## Flood Inundation Maps
 
