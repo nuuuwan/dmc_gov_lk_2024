@@ -1,5 +1,21 @@
 [
   {
+    "name": "The Special Weather Bulletin ",
+    "time_str": "2025-11-18 20:00",
+    "time_id": "20251118.2000",
+    "ut": 1763476200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/LSA_25111801_SN__1763477418.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "The Special Weather Bulletin ",
+    "time_str": "2025-11-18 20:00",
+    "time_id": "20251118.2000",
+    "ut": 1763476200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/LSA_25111801_EN__1763477438.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forecast (Tamil)",
     "time_str": "2025-11-18 17:00",
     "time_id": "20251118.1700",
