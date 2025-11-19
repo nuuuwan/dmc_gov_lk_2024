@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**683/690** documents downloaded.
+**684/691** documents downloaded.
 
+* [2025-11-19 16:00 Landslide Early Warning](data/landslide-warnings/20251119.1600.landslide-early-warning.pdf)
 * [2025-11-18 16:00 landslide Ew Report](data/landslide-warnings/20251118.1600.landslide-ew-report.pdf)
 * [2025-11-17 19:30 Landslide Early Warning](data/landslide-warnings/20251117.1930.landslide-early-warning.pdf)
 * [2025-11-07 12:30 Landslide Warning](data/landslide-warnings/20251107.1230.landslide-warning.pdf)
@@ -15,7 +16,6 @@
 * [2025-10-26 16:00 Landslide Early Warning](data/landslide-warnings/20251026.1600.landslide-early-warning.pdf)
 * [2025-10-25 16:00 Landslide Ew Report](data/landslide-warnings/20251025.1600.landslide-ew-report.pdf)
 * [2025-10-24 16:00 Landslide Ew Report](data/landslide-warnings/20251024.1600.landslide-ew-report.pdf)
-* [2025-10-23 16:00 Landslide Ew Report](data/landslide-warnings/20251023.1600.landslide-ew-report.pdf)
 
 ## Earthquakes
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10400/10649** documents downloaded.
+**10401/10650** documents downloaded.
 
+* [2025-11-19 16:00 Weather Forecast](data/weather-reports/20251119.1600.weather-forecast.pdf)
 * [2025-11-19 14:00 Weather Forecast](data/weather-reports/20251119.1400.weather-forecast.pdf)
 * [2025-11-19 12:45 Advisory for Severe Lightning (Tamil)](data/weather-reports/20251119.1245.advisory-for-severe-lightning-tamil.pdf)
 * [2025-11-19 12:30 Advisory for Severe Lightning](data/weather-reports/20251119.1230.advisory-for-severe-lightning.pdf)
@@ -68,7 +69,6 @@
 * [2025-11-18 17:00 Weather Forecast (Tamil)](data/weather-reports/20251118.1700.weather-forecast-tamil.pdf)
 * [2025-11-18 16:00 Weather Forecast](data/weather-reports/20251118.1600.weather-forecast.pdf)
 * [2025-11-18 14:00 Weather Forecast](data/weather-reports/20251118.1400.weather-forecast.pdf)
-* [2025-11-18 12:30 Advisory for Severe Lightning](data/weather-reports/20251118.1230.advisory-for-severe-lightning.pdf)
 
 ## River Water Level And Flood Warnings
 
