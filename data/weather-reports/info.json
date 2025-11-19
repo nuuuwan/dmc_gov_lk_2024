@@ -1,5 +1,21 @@
 [
   {
+    "name": "Advisory for Severe Lightning (Tamil)",
+    "time_str": "2025-11-19 12:45",
+    "time_id": "20251119.1245",
+    "ut": 1763536500.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_12__1763536776.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Severe Lightning ",
+    "time_str": "2025-11-19 12:30",
+    "time_id": "20251119.1230",
+    "ut": 1763535600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_12__1763536128.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-11-19 05:30",
     "time_id": "20251119.0530",
