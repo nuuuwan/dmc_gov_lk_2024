@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Forcast",
+    "time_str": "2025-11-19 05:30",
+    "time_id": "20251119.0530",
+    "ut": 1763510400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2025__1763511554.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "The Special Weather Bulletin ",
     "time_str": "2025-11-18 20:00",
     "time_id": "20251118.2000",
