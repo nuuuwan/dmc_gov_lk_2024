@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10402/10651** documents downloaded.
+**10403/10652** documents downloaded.
 
+* [2025-11-20 13:00 Advisory for Severe Lightning](data/weather-reports/20251120.1300.advisory-for-severe-lightning.pdf)
 * [2025-11-20 06:00 Weather Forcast](data/weather-reports/20251120.0600.weather-forcast.pdf)
 * [2025-11-19 16:00 Weather Forecast](data/weather-reports/20251119.1600.weather-forecast.pdf)
 * [2025-11-19 14:00 Weather Forecast](data/weather-reports/20251119.1400.weather-forecast.pdf)
@@ -68,7 +69,6 @@
 * [2025-11-18 20:00 The Special Weather Bulletin](data/weather-reports/20251118.2000.the-special-weather-bulletin.pdf)
 * [2025-11-18 20:00 The Special Weather Bulletin](data/weather-reports/20251118.2000.the-special-weather-bulletin.pdf)
 * [2025-11-18 17:00 Weather Forecast (Tamil)](data/weather-reports/20251118.1700.weather-forecast-tamil.pdf)
-* [2025-11-18 16:00 Weather Forecast](data/weather-reports/20251118.1600.weather-forecast.pdf)
 
 ## River Water Level And Flood Warnings
 
