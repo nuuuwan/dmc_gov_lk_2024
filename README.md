@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10401/10650** documents downloaded.
+**10402/10651** documents downloaded.
 
+* [2025-11-20 06:00 Weather Forcast](data/weather-reports/20251120.0600.weather-forcast.pdf)
 * [2025-11-19 16:00 Weather Forecast](data/weather-reports/20251119.1600.weather-forecast.pdf)
 * [2025-11-19 14:00 Weather Forecast](data/weather-reports/20251119.1400.weather-forecast.pdf)
 * [2025-11-19 12:45 Advisory for Severe Lightning (Tamil)](data/weather-reports/20251119.1245.advisory-for-severe-lightning-tamil.pdf)
@@ -68,12 +69,12 @@
 * [2025-11-18 20:00 The Special Weather Bulletin](data/weather-reports/20251118.2000.the-special-weather-bulletin.pdf)
 * [2025-11-18 17:00 Weather Forecast (Tamil)](data/weather-reports/20251118.1700.weather-forecast-tamil.pdf)
 * [2025-11-18 16:00 Weather Forecast](data/weather-reports/20251118.1600.weather-forecast.pdf)
-* [2025-11-18 14:00 Weather Forecast](data/weather-reports/20251118.1400.weather-forecast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1827/2144** documents downloaded.
+**1828/2145** documents downloaded.
 
+* [2025-11-20 06:00 water level](data/river-water-level-and-flood-warnings/20251120.0600.water-level.pdf)
 * [2025-11-19 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251119.1230.water-level-rainfall.pdf)
 * [2025-11-19 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251119.0930.water-level-rainfall.pdf)
 * [2025-11-19 00:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251119.0030.water-level-rainfall.pdf)
@@ -83,7 +84,6 @@
 * [2025-11-18 06:00 water level](data/river-water-level-and-flood-warnings/20251118.0600.water-level.pdf)
 * [2025-11-18 00:30 River Water Level](data/river-water-level-and-flood-warnings/20251118.0030.river-water-level.lk/images/dmcreports/)
 * [2025-11-17 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251117.1230.water-level-rainfall.pdf)
-* [2025-11-17 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251117.0930.water-level-rainfall.pdf)
 
 ## Flood Inundation Maps
 
