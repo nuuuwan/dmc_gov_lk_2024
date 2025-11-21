@@ -1,5 +1,13 @@
 [
   {
+    "name": "Advisory for Severe Lightning (Tamil)",
+    "time_str": "2025-11-21 12:30",
+    "time_id": "20251121.1230",
+    "ut": 1763708400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_12__1763709060.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Severe Lightning ",
     "time_str": "2025-11-21 12:00",
     "time_id": "20251121.1200",
