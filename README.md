@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**687/694** documents downloaded.
+**688/695** documents downloaded.
 
+* [2025-11-22 14:30 Landslide Ew Report](data/landslide-warnings/20251122.1430.landslide-ew-report.pdf)
 * [2025-11-21 20:00 Landslide Early Warning](data/landslide-warnings/20251121.2000.landslide-early-warning.pdf)
 * [2025-11-21 16:00 Landslide Early Warning](data/landslide-warnings/20251121.1600.landslide-early-warning.pdf)
 * [2025-11-20 16:00 Landslide Early Warning](data/landslide-warnings/20251120.1600.landslide-early-warning.pdf)
@@ -15,7 +16,6 @@
 * [2025-11-07 12:30 Landslide Warning](data/landslide-warnings/20251107.1230.landslide-warning.pdf)
 * [2025-11-06 12:30 Landslide Early Warning](data/landslide-warnings/20251106.1230.landslide-early-warning.pdf)
 * [2025-10-28 16:00 Landslide Early Warning](data/landslide-warnings/20251028.1600.landslide-early-warning.pdf)
-* [2025-10-27 16:00 Landslide Early Warning](data/landslide-warnings/20251027.1600.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10412/10661** documents downloaded.
+**10413/10662** documents downloaded.
 
+* [2025-11-22 14:30 Advisory for Heavy Rain](data/weather-reports/20251122.1430.advisory-for-heavy-rain.pdf)
 * [2025-11-22 14:00 Weather Forecast](data/weather-reports/20251122.1400.weather-forecast.pdf)
 * [2025-11-22 12:00 Weather Advisory](data/weather-reports/20251122.1200.weather-advisory.pdf)
 * [2025-11-22 05:30 Weather Forcast](data/weather-reports/20251122.0530.weather-forcast.pdf)
@@ -68,7 +69,6 @@
 * [2025-11-21 05:30 Weather Forcast](data/weather-reports/20251121.0530.weather-forcast.pdf)
 * [2025-11-20 16:00 Weather Forecast](data/weather-reports/20251120.1600.weather-forecast.pdf)
 * [2025-11-20 14:00 Weather Forecast](data/weather-reports/20251120.1400.weather-forecast.pdf)
-* [2025-11-20 13:00 Advisory for Severe Lightning](data/weather-reports/20251120.1300.advisory-for-severe-lightning.pdf)
 
 ## River Water Level And Flood Warnings
 
