@@ -72,8 +72,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1854/2170** documents downloaded.
+**1855/2171** documents downloaded.
 
+* [2025-11-24 00:00 Water Level](data/river-water-level-and-flood-warnings/20251124.0000.water-level.pdf)
 * [2025-11-23 21:30 River Water level](data/river-water-level-and-flood-warnings/20251123.2130.river-water-level.pdf)
 * [2025-11-23 18:30 water level](data/river-water-level-and-flood-warnings/20251123.1830.water-level.pdf)
 * [2025-11-23 15:30 water level](data/river-water-level-and-flood-warnings/20251123.1530.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-11-23 03:30 Water Level](data/river-water-level-and-flood-warnings/20251123.0330.water-level.pdf)
 * [2025-11-23 00:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251123.0030.water-level-rainfall.pdf)
 * [2025-11-22 23:45 Flood Warning  Gin River -No 01](data/river-water-level-and-flood-warnings/20251122.2345.flood-warning-gin-river-no-01.pdf)
-* [2025-11-22 23:45 Flood Warning  Nilwala River  No 01](data/river-water-level-and-flood-warnings/20251122.2345.flood-warning-nilwala-river-no-01.pdf)
 
 ## Flood Inundation Maps
 
