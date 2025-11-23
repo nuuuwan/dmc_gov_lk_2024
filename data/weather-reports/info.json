@@ -1,5 +1,21 @@
 [
   {
+    "name": "Advisory for Heavy Rain",
+    "time_str": "2025-11-23 13:00",
+    "time_id": "20251123.1300",
+    "ut": 1763883000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain,_at_01__1763884047.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Severe Lightning ",
+    "time_str": "2025-11-23 12:00",
+    "time_id": "20251123.1200",
+    "ut": 1763879400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_Issued_at_12__1763880974.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Report for Multiday Boats",
     "time_str": "2025-11-23 07:00",
     "time_id": "20251123.0700",
