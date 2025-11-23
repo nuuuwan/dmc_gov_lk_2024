@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Report for Multiday Boats",
+    "time_str": "2025-11-23 07:00",
+    "time_id": "20251123.0700",
+    "ut": 1763861400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_for_multi-day_boats_at_0700hrs_on_2025__1763861941.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forecast",
     "time_str": "2025-11-23 05:30",
     "time_id": "20251123.0530",
