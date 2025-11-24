@@ -72,8 +72,10 @@
 
 ## River Water Level And Flood Warnings
 
-**1859/2175** documents downloaded.
+**1861/2177** documents downloaded.
 
+* [2025-11-24 12:30 water level](data/river-water-level-and-flood-warnings/20251124.1230.water-level.pdf)
+* [2025-11-24 12:30 Flood warning](data/river-water-level-and-flood-warnings/20251124.1230.flood-warning.pdf)
 * [2025-11-24 09:00 Water level](data/river-water-level-and-flood-warnings/20251124.0900.water-level.pdf)
 * [2025-11-24 06:00 Flood Warning  Attanagaluoya -No 01](data/river-water-level-and-flood-warnings/20251124.0600.flood-warning-attanagaluoya-no-01.pdf)
 * [2025-11-24 06:00 water level](data/river-water-level-and-flood-warnings/20251124.0600.water-level.pdf)
@@ -82,8 +84,6 @@
 * [2025-11-23 21:30 River Water level](data/river-water-level-and-flood-warnings/20251123.2130.river-water-level.pdf)
 * [2025-11-23 18:30 water level](data/river-water-level-and-flood-warnings/20251123.1830.water-level.pdf)
 * [2025-11-23 15:30 water level](data/river-water-level-and-flood-warnings/20251123.1530.water-level.pdf)
-* [2025-11-23 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251123.1230.water-level-rainfall.pdf)
-* [2025-11-23 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251123.0930.water-level-rainfall.pdf)
 
 ## Flood Inundation Maps
 
