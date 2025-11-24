@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**689/696** documents downloaded.
+**690/697** documents downloaded.
 
+* [2025-11-24 14:30 Landslide warning](data/landslide-warnings/20251124.1430.landslide-warning.pdf)
 * [2025-11-23 15:00 Landslide Early Warning](data/landslide-warnings/20251123.1500.landslide-early-warning.pdf)
 * [2025-11-22 14:30 Landslide Ew Report](data/landslide-warnings/20251122.1430.landslide-ew-report.pdf)
 * [2025-11-21 20:00 Landslide Early Warning](data/landslide-warnings/20251121.2000.landslide-early-warning.pdf)
@@ -15,7 +16,6 @@
 * [2025-11-18 16:00 landslide Ew Report](data/landslide-warnings/20251118.1600.landslide-ew-report.pdf)
 * [2025-11-17 19:30 Landslide Early Warning](data/landslide-warnings/20251117.1930.landslide-early-warning.pdf)
 * [2025-11-07 12:30 Landslide Warning](data/landslide-warnings/20251107.1230.landslide-warning.pdf)
-* [2025-11-06 12:30 Landslide Early Warning](data/landslide-warnings/20251106.1230.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10424/10673** documents downloaded.
+**10425/10674** documents downloaded.
 
+* [2025-11-24 14:30 Weather Advisory](data/weather-reports/20251124.1430.weather-advisory.pdf)
 * [2025-11-24 14:00 Weather Forcast](data/weather-reports/20251124.1400.weather-forcast.pdf)
 * [2025-11-24 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20251124.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
 * [2025-11-24 05:30 Weather Report](data/weather-reports/20251124.0530.weather-report.pdf)
@@ -68,7 +69,6 @@
 * [2025-11-23 13:00 Advisory for Heavy Rain](data/weather-reports/20251123.1300.advisory-for-heavy-rain.pdf)
 * [2025-11-23 12:00 Advisory for Severe Lightning](data/weather-reports/20251123.1200.advisory-for-severe-lightning.pdf)
 * [2025-11-23 07:00 Weather Report for Multiday Boats](data/weather-reports/20251123.0700.weather-report-for-multiday-boats.pdf)
-* [2025-11-23 05:30 Weather Forecast](data/weather-reports/20251123.0530.weather-forecast.pdf)
 
 ## River Water Level And Flood Warnings
 
