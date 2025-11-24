@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10422/10671** documents downloaded.
+**10423/10672** documents downloaded.
 
+* [2025-11-24 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20251124.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
 * [2025-11-24 05:30 Weather Report](data/weather-reports/20251124.0530.weather-report.pdf)
 * [2025-11-23 16:00 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251123.1600.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
 * [2025-11-23 16:00 Weather Forcast](data/weather-reports/20251123.1600.weather-forcast.pdf)
@@ -68,12 +69,13 @@
 * [2025-11-23 07:00 Weather Report for Multiday Boats](data/weather-reports/20251123.0700.weather-report-for-multiday-boats.pdf)
 * [2025-11-23 05:30 Weather Forecast](data/weather-reports/20251123.0530.weather-forecast.pdf)
 * [2025-11-22 15:55 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251122.1555.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
-* [2025-11-22 14:30 Advisory for Heavy Rain](data/weather-reports/20251122.1430.advisory-for-heavy-rain.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1856/2172** documents downloaded.
+**1858/2174** documents downloaded.
 
+* [2025-11-24 06:00 Flood Warning  Attanagaluoya -No 01](data/river-water-level-and-flood-warnings/20251124.0600.flood-warning-attanagaluoya-no-01.pdf)
+* [2025-11-24 06:00 water level](data/river-water-level-and-flood-warnings/20251124.0600.water-level.pdf)
 * [2025-11-24 03:00 Water Level](data/river-water-level-and-flood-warnings/20251124.0300.water-level.pdf)
 * [2025-11-24 00:00 Water Level](data/river-water-level-and-flood-warnings/20251124.0000.water-level.pdf)
 * [2025-11-23 21:30 River Water level](data/river-water-level-and-flood-warnings/20251123.2130.river-water-level.pdf)
@@ -82,8 +84,6 @@
 * [2025-11-23 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251123.1230.water-level-rainfall.pdf)
 * [2025-11-23 09:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251123.0930.water-level-rainfall.pdf)
 * [2025-11-23 06:00 Water Level](data/river-water-level-and-flood-warnings/20251123.0600.water-level.pdf)
-* [2025-11-23 03:30 Water Level](data/river-water-level-and-flood-warnings/20251123.0330.water-level.pdf)
-* [2025-11-23 00:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251123.0030.water-level-rainfall.pdf)
 
 ## Flood Inundation Maps
 
