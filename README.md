@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10430/10679** documents downloaded.
+**10431/10680** documents downloaded.
 
+* [2025-11-25 15:30 Warning for Heavy Rain](data/weather-reports/20251125.1530.warning-for-heavy-rain.pdf)
 * [2025-11-25 14:00 Weather Forcast](data/weather-reports/20251125.1400.weather-forcast.pdf)
 * [2025-11-25 10:30 Advisory for low pressure area over South-West Bay of Bengal](data/weather-reports/20251125.1030.advisory-for-low-pressure-area-over-southwest-bay-of-bengal.pdf)
 * [2025-11-25 05:30 Weather Forecast](data/weather-reports/20251125.0530.weather-forecast.pdf)
@@ -68,12 +69,12 @@
 * [2025-11-24 14:00 Weather Forcast](data/weather-reports/20251124.1400.weather-forcast.pdf)
 * [2025-11-24 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20251124.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
 * [2025-11-24 05:30 Weather Report](data/weather-reports/20251124.0530.weather-report.pdf)
-* [2025-11-23 16:00 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251123.1600.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1871/2187** documents downloaded.
+**1872/2188** documents downloaded.
 
+* [2025-11-25 15:00 Water Level](data/river-water-level-and-flood-warnings/20251125.1500.water-level.pdf)
 * [2025-11-25 12:30 water level](data/river-water-level-and-flood-warnings/20251125.1230.water-level.pdf)
 * [2025-11-25 09:30 water level](data/river-water-level-and-flood-warnings/20251125.0930.water-level.pdf)
 * [2025-11-25 09:15 Prior Flood Warning Letter](data/river-water-level-and-flood-warnings/20251125.0915.prior-flood-warning-letter.pdf)
@@ -83,7 +84,6 @@
 * [2025-11-24 18:00 Water Level](data/river-water-level-and-flood-warnings/20251124.1800.water-level.pdf)
 * [2025-11-24 17:00 Flood Warning](data/river-water-level-and-flood-warnings/20251124.1700.flood-warning.pdf)
 * [2025-11-24 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251124.1530.water-level-rainfall.pdf)
-* [2025-11-24 12:30 water level](data/river-water-level-and-flood-warnings/20251124.1230.water-level.pdf)
 
 ## Flood Inundation Maps
 
