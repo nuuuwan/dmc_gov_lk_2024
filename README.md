@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**4490/4556** documents downloaded.
+**4491/4557** documents downloaded.
 
+* [2025-11-25 10:00 Situation Report](data/situation-reports/20251125.1000.situation-report.pdf)
 * [2025-11-24 09:00 Situation Report](data/situation-reports/20251124.0900.situation-report.pdf)
 * [2025-11-23 09:00 Situation Report](data/situation-reports/20251123.0900.situation-report.pdf)
 * [2025-11-22 09:00 Situation Report](data/situation-reports/20251122.0900.situation-report.pdf)
@@ -45,7 +46,6 @@
 * [2025-11-17 09:00 Situation Report](data/situation-reports/20251117.0900.situation-report.pdf)
 * [2025-11-16 09:00 Situation Report](data/situation-reports/20251116.0900.situation-report.pdf)
 * [2025-11-15 09:00 Situation Report](data/situation-reports/20251115.0900.situation-report.pdf)
-* [2025-11-14 09:00 Situation Report](data/situation-reports/20251114.0900.situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10428/10677** documents downloaded.
+**10429/10678** documents downloaded.
 
+* [2025-11-25 10:30 Advisory for low pressure area over South-West Bay of Bengal](data/weather-reports/20251125.1030.advisory-for-low-pressure-area-over-southwest-bay-of-bengal.pdf)
 * [2025-11-25 05:30 Weather Forecast](data/weather-reports/20251125.0530.weather-forecast.pdf)
 * [2025-11-24 17:00 Weather Advisory](data/weather-reports/20251124.1700.weather-advisory.pdf)
 * [2025-11-24 16:00 Weather Forecast](data/weather-reports/20251124.1600.weather-forecast.pdf)
@@ -68,7 +69,6 @@
 * [2025-11-24 05:30 Weather Report](data/weather-reports/20251124.0530.weather-report.pdf)
 * [2025-11-23 16:00 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251123.1600.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
 * [2025-11-23 16:00 Weather Forcast](data/weather-reports/20251123.1600.weather-forcast.pdf)
-* [2025-11-23 14:00 Weather Forcast](data/weather-reports/20251123.1400.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
