@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Advisory",
+    "time_str": "2025-11-25 17:00",
+    "time_id": "20251125.1700",
+    "ut": 1764070200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_strong_winds,_heavy_showers_and_rough_seas_at_1700_hrs_on_2025__1764073348.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forecast",
     "time_str": "2025-11-25 16:00",
     "time_id": "20251125.1600",

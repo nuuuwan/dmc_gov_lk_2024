@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10432/10681** documents downloaded.
+**10433/10682** documents downloaded.
 
+* [2025-11-25 17:00 Weather Advisory](data/weather-reports/20251125.1700.weather-advisory.pdf)
 * [2025-11-25 16:00 Weather Forecast](data/weather-reports/20251125.1600.weather-forecast.pdf)
 * [2025-11-25 15:30 Warning for Heavy Rain](data/weather-reports/20251125.1530.warning-for-heavy-rain.pdf)
 * [2025-11-25 14:00 Weather Forcast](data/weather-reports/20251125.1400.weather-forcast.pdf)
@@ -68,12 +69,12 @@
 * [2025-11-24 16:00 Weather Forecast](data/weather-reports/20251124.1600.weather-forecast.pdf)
 * [2025-11-24 14:30 Weather Advisory](data/weather-reports/20251124.1430.weather-advisory.pdf)
 * [2025-11-24 14:00 Weather Forcast](data/weather-reports/20251124.1400.weather-forcast.pdf)
-* [2025-11-24 07:00 Weather forecast for multi-day boats for the sea areas](data/weather-reports/20251124.0700.weather-forecast-for-multiday-boats-for-the-sea-areas.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1872/2188** documents downloaded.
+**1873/2189** documents downloaded.
 
+* [2025-11-25 18:30 water level](data/river-water-level-and-flood-warnings/20251125.1830.water-level.pdf)
 * [2025-11-25 15:00 Water Level](data/river-water-level-and-flood-warnings/20251125.1500.water-level.pdf)
 * [2025-11-25 12:30 water level](data/river-water-level-and-flood-warnings/20251125.1230.water-level.pdf)
 * [2025-11-25 09:30 water level](data/river-water-level-and-flood-warnings/20251125.0930.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-11-25 00:30 River Water level](data/river-water-level-and-flood-warnings/20251125.0030.river-water-level.pdf)
 * [2025-11-24 18:00 Water Level](data/river-water-level-and-flood-warnings/20251124.1800.water-level.pdf)
 * [2025-11-24 17:00 Flood Warning](data/river-water-level-and-flood-warnings/20251124.1700.flood-warning.pdf)
-* [2025-11-24 15:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251124.1530.water-level-rainfall.pdf)
 
 ## Flood Inundation Maps
 
