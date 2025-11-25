@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Forcast",
+    "time_str": "2025-11-25 14:00",
+    "time_id": "20251125.1400",
+    "ut": 1764059400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2025__1764060355.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for low pressure area over South-West Bay of Bengal",
     "time_str": "2025-11-25 10:30",
     "time_id": "20251125.1030",
