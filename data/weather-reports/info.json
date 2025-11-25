@@ -1,5 +1,13 @@
 [
   {
+    "name": "Warning for low pressure area over South-West Bay of Bengal and Sri Lanka",
+    "time_str": "2025-11-25 22:30",
+    "time_id": "20251125.2230",
+    "ut": 1764090000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_low_pressure_area_over_South-West_Bay_of_Bengal_and_Sri_Lanka__1764091435.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Advisory",
     "time_str": "2025-11-25 17:00",
     "time_id": "20251125.1700",
