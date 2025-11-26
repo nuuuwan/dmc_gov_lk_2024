@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**692/699** documents downloaded.
+**693/700** documents downloaded.
 
+* [2025-11-26 17:00 Landslide Early Warning](data/landslide-warnings/20251126.1700.landslide-early-warning.pdf)
 * [2025-11-26 08:00 Landslide Warning](data/landslide-warnings/20251126.0800.landslide-warning.pdf)
 * [2025-11-25 14:30 Landslide Early Warning](data/landslide-warnings/20251125.1430.landslide-early-warning.pdf)
 * [2025-11-24 14:30 Landslide warning](data/landslide-warnings/20251124.1430.landslide-warning.pdf)
@@ -15,7 +16,6 @@
 * [2025-11-21 16:00 Landslide Early Warning](data/landslide-warnings/20251121.1600.landslide-early-warning.pdf)
 * [2025-11-20 16:00 Landslide Early Warning](data/landslide-warnings/20251120.1600.landslide-early-warning.pdf)
 * [2025-11-19 16:00 Landslide Early Warning](data/landslide-warnings/20251119.1600.landslide-early-warning.pdf)
-* [2025-11-18 16:00 landslide Ew Report](data/landslide-warnings/20251118.1600.landslide-ew-report.pdf)
 
 ## Earthquakes
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10439/10688** documents downloaded.
+**10440/10689** documents downloaded.
 
+* [2025-11-26 17:30 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251126.1730.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
 * [2025-11-26 16:00 Weather Forcast](data/weather-reports/20251126.1600.weather-forcast.pdf)
 * [2025-11-26 15:00 Fisheman Bulletin](data/weather-reports/20251126.1500.fisheman-bulletin.pdf)
 * [2025-11-26 14:00 Weather Forecast](data/weather-reports/20251126.1400.weather-forecast.pdf)
@@ -68,12 +69,12 @@
 * [2025-11-25 17:00 Weather Advisory](data/weather-reports/20251125.1700.weather-advisory.pdf)
 * [2025-11-25 16:00 Weather Forecast](data/weather-reports/20251125.1600.weather-forecast.pdf)
 * [2025-11-25 15:30 Warning for Heavy Rain](data/weather-reports/20251125.1530.warning-for-heavy-rain.pdf)
-* [2025-11-25 14:00 Weather Forcast](data/weather-reports/20251125.1400.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1883/2199** documents downloaded.
+**1884/2200** documents downloaded.
 
+* [2025-11-26 18:30 water level](data/river-water-level-and-flood-warnings/20251126.1830.water-level.pdf)
 * [2025-11-26 15:00 water level](data/river-water-level-and-flood-warnings/20251126.1500.water-level.pdf)
 * [2025-11-26 14:00 Flood Warning  Mahaweli River  No 01](data/river-water-level-and-flood-warnings/20251126.1400.flood-warning-mahaweli-river-no-01.pdf)
 * [2025-11-26 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251126.1230.water-level-rainfall.pdf)
@@ -83,7 +84,6 @@
 * [2025-11-26 09:30 water level](data/river-water-level-and-flood-warnings/20251126.0930.water-level.pdf)
 * [2025-11-26 03:00 water level](data/river-water-level-and-flood-warnings/20251126.0300.water-level.pdf)
 * [2025-11-26 00:30 Water Level](data/river-water-level-and-flood-warnings/20251126.0030.water-level.pdf)
-* [2025-11-25 21:30 Water Level](data/river-water-level-and-flood-warnings/20251125.2130.water-level.pdf)
 
 ## Flood Inundation Maps
 
