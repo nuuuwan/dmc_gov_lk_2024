@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather forecast for multi-day boats ",
+    "time_str": "2025-11-26 07:00",
+    "time_id": "20251126.0700",
+    "ut": 1764120600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_for_multi-day_boats_at_07__1764123538.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Warning for low pressure area over South-West Bay of Bengal and Sri Lanka",
     "time_str": "2025-11-25 22:30",
     "time_id": "20251125.2230",

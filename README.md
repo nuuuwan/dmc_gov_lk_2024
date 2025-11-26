@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10434/10683** documents downloaded.
+**10435/10684** documents downloaded.
 
+* [2025-11-26 07:00 Weather forecast for multi-day boats](data/weather-reports/20251126.0700.weather-forecast-for-multiday-boats.pdf)
 * [2025-11-25 22:30 Warning for low pressure area over South-West Bay of Bengal and Sri Lanka](data/weather-reports/20251125.2230.warning-for-low-pressure-area-over-southwest-bay-of-bengal-and-sri-lanka.pdf)
 * [2025-11-25 17:00 Weather Advisory](data/weather-reports/20251125.1700.weather-advisory.pdf)
 * [2025-11-25 16:00 Weather Forecast](data/weather-reports/20251125.1600.weather-forecast.pdf)
@@ -68,7 +69,6 @@
 * [2025-11-25 05:30 Weather Forecast](data/weather-reports/20251125.0530.weather-forecast.pdf)
 * [2025-11-24 17:00 Weather Advisory](data/weather-reports/20251124.1700.weather-advisory.pdf)
 * [2025-11-24 16:00 Weather Forecast](data/weather-reports/20251124.1600.weather-forecast.pdf)
-* [2025-11-24 14:30 Weather Advisory](data/weather-reports/20251124.1430.weather-advisory.pdf)
 
 ## River Water Level And Flood Warnings
 
