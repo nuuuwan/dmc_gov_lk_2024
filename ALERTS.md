@@ -2,7 +2,7 @@
 
 As posted [https://www.dmc.gov.lk](https://www.dmc.gov.lk)
 
-Last updated **2025-11-26 12:30:00**.
+Last updated **2025-11-26 15:00:00**.
 
 <div id="river-water-level-map">
 
@@ -10,51 +10,51 @@ Last updated **2025-11-26 12:30:00**.
 
 </div>
 
-## Alerts (8)
+## Alerts (9)
 
 | Level | Station | River | Basin | Rising Rate (mm/hr) | Level (m) | Alert Level (m) | Minor Flood Level (m) | Major Flood Level (m) |
 | --: | --: | --: | --: | --: | --: | --: | --: | --: |
-| 🔴 Major Flood | Padiyathalawa | Maduru Oya | Maduru Oya (RB 54) | 800 🡅 | 6.1 | 4.0 | 4.5 | 6.0 |
-| 🟡 Alert | Horowpothana | Yan Oya | Yan Oya (RB 67) | 100 🡅 | 7.1 | 6.0 | 7.5 | 10.5 |
-| 🟡 Alert | Manampitiya | Mahaweli Ganga | Mahaweli Ganga (RB 60) | 340 🡅 | 3.4 | 3.0 | 4.3 | 6.0 |
-| 🟡 Alert | Nakkala | Kumbukkan Oya | Kumbukkan Oya (RB 31) | 160 🡅 | 5.6 | 5.0 | 6.0 | 7.5 |
+| 🟠 Minor Flood | Padiyathalawa | Maduru Oya | Maduru Oya (RB 54) | -900 🡇 | 5.1 | 4.0 | 4.5 | 6.0 |
+| 🟠 Minor Flood | Nakkala | Kumbukkan Oya | Kumbukkan Oya (RB 31) | 700 🡅 | 6.1 | 5.0 | 6.0 | 7.5 |
+| 🟡 Alert | Manampitiya | Mahaweli Ganga | Mahaweli Ganga (RB 60) | 300 🡅 | 4.2 | 3.0 | 4.3 | 6.0 |
+| 🟡 Alert | Horowpothana | Yan Oya | Yan Oya (RB 67) | 70 🡅 | 7.4 | 6.0 | 7.5 | 10.5 |
+| 🟡 Alert | Siyambalanduwa | Heda Oya | Heda Oya (RB 36) | 300 🡅 | 5.3 | 4.5 | 6.0 | 7.0 |
 | 🟡 Alert | Thalgahagoda | Nilwala Ganga | Nilwala Ganga (RB 12) | 0  | 1.5 | 1.4 | 1.7 | 2.8 |
-| 🟡 Alert | Baddegama | Gin Ganga | Gin Ganga (RB 09) | 0  | 3.6 | 3.5 | 4.0 | 5.0 |
-| 🟡 Alert | Peradeniya | Mahaweli Ganga | Mahaweli Ganga (RB 60) | 260 🡅 | 5.2 | 5.0 | 7.0 | 9.0 |
-| 🟡 Alert | Kalawellawa (Millakanda) | Kuda Ganga | Kalu Ganga (RB 03) | 0  | 5.1 | 5.0 | 6.5 | 8.0 |
+| 🟡 Alert | Peradeniya | Mahaweli Ganga | Mahaweli Ganga (RB 60) | -110 🡇 | 5.2 | 5.0 | 7.0 | 9.0 |
+| 🟡 Alert | Baddegama | Gin Ganga | Gin Ganga (RB 09) | -10 🡇 | 3.6 | 3.5 | 4.0 | 5.0 |
+| 🟡 Alert | Kalawellawa (Millakanda) | Kuda Ganga | Kalu Ganga (RB 03) | -30 🡇 | 5.0 | 5.0 | 6.5 | 8.0 |
 
-## Other Stations (31)
+## Other Stations (30)
 
 | Level | Station | River | Basin | Rising Rate (mm/hr) | Level (m) | Alert Level (m) | Minor Flood Level (m) | Major Flood Level (m) |
 | --: | --: | --: | --: | --: | --: | --: | --: | --: |
-| 🟢 Normal | Siyambalanduwa | Heda Oya | Heda Oya (RB 36) | 210 🡅 | 4.3 | 4.5 | 6.0 | 7.0 |
-| 🟢 Normal | Panadugama | Nilwala Ganga | Nilwala Ganga (RB 12) | -50 🡇 | 4.8 | 5.0 | 6.0 | 7.5 |
-| 🟢 Normal | Magura | Maguru Ganga | Kalu Ganga (RB 03) | -110 🡇 | 3.8 | 4.0 | 6.0 | 7.5 |
-| 🟢 Normal | Thanthirimale | Malwathu Oya | Malwathu Oya (RB 90) | 420 🡅 | 4.5 | 5.0 | 6.8 | 7.8 |
-| 🟢 Normal | Thaldena | Badulu Oya | Mahaweli Ganga (RB 60) | -20 🡇 | 2.5 | 3.0 | 4.0 | 5.0 |
+| 🟢 Normal | Thanthirimale | Malwathu Oya | Malwathu Oya (RB 90) | 80 🡅 | 5.0 | 5.0 | 6.8 | 7.8 |
+| 🟢 Normal | Panadugama | Nilwala Ganga | Nilwala Ganga (RB 12) | -50 🡇 | 4.7 | 5.0 | 6.0 | 7.5 |
+| 🟢 Normal | Thaldena | Badulu Oya | Mahaweli Ganga (RB 60) | 270 🡅 | 2.8 | 3.0 | 4.0 | 5.0 |
+| 🟢 Normal | Magura | Maguru Ganga | Kalu Ganga (RB 03) | -90 🡇 | 3.4 | 4.0 | 6.0 | 7.5 |
 | 🟢 Normal | Norwood | Kehelgamu Oya | Kelani Ganga (RB 01) | 0  | 1.1 | 1.5 | 3.0 | 4.5 |
-| 🟢 Normal | Ellagawa | Kalu Ganga | Kalu Ganga (RB 03) | -40 🡇 | 7.1 | 10.0 | 10.7 | 12.2 |
-| 🟢 Normal | Glencourse | Kelani Ganga | Kelani Ganga (RB 01) | 70 🡅 | 10.5 | 15.0 | 16.5 | 19.0 |
-| 🟢 Normal | Badalgama | Maha Oya | Maha Oya (RB 102) | 50 🡅 | 3.5 | 5.0 | 6.2 | 9.6 |
-| 🟢 Normal | Weraganthota | Mahaweli Ganga | Mahaweli Ganga (RB 60) | 340 🡅 | 3.3 | 5.0 | 6.0 | 8.0 |
-| 🟢 Normal | Moragaswewa | Deduru Oya | Deduru Oya (RB 99) | 20 🡅 | 3.1 | 4.8 | 6.0 | 7.0 |
-| 🟢 Normal | Galgamuwa | Mee Oya | Mee Oya (RB 95) | -20 🡇 | 3.0 | 4.8 | 5.9 | 8.0 |
-| 🟢 Normal | Dunamale | Attanagalu Oya | Attanagalu Oya (RB 103) | 10 🡅 | 2.0 | 3.3 | 4.4 | 5.5 |
-| 🟢 Normal | Kithulgala | Kelani Ganga | Kelani Ganga (RB 01) | 0  | 1.8 | 3.0 | 4.0 | 6.0 |
-| 🟢 Normal | Putupaula | Kalu Ganga | Kalu Ganga (RB 03) | -30 🡇 | 1.8 | 3.0 | 4.0 | 5.0 |
-| 🟢 Normal | Thawalama | Gin Ganga | Gin Ganga (RB 09) | -10 🡇 | 2.4 | 4.0 | 6.0 | 7.5 |
-| 🟢 Normal | Rathnapura | Kalu Ganga | Kalu Ganga (RB 03) | -70 🡇 | 3.0 | 5.2 | 7.5 | 9.5 |
-| 🟢 Normal | Giriulla | Maha Oya | Maha Oya (RB 102) | 100 🡅 | 3.0 | 5.5 | 6.5 | 7.5 |
-| 🟢 Normal | Nawalapitiya | Mahaweli Ganga | Mahaweli Ganga (RB 60) | 20 🡅 | 1.6 | 3.5 | 5.0 | 6.0 |
-| 🟢 Normal | Holombuwa | Gurugoda Oya | Kelani Ganga (RB 01) | 80 🡅 | 1.4 | 3.0 | 3.4 | 5.0 |
-| 🟢 Normal | Yaka Wewa |  | Maa Oya (RB 69) Mukunu Oya | -60 🡇 | 1.8 | 4.0 | 5.0 | 6.0 |
-| 🟢 Normal | Thanamalwila | Kirindi Oya | Kirindi Oya (RB 22) | 70 🡅 | 1.6 | 4.0 | 5.0 | 5.5 |
-| 🟢 Normal | Urawa | Urubokka Ganga | Nilwala Ganga (RB 12) | 0  | 1.0 | 2.5 | 4.0 | 6.0 |
-| 🟢 Normal | Katharagama | Menik Ganga | Menik Ganga (RB 26) | 120 🡅 | 1.6 | 4.0 | 4.6 | 6.5 |
-| 🟢 Normal | Moraketiya | Walawe Ganga | Walawe Ganga (RB 18) | 0  | 1.2 | 3.0 | 5.0 | 7.0 |
-| 🟢 Normal | Nagalagam Street | Kelani Ganga | Kelani Ganga (RB 01) | 0  | 0.4 | 1.2 | 1.5 | 2.1 |
+| 🟢 Normal | Badalgama | Maha Oya | Maha Oya (RB 102) | 60 🡅 | 3.7 | 5.0 | 6.2 | 9.6 |
+| 🟢 Normal | Glencourse | Kelani Ganga | Kelani Ganga (RB 01) | 20 🡅 | 10.7 | 15.0 | 16.5 | 19.0 |
+| 🟢 Normal | Ellagawa | Kalu Ganga | Kalu Ganga (RB 03) | -70 🡇 | 7.0 | 10.0 | 10.7 | 12.2 |
+| 🟢 Normal | Holombuwa | Gurugoda Oya | Kelani Ganga (RB 01) | 170 🡅 | 2.0 | 3.0 | 3.4 | 5.0 |
+| 🟢 Normal | Moragaswewa | Deduru Oya | Deduru Oya (RB 99) | 10 🡅 | 3.2 | 4.8 | 6.0 | 7.0 |
+| 🟢 Normal | Weraganthota | Mahaweli Ganga | Mahaweli Ganga (RB 60) | -210 🡇 | 3.3 | 5.0 | 6.0 | 8.0 |
+| 🟢 Normal | Dunamale | Attanagalu Oya | Attanagalu Oya (RB 103) | 20 🡅 | 2.1 | 3.3 | 4.4 | 5.5 |
+| 🟢 Normal | Kithulgala | Kelani Ganga | Kelani Ganga (RB 01) | 10 🡅 | 1.9 | 3.0 | 4.0 | 6.0 |
+| 🟢 Normal | Galgamuwa | Mee Oya | Mee Oya (RB 95) | -10 🡇 | 3.0 | 4.8 | 5.9 | 8.0 |
+| 🟢 Normal | Yaka Wewa |  | Maa Oya (RB 69) Mukunu Oya | 480 🡅 | 2.4 | 4.0 | 5.0 | 6.0 |
+| 🟢 Normal | Putupaula | Kalu Ganga | Kalu Ganga (RB 03) | -30 🡇 | 1.7 | 3.0 | 4.0 | 5.0 |
+| 🟢 Normal | Thawalama | Gin Ganga | Gin Ganga (RB 09) | -20 🡇 | 2.3 | 4.0 | 6.0 | 7.5 |
+| 🟢 Normal | Giriulla | Maha Oya | Maha Oya (RB 102) | 60 🡅 | 3.1 | 5.5 | 6.5 | 7.5 |
+| 🟢 Normal | Rathnapura | Kalu Ganga | Kalu Ganga (RB 03) | -70 🡇 | 2.8 | 5.2 | 7.5 | 9.5 |
+| 🟢 Normal | Nagalagam Street | Kelani Ganga | Kelani Ganga (RB 01) | 91 🡅 | 0.6 | 1.2 | 1.5 | 2.1 |
+| 🟢 Normal | Nawalapitiya | Mahaweli Ganga | Mahaweli Ganga (RB 60) | 0  | 1.6 | 3.5 | 5.0 | 6.0 |
+| 🟢 Normal | Thanamalwila | Kirindi Oya | Kirindi Oya (RB 22) | 120 🡅 | 1.8 | 4.0 | 5.0 | 5.5 |
+| 🟢 Normal | Katharagama | Menik Ganga | Menik Ganga (RB 26) | 20 🡅 | 1.7 | 4.0 | 4.6 | 6.5 |
+| 🟢 Normal | Moraketiya | Walawe Ganga | Walawe Ganga (RB 18) | 0  | 1.1 | 3.0 | 5.0 | 7.0 |
+| 🟢 Normal | Urawa | Urubokka Ganga | Nilwala Ganga (RB 12) | -10 🡇 | 0.9 | 2.5 | 4.0 | 6.0 |
+| 🟢 Normal | Wellawaya | Kirindi Oya | Kirindi Oya (RB 22) | 40 🡅 | 1.6 | 4.4 | 5.4 | 5.9 |
 | 🟢 Normal | Pitabeddara | Nilwala Ganga | Nilwala Ganga (RB 12) | 0  | 1.4 | 4.0 | 5.0 | 6.5 |
-| 🟢 Normal | Wellawaya | Kirindi Oya | Kirindi Oya (RB 22) | 0  | 1.5 | 4.4 | 5.4 | 5.9 |
-| 🟢 Normal | Hanwella | Kelani Ganga | Kelani Ganga (RB 01) | 10 🡅 | 2.2 | 7.0 | 8.0 | 10.0 |
-| 🟢 Normal | Kuda Oya | Kuda Oya | Kirindi Oya (RB 22) | 20 🡅 | 1.8 | 6.9 | 8.4 | 8.8 |
-| 🟢 Normal | Deraniyagala | Seethawaka Ganga | Kelani Ganga (RB 01) | -30 🡇 | 0.9 | 4.8 | 5.8 | 6.4 |
+| 🟢 Normal | Hanwella | Kelani Ganga | Kelani Ganga (RB 01) | 40 🡅 | 2.3 | 7.0 | 8.0 | 10.0 |
+| 🟢 Normal | Kuda Oya | Kuda Oya | Kirindi Oya (RB 22) | 10 🡅 | 1.9 | 6.9 | 8.4 | 8.8 |
+| 🟢 Normal | Deraniyagala | Seethawaka Ganga | Kelani Ganga (RB 01) | 60 🡅 | 0.9 | 4.8 | 5.8 | 6.4 |
