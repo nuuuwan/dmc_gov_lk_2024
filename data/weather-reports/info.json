@@ -1,5 +1,13 @@
 [
   {
+    "name": "Warning for low pressure area in vicinity of Sri Lanka",
+    "time_str": "2025-11-26 22:30",
+    "time_id": "20251126.2230",
+    "ut": 1764176400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_low_pressure_area_in_vicinity_of_Sri_Lanka_at_2230hrs_on_2025__1764178129.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for strong winds heavy showers and rough seas",
     "time_str": "2025-11-26 17:30",
     "time_id": "20251126.1730",
