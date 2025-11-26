@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**4491/4557** documents downloaded.
+**4492/4558** documents downloaded.
 
+* [2025-11-26 10:00 Situation Report](data/situation-reports/20251126.1000.situation-report.pdf)
 * [2025-11-25 10:00 Situation Report](data/situation-reports/20251125.1000.situation-report.pdf)
 * [2025-11-24 09:00 Situation Report](data/situation-reports/20251124.0900.situation-report.pdf)
 * [2025-11-23 09:00 Situation Report](data/situation-reports/20251123.0900.situation-report.pdf)
@@ -45,7 +46,6 @@
 * [2025-11-18 09:00 Situation Report](data/situation-reports/20251118.0900.situation-report.pdf)
 * [2025-11-17 09:00 Situation Report](data/situation-reports/20251117.0900.situation-report.pdf)
 * [2025-11-16 09:00 Situation Report](data/situation-reports/20251116.0900.situation-report.pdf)
-* [2025-11-15 09:00 Situation Report](data/situation-reports/20251115.0900.situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10435/10684** documents downloaded.
+**10436/10685** documents downloaded.
 
+* [2025-11-26 10:30 Warning for low pressure area in vicinity of Sri Lanka](data/weather-reports/20251126.1030.warning-for-low-pressure-area-in-vicinity-of-sri-lanka.pdf)
 * [2025-11-26 07:00 Weather forecast for multi-day boats](data/weather-reports/20251126.0700.weather-forecast-for-multiday-boats.pdf)
 * [2025-11-25 22:30 Warning for low pressure area over South-West Bay of Bengal and Sri Lanka](data/weather-reports/20251125.2230.warning-for-low-pressure-area-over-southwest-bay-of-bengal-and-sri-lanka.pdf)
 * [2025-11-25 17:00 Weather Advisory](data/weather-reports/20251125.1700.weather-advisory.pdf)
@@ -68,12 +69,13 @@
 * [2025-11-25 10:30 Advisory for low pressure area over South-West Bay of Bengal](data/weather-reports/20251125.1030.advisory-for-low-pressure-area-over-southwest-bay-of-bengal.pdf)
 * [2025-11-25 05:30 Weather Forecast](data/weather-reports/20251125.0530.weather-forecast.pdf)
 * [2025-11-24 17:00 Weather Advisory](data/weather-reports/20251124.1700.weather-advisory.pdf)
-* [2025-11-24 16:00 Weather Forecast](data/weather-reports/20251124.1600.weather-forecast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1877/2193** documents downloaded.
+**1879/2195** documents downloaded.
 
+* [2025-11-26 10:30 Flood warning  Mundeni Aru Basin  No 01](data/river-water-level-and-flood-warnings/20251126.1030.flood-warning-mundeni-aru-basin-no-01.pdf)
+* [2025-11-26 10:00 Flood warning](data/river-water-level-and-flood-warnings/20251126.1000.flood-warning.pdf)
 * [2025-11-26 09:30 water level](data/river-water-level-and-flood-warnings/20251126.0930.water-level.pdf)
 * [2025-11-26 03:00 water level](data/river-water-level-and-flood-warnings/20251126.0300.water-level.pdf)
 * [2025-11-26 00:30 Water Level](data/river-water-level-and-flood-warnings/20251126.0030.water-level.pdf)
@@ -82,8 +84,6 @@
 * [2025-11-25 15:00 Water Level](data/river-water-level-and-flood-warnings/20251125.1500.water-level.pdf)
 * [2025-11-25 12:30 water level](data/river-water-level-and-flood-warnings/20251125.1230.water-level.pdf)
 * [2025-11-25 09:30 water level](data/river-water-level-and-flood-warnings/20251125.0930.water-level.pdf)
-* [2025-11-25 09:15 Prior Flood Warning Letter](data/river-water-level-and-flood-warnings/20251125.0915.prior-flood-warning-letter.pdf)
-* [2025-11-25 06:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251125.0630.water-level-rainfall.pdf)
 
 ## Flood Inundation Maps
 
