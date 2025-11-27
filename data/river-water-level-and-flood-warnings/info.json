@@ -1,5 +1,13 @@
 [
   {
+    "name": "Water Level report at 0930hrs",
+    "time_str": "2025-11-27 09:30",
+    "time_id": "20251127.0930",
+    "ut": 1764216000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1764218689.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Flood warning maha oya basin",
     "time_str": "2025-11-27 08:00",
     "time_id": "20251127.0800",
