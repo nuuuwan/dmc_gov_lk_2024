@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10446/10695** documents downloaded.
+**10447/10696** documents downloaded.
 
+* [2025-11-27 20:00 Weather Advisory](data/weather-reports/20251127.2000.weather-advisory.pdf)
 * [2025-11-27 16:00 Weather Report](data/weather-reports/20251127.1600.weather-report.pdf)
 * [2025-11-27 13:00 Warning for deep depression in the vicinity of Sri Lanka issued at 1.0 p.m on 27th November 2025](data/weather-reports/20251127.1300.warning-for-deep-depression-in-the-vicinity-of-sri-lanka-issued-at-10-pm-on-27th-november-2025.pdf)
 * [2025-11-27 11:20 No Tsunami treat](data/weather-reports/20251127.1120.no-tsunami-treat.pdf)
@@ -68,22 +69,21 @@
 * [2025-11-26 17:30 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251126.1730.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
 * [2025-11-26 16:00 Weather Forcast](data/weather-reports/20251126.1600.weather-forcast.pdf)
 * [2025-11-26 15:00 Fisheman Bulletin](data/weather-reports/20251126.1500.fisheman-bulletin.pdf)
-* [2025-11-26 14:00 Weather Forecast](data/weather-reports/20251126.1400.weather-forecast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1897/2214** documents downloaded.
+**1898/2215** documents downloaded.
 
 * [2025-11-27 18:30 Water Level](data/river-water-level-and-flood-warnings/20251127.1830.water-level.pdf)
 * [2025-11-27 18:00 Flood Warning  Mahaweli River -No 01](data/river-water-level-and-flood-warnings/20251127.1800.flood-warning-mahaweli-river-no-01.pdf)
 * [2025-11-27 18:00 Flood Warning for Kelani River  No 01](data/river-water-level-and-flood-warnings/20251127.1800.flood-warning-for-kelani-river-no-01.pdf)
 * [2025-11-27 12:30 Water Level Report at 1230hrs](data/river-water-level-and-flood-warnings/20251127.1230.water-level-report-at-1230hrs.pdf)
 * [2025-11-27 09:30 Water Level report at 0930hrs](data/river-water-level-and-flood-warnings/20251127.0930.water-level-report-at-0930hrs.pdf)
+* [2025-11-27 09:00 Flood Warning for Mahaweli River  No 0  2025.11.27](data/river-water-level-and-flood-warnings/20251127.0900.flood-warning-for-mahaweli-river-no-0-20251127.pdf)
 * [2025-11-27 08:00 Flood warning maha oya basin](data/river-water-level-and-flood-warnings/20251127.0800.flood-warning-maha-oya-basin.pdf)
 * [2025-11-27 06:00 water level](data/river-water-level-and-flood-warnings/20251127.0600.water-level.pdf)
 * [2025-11-27 04:00 Flood warning for Deduru Oya -No 04](data/river-water-level-and-flood-warnings/20251127.0400.flood-warning-for-deduru-oya-no-04.pdf)
 * [2025-11-27 03:00 water level](data/river-water-level-and-flood-warnings/20251127.0300.water-level.pdf)
-* [2025-11-27 03:00 Flood Warning for Badulu Oya  No 03](data/river-water-level-and-flood-warnings/20251127.0300.flood-warning-for-badulu-oya-no-03.pdf)
 
 ## Flood Inundation Maps
 
