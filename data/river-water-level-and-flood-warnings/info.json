@@ -1,10 +1,26 @@
 [
   {
+    "name": "Water Level",
+    "time_str": "2025-11-27 18:30",
+    "time_id": "20251127.1830",
+    "ut": 1764248400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1764249885.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Flood Warning  Mahaweli River -No 01",
     "time_str": "2025-11-27 18:00",
     "time_id": "20251127.1800",
     "ut": 1764246600.0,
     "href": "https://www.dmc.gov.lk/images/dmcreports/__1764247994.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Flood Warning for Kelani River  No 01",
+    "time_str": "2025-11-27 18:00",
+    "time_id": "20251127.1800",
+    "ut": 1764246600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Flood_Warning_for_Kelani_Basin-_No_01_-_2025__1764250344.pdf",
     "ext": "pdf"
   },
   {
