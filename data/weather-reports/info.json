@@ -1,5 +1,21 @@
 [
   {
+    "name": "Weather Report",
+    "time_str": "2025-11-27 05:30",
+    "time_id": "20251127.0530",
+    "ut": 1764201600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2025__1764206179.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast",
+    "time_str": "2025-11-27 05:30",
+    "time_id": "20251127.0530",
+    "ut": 1764201600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2025__1764208669.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Warning for low pressure area in vicinity of Sri Lanka",
     "time_str": "2025-11-26 22:30",
     "time_id": "20251126.2230",

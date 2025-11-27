@@ -57,8 +57,10 @@
 
 ## Weather Reports
 
-**10441/10690** documents downloaded.
+**10443/10692** documents downloaded.
 
+* [2025-11-27 05:30 Weather Report](data/weather-reports/20251127.0530.weather-report.pdf)
+* [2025-11-27 05:30 Weather Forecast](data/weather-reports/20251127.0530.weather-forecast.pdf)
 * [2025-11-26 22:30 Warning for low pressure area in vicinity of Sri Lanka](data/weather-reports/20251126.2230.warning-for-low-pressure-area-in-vicinity-of-sri-lanka.pdf)
 * [2025-11-26 17:30 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251126.1730.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
 * [2025-11-26 16:00 Weather Forcast](data/weather-reports/20251126.1600.weather-forcast.pdf)
@@ -67,13 +69,12 @@
 * [2025-11-26 10:30 Warning for low pressure area in vicinity of Sri Lanka](data/weather-reports/20251126.1030.warning-for-low-pressure-area-in-vicinity-of-sri-lanka.pdf)
 * [2025-11-26 07:00 Weather forecast for multi-day boats](data/weather-reports/20251126.0700.weather-forecast-for-multiday-boats.pdf)
 * [2025-11-25 22:30 Warning for low pressure area over South-West Bay of Bengal and Sri Lanka](data/weather-reports/20251125.2230.warning-for-low-pressure-area-over-southwest-bay-of-bengal-and-sri-lanka.pdf)
-* [2025-11-25 17:00 Weather Advisory](data/weather-reports/20251125.1700.weather-advisory.pdf)
-* [2025-11-25 16:00 Weather Forecast](data/weather-reports/20251125.1600.weather-forecast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1890/2207** documents downloaded.
+**1891/2208** documents downloaded.
 
+* [2025-11-27 06:00 water level](data/river-water-level-and-flood-warnings/20251127.0600.water-level.pdf)
 * [2025-11-27 04:00 Flood warning for Deduru Oya -No 04](data/river-water-level-and-flood-warnings/20251127.0400.flood-warning-for-deduru-oya-no-04.pdf)
 * [2025-11-27 03:00 water level](data/river-water-level-and-flood-warnings/20251127.0300.water-level.pdf)
 * [2025-11-27 03:00 Flood Warning for Badulu Oya  No 03](data/river-water-level-and-flood-warnings/20251127.0300.flood-warning-for-badulu-oya-no-03.pdf)
@@ -83,7 +84,6 @@
 * [2025-11-26 18:30 water level](data/river-water-level-and-flood-warnings/20251126.1830.water-level.pdf)
 * [2025-11-26 15:00 water level](data/river-water-level-and-flood-warnings/20251126.1500.water-level.pdf)
 * [2025-11-26 14:00 Flood Warning  Mahaweli River  No 01](data/river-water-level-and-flood-warnings/20251126.1400.flood-warning-mahaweli-river-no-01.pdf)
-* [2025-11-26 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251126.1230.water-level-rainfall.pdf)
 
 ## Flood Inundation Maps
 
