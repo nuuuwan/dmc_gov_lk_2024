@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**694/701** documents downloaded.
+**695/702** documents downloaded.
 
+* [2025-11-27 16:30 Landslide Early Warning](data/landslide-warnings/20251127.1630.landslide-early-warning.pdf)
 * [2025-11-26 21:30 Landslide Early Warning](data/landslide-warnings/20251126.2130.landslide-early-warning.pdf)
 * [2025-11-26 17:00 Landslide Early Warning](data/landslide-warnings/20251126.1700.landslide-early-warning.pdf)
 * [2025-11-26 08:00 Landslide Warning](data/landslide-warnings/20251126.0800.landslide-warning.pdf)
@@ -15,7 +16,6 @@
 * [2025-11-22 14:30 Landslide Ew Report](data/landslide-warnings/20251122.1430.landslide-ew-report.pdf)
 * [2025-11-21 20:00 Landslide Early Warning](data/landslide-warnings/20251121.2000.landslide-early-warning.pdf)
 * [2025-11-21 16:00 Landslide Early Warning](data/landslide-warnings/20251121.1600.landslide-early-warning.pdf)
-* [2025-11-20 16:00 Landslide Early Warning](data/landslide-warnings/20251120.1600.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10445/10694** documents downloaded.
+**10446/10695** documents downloaded.
 
+* [2025-11-27 16:00 Weather Report](data/weather-reports/20251127.1600.weather-report.pdf)
 * [2025-11-27 13:00 Warning for deep depression in the vicinity of Sri Lanka issued at 1.0 p.m on 27th November 2025](data/weather-reports/20251127.1300.warning-for-deep-depression-in-the-vicinity-of-sri-lanka-issued-at-10-pm-on-27th-november-2025.pdf)
 * [2025-11-27 11:20 No Tsunami treat](data/weather-reports/20251127.1120.no-tsunami-treat.pdf)
 * [2025-11-27 05:30 Weather Report](data/weather-reports/20251127.0530.weather-report.pdf)
@@ -68,12 +69,12 @@
 * [2025-11-26 16:00 Weather Forcast](data/weather-reports/20251126.1600.weather-forcast.pdf)
 * [2025-11-26 15:00 Fisheman Bulletin](data/weather-reports/20251126.1500.fisheman-bulletin.pdf)
 * [2025-11-26 14:00 Weather Forecast](data/weather-reports/20251126.1400.weather-forecast.pdf)
-* [2025-11-26 10:30 Warning for low pressure area in vicinity of Sri Lanka](data/weather-reports/20251126.1030.warning-for-low-pressure-area-in-vicinity-of-sri-lanka.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1894/2211** documents downloaded.
+**1895/2212** documents downloaded.
 
+* [2025-11-27 18:00 Flood Warning  Mahaweli River -No 01](data/river-water-level-and-flood-warnings/20251127.1800.flood-warning-mahaweli-river-no-01.pdf)
 * [2025-11-27 12:30 Water Level Report at 1230hrs](data/river-water-level-and-flood-warnings/20251127.1230.water-level-report-at-1230hrs.pdf)
 * [2025-11-27 09:30 Water Level report at 0930hrs](data/river-water-level-and-flood-warnings/20251127.0930.water-level-report-at-0930hrs.pdf)
 * [2025-11-27 08:00 Flood warning maha oya basin](data/river-water-level-and-flood-warnings/20251127.0800.flood-warning-maha-oya-basin.pdf)
@@ -83,7 +84,6 @@
 * [2025-11-27 03:00 Flood Warning for Badulu Oya  No 03](data/river-water-level-and-flood-warnings/20251127.0300.flood-warning-for-badulu-oya-no-03.pdf)
 * [2025-11-27 03:00 Flood Warning for Kelani Basin](data/river-water-level-and-flood-warnings/20251127.0300.flood-warning-for-kelani-basin.pdf)
 * [2025-11-27 00:30 Water Level](data/river-water-level-and-flood-warnings/20251127.0030.water-level.pdf)
-* [2025-11-26 21:00 Deduru Oya Flood warning  No 03](data/river-water-level-and-flood-warnings/20251126.2100.deduru-oya-flood-warning-no-03.pdf)
 
 ## Flood Inundation Maps
 

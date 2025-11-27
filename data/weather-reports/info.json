@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Report",
+    "time_str": "2025-11-27 16:00",
+    "time_id": "20251127.1600",
+    "ut": 1764239400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2025__1764245001.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Warning for deep depression in the vicinity of Sri Lanka issued at 1.0 p.m on 27th November 2025",
     "time_str": "2025-11-27 13:00",
     "time_id": "20251127.1300",
