@@ -1,6 +1,14 @@
 [
   {
     "name": "Weather Advisory",
+    "time_str": "2025-11-28 02:00",
+    "time_id": "20251128.0200",
+    "ut": 1764275400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Cyclonic_storm_in_the_vicinity_of_Sri_Lanka_at_02__1764276729.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Advisory",
     "time_str": "2025-11-27 20:00",
     "time_id": "20251127.2000",
     "ut": 1764253800.0,
