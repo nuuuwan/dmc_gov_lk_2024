@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10444/10693** documents downloaded.
+**10445/10694** documents downloaded.
 
+* [2025-11-27 13:00 Warning for deep depression in the vicinity of Sri Lanka issued at 1.0 p.m on 27th November 2025](data/weather-reports/20251127.1300.warning-for-deep-depression-in-the-vicinity-of-sri-lanka-issued-at-10-pm-on-27th-november-2025.pdf)
 * [2025-11-27 11:20 No Tsunami treat](data/weather-reports/20251127.1120.no-tsunami-treat.pdf)
 * [2025-11-27 05:30 Weather Report](data/weather-reports/20251127.0530.weather-report.pdf)
 * [2025-11-27 05:30 Weather Forecast](data/weather-reports/20251127.0530.weather-forecast.pdf)
@@ -68,7 +69,6 @@
 * [2025-11-26 15:00 Fisheman Bulletin](data/weather-reports/20251126.1500.fisheman-bulletin.pdf)
 * [2025-11-26 14:00 Weather Forecast](data/weather-reports/20251126.1400.weather-forecast.pdf)
 * [2025-11-26 10:30 Warning for low pressure area in vicinity of Sri Lanka](data/weather-reports/20251126.1030.warning-for-low-pressure-area-in-vicinity-of-sri-lanka.pdf)
-* [2025-11-26 07:00 Weather forecast for multi-day boats](data/weather-reports/20251126.0700.weather-forecast-for-multiday-boats.pdf)
 
 ## River Water Level And Flood Warnings
 
