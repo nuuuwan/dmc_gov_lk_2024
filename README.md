@@ -34,8 +34,10 @@
 
 ## Situation Reports
 
-**4493/4559** documents downloaded.
+**4495/4561** documents downloaded.
 
+* [2025-11-28 18:00 Situation Report](data/situation-reports/20251128.1800.situation-report.pdf)
+* [2025-11-28 18:00 Situation Report (English)](data/situation-reports/20251128.1800.situation-report-english.pdf)
 * [2025-11-28 09:00 Situation Report](data/situation-reports/20251128.0900.situation-report.pdf)
 * [2025-11-26 10:00 Situation Report](data/situation-reports/20251126.1000.situation-report.pdf)
 * [2025-11-25 10:00 Situation Report](data/situation-reports/20251125.1000.situation-report.pdf)
@@ -44,8 +46,6 @@
 * [2025-11-22 09:00 Situation Report](data/situation-reports/20251122.0900.situation-report.pdf)
 * [2025-11-21 09:00 Situation Report](data/situation-reports/20251121.0900.situation-report.pdf)
 * [2025-11-19 09:00 Situation Report](data/situation-reports/20251119.0900.situation-report.pdf)
-* [2025-11-18 09:00 Situation Report](data/situation-reports/20251118.0900.situation-report.pdf)
-* [2025-11-17 09:00 Situation Report](data/situation-reports/20251117.0900.situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10455/10704** documents downloaded.
+**10456/10705** documents downloaded.
 
+* [2025-11-28 17:00 Weather Advisory](data/weather-reports/20251128.1700.weather-advisory.pdf)
 * [2025-11-28 16:00 Weather Forcast](data/weather-reports/20251128.1600.weather-forcast.pdf)
 * [2025-11-28 14:30 Warning for Cyclonic storm in the vicinity of Sri Lanka at 1400hrs](data/weather-reports/20251128.1430.warning-for-cyclonic-storm-in-the-vicinity-of-sri-lanka-at-1400hrs.pdf)
 * [2025-11-28 14:00 Weather Report at 1400hrs on 2025.11.28](data/weather-reports/20251128.1400.weather-report-at-1400hrs-on-20251128.pdf)
@@ -68,7 +69,6 @@
 * [2025-11-28 05:00 Warning for Cyclonic storm in the vicinity of Sri Lanka](data/weather-reports/20251128.0500.warning-for-cyclonic-storm-in-the-vicinity-of-sri-lanka.pdf)
 * [2025-11-28 02:00 Weather Advisory](data/weather-reports/20251128.0200.weather-advisory.pdf)
 * [2025-11-27 20:00 Weather Advisory](data/weather-reports/20251127.2000.weather-advisory.pdf)
-* [2025-11-27 16:00 Weather Report](data/weather-reports/20251127.1600.weather-report.pdf)
 
 ## River Water Level And Flood Warnings
 
