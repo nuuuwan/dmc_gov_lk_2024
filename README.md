@@ -4,9 +4,10 @@
 
 ## Landslide Warnings
 
-**697/704** documents downloaded.
+**698/705** documents downloaded.
 
 * [2025-11-28 23:00 Landslide Early Warning](data/landslide-warnings/20251128.2300.landslide-early-warning.pdf)
+* [2025-11-28 05:00 Landslide Early Warning](data/landslide-warnings/20251128.0500.landslide-early-warning.pdf)
 * [2025-11-28 02:00 Landslide Early Warning](data/landslide-warnings/20251128.0200.landslide-early-warning.pdf)
 * [2025-11-27 16:30 Landslide Early Warning](data/landslide-warnings/20251127.1630.landslide-early-warning.pdf)
 * [2025-11-26 21:30 Landslide Early Warning](data/landslide-warnings/20251126.2130.landslide-early-warning.pdf)
@@ -15,7 +16,6 @@
 * [2025-11-25 14:30 Landslide Early Warning](data/landslide-warnings/20251125.1430.landslide-early-warning.pdf)
 * [2025-11-24 14:30 Landslide warning](data/landslide-warnings/20251124.1430.landslide-warning.pdf)
 * [2025-11-23 15:00 Landslide Early Warning](data/landslide-warnings/20251123.1500.landslide-early-warning.pdf)
-* [2025-11-22 14:30 Landslide Ew Report](data/landslide-warnings/20251122.1430.landslide-ew-report.pdf)
 
 ## Earthquakes
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10448/10697** documents downloaded.
+**10449/10698** documents downloaded.
 
+* [2025-11-28 05:00 Weather Advisory](data/weather-reports/20251128.0500.weather-advisory.pdf)
 * [2025-11-28 02:00 Weather Advisory](data/weather-reports/20251128.0200.weather-advisory.pdf)
 * [2025-11-27 20:00 Weather Advisory](data/weather-reports/20251127.2000.weather-advisory.pdf)
 * [2025-11-27 16:00 Weather Report](data/weather-reports/20251127.1600.weather-report.pdf)
@@ -68,12 +69,12 @@
 * [2025-11-27 05:30 Weather Forecast](data/weather-reports/20251127.0530.weather-forecast.pdf)
 * [2025-11-26 22:30 Warning for low pressure area in vicinity of Sri Lanka](data/weather-reports/20251126.2230.warning-for-low-pressure-area-in-vicinity-of-sri-lanka.pdf)
 * [2025-11-26 17:30 Advisory for strong winds heavy showers and rough seas](data/weather-reports/20251126.1730.advisory-for-strong-winds-heavy-showers-and-rough-seas.pdf)
-* [2025-11-26 16:00 Weather Forcast](data/weather-reports/20251126.1600.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1906/2223** documents downloaded.
+**1907/2224** documents downloaded.
 
+* [2025-11-28 06:00 flood Warning](data/river-water-level-and-flood-warnings/20251128.0600.flood-warning.pdf)
 * [2025-11-28 03:30 River Water level](data/river-water-level-and-flood-warnings/20251128.0330.river-water-level.pdf)
 * [2025-11-28 03:30 water level](data/river-water-level-and-flood-warnings/20251128.0330.water-level.pdf)
 * [2025-11-28 03:00 water level](data/river-water-level-and-flood-warnings/20251128.0300.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-11-27 22:00 Flood warning for Menik Ganga Basin](data/river-water-level-and-flood-warnings/20251127.2200.flood-warning-for-menik-ganga-basin.pdf)
 * [2025-11-27 19:00 Flood warning for Kala Oya Basin](data/river-water-level-and-flood-warnings/20251127.1900.flood-warning-for-kala-oya-basin.pdf)
 * [2025-11-27 18:30 Water Level](data/river-water-level-and-flood-warnings/20251127.1830.water-level.pdf)
-* [2025-11-27 18:00 Flood Warning  Mahaweli River -No 01](data/river-water-level-and-flood-warnings/20251127.1800.flood-warning-mahaweli-river-no-01.pdf)
 
 ## Flood Inundation Maps
 
