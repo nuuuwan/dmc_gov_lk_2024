@@ -1,5 +1,13 @@
 [
   {
+    "name": "Warning for Cyclonic storm in the vicinity of Sri Lanka",
+    "time_str": "2025-11-28 12:00",
+    "time_id": "20251128.1200",
+    "ut": 1764311400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Cyclonic_storm_in_the_vicinity_of_Sri_Lanka_Issued_at_11__1764313192.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Advisory",
     "time_str": "2025-11-28 08:00",
     "time_id": "20251128.0800",

@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10451/10700** documents downloaded.
+**10452/10701** documents downloaded.
 
+* [2025-11-28 12:00 Warning for Cyclonic storm in the vicinity of Sri Lanka](data/weather-reports/20251128.1200.warning-for-cyclonic-storm-in-the-vicinity-of-sri-lanka.pdf)
 * [2025-11-28 08:00 Weather Advisory](data/weather-reports/20251128.0800.weather-advisory.pdf)
 * [2025-11-28 05:00 Weather Advisory](data/weather-reports/20251128.0500.weather-advisory.pdf)
 * [2025-11-28 05:00 Warning for Cyclonic storm in the vicinity of Sri Lanka](data/weather-reports/20251128.0500.warning-for-cyclonic-storm-in-the-vicinity-of-sri-lanka.pdf)
@@ -68,22 +69,21 @@
 * [2025-11-27 13:00 Warning for deep depression in the vicinity of Sri Lanka issued at 1.0 p.m on 27th November 2025](data/weather-reports/20251127.1300.warning-for-deep-depression-in-the-vicinity-of-sri-lanka-issued-at-10-pm-on-27th-november-2025.pdf)
 * [2025-11-27 11:20 No Tsunami treat](data/weather-reports/20251127.1120.no-tsunami-treat.pdf)
 * [2025-11-27 05:30 Weather Report](data/weather-reports/20251127.0530.weather-report.pdf)
-* [2025-11-27 05:30 Weather Forecast](data/weather-reports/20251127.0530.weather-forecast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1910/2227** documents downloaded.
+**1914/2231** documents downloaded.
 
+* [2025-11-28 12:30 Water Level](data/river-water-level-and-flood-warnings/20251128.1230.water-level.pdf)
+* [2025-11-28 12:30 Flood Warning for Mundeni Aru  No 0  Extended warningnde](data/river-water-level-and-flood-warnings/20251128.1230.flood-warning-for-mundeni-aru-no-0-extended-warningnde.pdf)
+* [2025-11-28 12:30 Flood warning for Mee Oya  No 0  (Extended warning)](data/river-water-level-and-flood-warnings/20251128.1230.flood-warning-for-mee-oya-no-0-extended-warning.pdf)
+* [2025-11-28 12:30 Flood Warning for Gal Oya Basin  No 0 Extended Warning](data/river-water-level-and-flood-warnings/20251128.1230.flood-warning-for-gal-oya-basin-no-0-extended-warning.pdf)
 * [2025-11-28 09:30 Water Level](data/river-water-level-and-flood-warnings/20251128.0930.water-level.pdf)
 * [2025-11-28 08:00 Flood warning for Kalu River  No 02](data/river-water-level-and-flood-warnings/20251128.0800.flood-warning-for-kalu-river-no-02.pdf)
 * [2025-11-28 06:00 flood Warning](data/river-water-level-and-flood-warnings/20251128.0600.flood-warning.pdf)
 * [2025-11-28 06:00 water level](data/river-water-level-and-flood-warnings/20251128.0600.water-level.pdf)
 * [2025-11-28 03:30 River Water level](data/river-water-level-and-flood-warnings/20251128.0330.river-water-level.pdf)
 * [2025-11-28 03:30 water level](data/river-water-level-and-flood-warnings/20251128.0330.water-level.pdf)
-* [2025-11-28 03:00 water level](data/river-water-level-and-flood-warnings/20251128.0300.water-level.pdf)
-* [2025-11-28 01:00 flood Warning](data/river-water-level-and-flood-warnings/20251128.0100.flood-warning.pdf)
-* [2025-11-28 00:30 Flood warning](data/river-water-level-and-flood-warnings/20251128.0030.flood-warning.pdf)
-* [2025-11-27 23:00 Flood warning](data/river-water-level-and-flood-warnings/20251127.2300.flood-warning.pdf)
 
 ## Flood Inundation Maps
 
