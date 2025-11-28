@@ -8,6 +8,14 @@
     "ext": "pdf"
   },
   {
+    "name": "Weather Advisory",
+    "time_str": "2025-11-29 02:00",
+    "time_id": "20251129.0200",
+    "ut": 1764361800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Cyclonic_storm_\u201cDitwah\u201d_,_Issued_at_02__1764364720.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": " The Warning for Cyclonic storm in the vicinity",
     "time_str": "2025-11-28 20:00",
     "time_id": "20251128.2000",

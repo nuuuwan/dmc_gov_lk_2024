@@ -57,9 +57,10 @@
 
 ## Weather Reports
 
-**10457/10707** documents downloaded.
+**10458/10708** documents downloaded.
 
 * [2025-11-29 23:00 Weather Advisory](data/weather-reports/20251129.2300.weather-advisory.pdf)
+* [2025-11-29 02:00 Weather Advisory](data/weather-reports/20251129.0200.weather-advisory.pdf)
 * [2025-11-28 20:00 The Warning for Cyclonic storm in the vicinity](data/weather-reports/20251128.2000.the-warning-for-cyclonic-storm-in-the-vicinity.lk/images/dmcreports/)
 * [2025-11-28 17:00 Weather Advisory](data/weather-reports/20251128.1700.weather-advisory.pdf)
 * [2025-11-28 16:00 Weather Forcast](data/weather-reports/20251128.1600.weather-forcast.pdf)
@@ -68,7 +69,6 @@
 * [2025-11-28 12:00 Warning for Cyclonic storm in the vicinity of Sri Lanka](data/weather-reports/20251128.1200.warning-for-cyclonic-storm-in-the-vicinity-of-sri-lanka.pdf)
 * [2025-11-28 08:00 Weather Advisory](data/weather-reports/20251128.0800.weather-advisory.pdf)
 * [2025-11-28 05:00 Weather Advisory](data/weather-reports/20251128.0500.weather-advisory.pdf)
-* [2025-11-28 05:00 Warning for Cyclonic storm in the vicinity of Sri Lanka](data/weather-reports/20251128.0500.warning-for-cyclonic-storm-in-the-vicinity-of-sri-lanka.pdf)
 
 ## River Water Level And Flood Warnings
 
