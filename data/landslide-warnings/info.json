@@ -9,6 +9,14 @@
   },
   {
     "name": "Landslide Early Warning",
+    "time_str": "2025-11-28 16:00",
+    "time_id": "20251128.1600",
+    "ut": 1764325800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Landslide_Ew_Report_at_16__1764330786.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Landslide Early Warning",
     "time_str": "2025-11-28 05:00",
     "time_id": "20251128.0500",
     "ut": 1764286200.0,
