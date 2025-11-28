@@ -1,5 +1,13 @@
 [
   {
+    "name": "Flood warning for Kalu River  No 02",
+    "time_str": "2025-11-28 08:00",
+    "time_id": "20251128.0800",
+    "ut": 1764297000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Flood_warning_for_Kalu_River_Basin_-_No_02_-_2025__1764301129.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "flood Warning",
     "time_str": "2025-11-28 06:00",
     "time_id": "20251128.0600",
