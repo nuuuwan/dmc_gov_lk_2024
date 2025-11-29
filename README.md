@@ -57,33 +57,33 @@
 
 ## Weather Reports
 
-**10461/10711** documents downloaded.
+**10463/10712** documents downloaded.
 
-* [2025-11-29 23:00 Weather Advisory](data/weather-reports/20251129.2300.weather-advisory.pdf)
+* [2025-11-29 11:00 Warning for Cyclonic storm “Ditwah in the vicinity of Sri Lanka](data/weather-reports/20251129.1100.warning-for-cyclonic-storm-ditwah-in-the-vicinity-of-sri-lanka.pdf)
 * [2025-11-29 08:00 Warning for Cyclonic storm “Ditwah in the vicinity of Sri Lanka](data/weather-reports/20251129.0800.warning-for-cyclonic-storm-ditwah-in-the-vicinity-of-sri-lanka.pdf)
 * [2025-11-29 05:30 Weather Forcast](data/weather-reports/20251129.0530.weather-forcast.pdf)
 * [2025-11-29 05:00 Weather Advisory](data/weather-reports/20251129.0500.weather-advisory.pdf)
 * [2025-11-29 02:00 Weather Advisory](data/weather-reports/20251129.0200.weather-advisory.pdf)
+* [2025-11-28 23:00 Weather Advisory](data/weather-reports/20251128.2300.weather-advisory.pdf)
 * [2025-11-28 20:00 The Warning for Cyclonic storm in the vicinity](data/weather-reports/20251128.2000.the-warning-for-cyclonic-storm-in-the-vicinity.lk/images/dmcreports/)
 * [2025-11-28 17:00 Weather Advisory](data/weather-reports/20251128.1700.weather-advisory.pdf)
 * [2025-11-28 16:00 Weather Forcast](data/weather-reports/20251128.1600.weather-forcast.pdf)
 * [2025-11-28 14:30 Warning for Cyclonic storm in the vicinity of Sri Lanka at 1400hrs](data/weather-reports/20251128.1430.warning-for-cyclonic-storm-in-the-vicinity-of-sri-lanka-at-1400hrs.pdf)
-* [2025-11-28 14:00 Weather Report at 1400hrs on 2025.11.28](data/weather-reports/20251128.1400.weather-report-at-1400hrs-on-20251128.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1923/2241** documents downloaded.
+**1925/2242** documents downloaded.
 
-* [2025-11-29 12:00 River Water level](data/river-water-level-and-flood-warnings/20251129.1200.river-water-level.pdf)
+* [2025-11-29 12:30 Water level  Rainfall](data/river-water-level-and-flood-warnings/20251129.1230.water-level-rainfall.pdf)
 * [2025-11-29 09:30 Water Level and Rainfall](data/river-water-level-and-flood-warnings/20251129.0930.water-level-and-rainfall.pdf)
 * [2025-11-29 09:30 Water Level and Rainfall](data/river-water-level-and-flood-warnings/20251129.0930.water-level-and-rainfall.pdf)
 * [2025-11-29 06:00 Water Level](data/river-water-level-and-flood-warnings/20251129.0600.water-level.pdf)
 * [2025-11-29 03:00 water level](data/river-water-level-and-flood-warnings/20251129.0300.water-level.pdf)
+* [2025-11-29 00:00 River Water level](data/river-water-level-and-flood-warnings/20251129.0000.river-water-level.pdf)
 * [2025-11-28 22:00 flood Warning](data/river-water-level-and-flood-warnings/20251128.2200.flood-warning.pdf)
 * [2025-11-28 21:30 water level](data/river-water-level-and-flood-warnings/20251128.2130.water-level.pdf)
 * [2025-11-28 15:30 Major Flood warning for Aththanagalu Oya Basin  No 05](data/river-water-level-and-flood-warnings/20251128.1530.major-flood-warning-for-aththanagalu-oya-basin-no-05.pdf)
 * [2025-11-28 15:30 Water Level](data/river-water-level-and-flood-warnings/20251128.1530.water-level.pdf)
-* [2025-11-28 13:00 Major Flood Warning for Kelani River No 0  2025.11.28_SPECIAL ANNOUNCEMENT](data/river-water-level-and-flood-warnings/20251128.1300.major-flood-warning-for-kelani-river-no-0-20251128_special-announcement.pdf)
 
 ## Flood Inundation Maps
 

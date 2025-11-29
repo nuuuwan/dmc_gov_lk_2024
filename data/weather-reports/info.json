@@ -1,10 +1,10 @@
 [
   {
-    "name": " Weather Advisory ",
-    "time_str": "2025-11-29 23:00",
-    "time_id": "20251129.2300",
-    "ut": 1764437400.0,
-    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Cyclonic_storm_in_the_vicinity_of_Sri_Lanka_Issued_at_23__1764355761.pdf",
+    "name": "Warning for Cyclonic storm \u201cDitwah in the vicinity of Sri Lanka",
+    "time_str": "2025-11-29 11:00",
+    "time_id": "20251129.1100",
+    "ut": 1764394200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Cyclonic_storm_\u201cDitwah\u201d_in_the_vicinity_of_Sri_Lanka_at_11__1764402102.pdf",
     "ext": "pdf"
   },
   {
@@ -37,6 +37,14 @@
     "time_id": "20251129.0200",
     "ut": 1764361800.0,
     "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Cyclonic_storm_\u201cDitwah\u201d_,_Issued_at_02__1764364720.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": " Weather Advisory ",
+    "time_str": "2025-11-28 23:00",
+    "time_id": "20251128.2300",
+    "ut": 1764351000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Cyclonic_storm_in_the_vicinity_of_Sri_Lanka_Issued_at_23__1764355761.pdf",
     "ext": "pdf"
   },
   {
