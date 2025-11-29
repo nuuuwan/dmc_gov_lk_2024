@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**4500/4567** documents downloaded.
+**4501/4568** documents downloaded.
 
+* [2025-11-29 18:00 Situation Report (English)](data/situation-reports/20251129.1800.situation-report-english.pdf)
 * [2025-11-29 14:00 Situation Report (English)](data/situation-reports/20251129.1400.situation-report-english.pdf)
 * [2025-11-29 09:00 Situation Report (Sinhala)](data/situation-reports/20251129.0900.situation-report-sinhala.pdf)
 * [2025-11-29 09:00 Situation Report (English)](data/situation-reports/20251129.0900.situation-report-english.pdf)
@@ -45,7 +46,6 @@
 * [2025-11-28 18:00 Situation Report](data/situation-reports/20251128.1800.situation-report.pdf)
 * [2025-11-28 09:00 Situation Report](data/situation-reports/20251128.0900.situation-report.pdf)
 * [2025-11-27 18:00 Situation Report](data/situation-reports/20251127.1800.situation-report.pdf)
-* [2025-11-26 10:00 Situation Report](data/situation-reports/20251126.1000.situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
