@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**4499/4566** documents downloaded.
+**4500/4567** documents downloaded.
 
+* [2025-11-29 14:00 Situation Report (English)](data/situation-reports/20251129.1400.situation-report-english.pdf)
 * [2025-11-29 09:00 Situation Report (Sinhala)](data/situation-reports/20251129.0900.situation-report-sinhala.pdf)
 * [2025-11-29 09:00 Situation Report (English)](data/situation-reports/20251129.0900.situation-report-english.pdf)
 * [2025-11-29 06:00 Situation Report](data/situation-reports/20251129.0600.situation-report.pdf)
@@ -45,7 +46,6 @@
 * [2025-11-28 09:00 Situation Report](data/situation-reports/20251128.0900.situation-report.pdf)
 * [2025-11-27 18:00 Situation Report](data/situation-reports/20251127.1800.situation-report.pdf)
 * [2025-11-26 10:00 Situation Report](data/situation-reports/20251126.1000.situation-report.pdf)
-* [2025-11-25 10:00 Situation Report](data/situation-reports/20251125.1000.situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -57,8 +57,10 @@
 
 ## Weather Reports
 
-**10463/10712** documents downloaded.
+**10465/10714** documents downloaded.
 
+* [2025-11-29 14:00 Weather Forecast](data/weather-reports/20251129.1400.weather-forecast.pdf)
+* [2025-11-29 14:00 Warning for Cyclonic storm “Ditwah in the vicinity of Sri Lanka](data/weather-reports/20251129.1400.warning-for-cyclonic-storm-ditwah-in-the-vicinity-of-sri-lanka.pdf)
 * [2025-11-29 11:00 Warning for Cyclonic storm “Ditwah in the vicinity of Sri Lanka](data/weather-reports/20251129.1100.warning-for-cyclonic-storm-ditwah-in-the-vicinity-of-sri-lanka.pdf)
 * [2025-11-29 08:00 Warning for Cyclonic storm “Ditwah in the vicinity of Sri Lanka](data/weather-reports/20251129.0800.warning-for-cyclonic-storm-ditwah-in-the-vicinity-of-sri-lanka.pdf)
 * [2025-11-29 05:30 Weather Forcast](data/weather-reports/20251129.0530.weather-forcast.pdf)
@@ -67,8 +69,6 @@
 * [2025-11-28 23:00 Weather Advisory](data/weather-reports/20251128.2300.weather-advisory.pdf)
 * [2025-11-28 20:00 The Warning for Cyclonic storm in the vicinity](data/weather-reports/20251128.2000.the-warning-for-cyclonic-storm-in-the-vicinity.lk/images/dmcreports/)
 * [2025-11-28 17:00 Weather Advisory](data/weather-reports/20251128.1700.weather-advisory.pdf)
-* [2025-11-28 16:00 Weather Forcast](data/weather-reports/20251128.1600.weather-forcast.pdf)
-* [2025-11-28 14:30 Warning for Cyclonic storm in the vicinity of Sri Lanka at 1400hrs](data/weather-reports/20251128.1430.warning-for-cyclonic-storm-in-the-vicinity-of-sri-lanka-at-1400hrs.pdf)
 
 ## River Water Level And Flood Warnings
 
