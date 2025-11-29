@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Advisory",
+    "time_str": "2025-11-30 02:00",
+    "time_id": "20251130.0200",
+    "ut": 1764448200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Cyclonic_storm_\u201cDitwah\u201d_in_the_vicinity_of_Sri_Lanka_at_0200hrs_on_30__1764453723.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Warning for Cyclonic storm \u201cDitwah ",
     "time_str": "2025-11-29 20:00",
     "time_id": "20251129.2000",

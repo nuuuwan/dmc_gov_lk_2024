@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10468/10717** documents downloaded.
+**10469/10718** documents downloaded.
 
+* [2025-11-30 02:00 Weather Advisory](data/weather-reports/20251130.0200.weather-advisory.pdf)
 * [2025-11-29 20:00 Warning for Cyclonic storm “Ditwah](data/weather-reports/20251129.2000.warning-for-cyclonic-storm-ditwah.pdf)
 * [2025-11-29 17:00 Warning for Cyclonic storm “Ditwah](data/weather-reports/20251129.1700.warning-for-cyclonic-storm-ditwah.pdf)
 * [2025-11-29 16:00 weather Report](data/weather-reports/20251129.1600.weather-report.pdf)
@@ -68,12 +69,12 @@
 * [2025-11-29 08:00 Warning for Cyclonic storm “Ditwah in the vicinity of Sri Lanka](data/weather-reports/20251129.0800.warning-for-cyclonic-storm-ditwah-in-the-vicinity-of-sri-lanka.pdf)
 * [2025-11-29 05:30 Weather Forcast](data/weather-reports/20251129.0530.weather-forcast.pdf)
 * [2025-11-29 05:00 Weather Advisory](data/weather-reports/20251129.0500.weather-advisory.pdf)
-* [2025-11-29 02:00 Weather Advisory](data/weather-reports/20251129.0200.weather-advisory.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1929/2245** documents downloaded.
+**1930/2246** documents downloaded.
 
+* [2025-11-30 03:00 water level](data/river-water-level-and-flood-warnings/20251130.0300.water-level.pdf)
 * [2025-11-30 00:30 Water Level](data/river-water-level-and-flood-warnings/20251130.0030.water-level.pdf)
 * [2025-11-29 21:30 water level](data/river-water-level-and-flood-warnings/20251129.2130.water-level.pdf)
 * [2025-11-29 18:30 water level](data/river-water-level-and-flood-warnings/20251129.1830.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-11-29 06:00 Water Level](data/river-water-level-and-flood-warnings/20251129.0600.water-level.pdf)
 * [2025-11-29 03:00 water level](data/river-water-level-and-flood-warnings/20251129.0300.water-level.pdf)
 * [2025-11-29 00:00 River Water level](data/river-water-level-and-flood-warnings/20251129.0000.river-water-level.pdf)
-* [2025-11-28 22:00 flood Warning](data/river-water-level-and-flood-warnings/20251128.2200.flood-warning.pdf)
 
 ## Flood Inundation Maps
 
