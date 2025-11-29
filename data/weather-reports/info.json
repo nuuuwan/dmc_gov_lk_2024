@@ -8,6 +8,22 @@
     "ext": "pdf"
   },
   {
+    "name": "Weather Forcast",
+    "time_str": "2025-11-29 05:30",
+    "time_id": "20251129.0530",
+    "ut": 1764374400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2025__1764375848.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Advisory",
+    "time_str": "2025-11-29 05:00",
+    "time_id": "20251129.0500",
+    "ut": 1764372600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Warning_for_Cyclonic_storm_\u201cDitwah\u201d_,_Issued_at_05__1764374743.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Advisory",
     "time_str": "2025-11-29 02:00",
     "time_id": "20251129.0200",
