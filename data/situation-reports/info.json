@@ -1,5 +1,21 @@
 [
   {
+    "name": "Situation Report (Sinhala)",
+    "time_str": "2025-11-29 09:00",
+    "time_id": "20251129.0900",
+    "ut": 1764387000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_(Sinhala)___1764390085.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Situation Report (English)",
+    "time_str": "2025-11-29 09:00",
+    "time_id": "20251129.0900",
+    "ut": 1764387000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_(English)___1764390338.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Situation Report",
     "time_str": "2025-11-29 06:00",
     "time_id": "20251129.0600",
