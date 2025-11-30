@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10474/10723** documents downloaded.
+**10475/10724** documents downloaded.
 
+* [2025-12-01 03:00 Weather Advisory](data/weather-reports/20251201.0300.weather-advisory.pdf)
 * [2025-11-30 16:00 Weather Reports](data/weather-reports/20251130.1600.weather-reports.pdf)
 * [2025-11-30 14:00 Weather Forecast](data/weather-reports/20251130.1400.weather-forecast.pdf)
 * [2025-11-30 10:00 Weather Advisory](data/weather-reports/20251130.1000.weather-advisory.pdf)
@@ -68,14 +69,14 @@
 * [2025-11-29 20:00 Warning for Cyclonic storm “Ditwah](data/weather-reports/20251129.2000.warning-for-cyclonic-storm-ditwah.pdf)
 * [2025-11-29 17:00 Warning for Cyclonic storm “Ditwah](data/weather-reports/20251129.1700.warning-for-cyclonic-storm-ditwah.pdf)
 * [2025-11-29 16:00 weather Report](data/weather-reports/20251129.1600.weather-report.pdf)
-* [2025-11-29 14:00 Weather Forecast](data/weather-reports/20251129.1400.weather-forecast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1939/2256** documents downloaded.
+**1940/2257** documents downloaded.
 
 * [2025-12-01 12:30 water level](data/river-water-level-and-flood-warnings/20251201.1230.water-level.pdf)
 * [2025-12-01 12:00 flood Warning](data/river-water-level-and-flood-warnings/20251201.1200.flood-warning.pdf)
+* [2025-12-01 03:00 water level](data/river-water-level-and-flood-warnings/20251201.0300.water-level.pdf)
 * [2025-11-30 21:00 Water Level](data/river-water-level-and-flood-warnings/20251130.2100.water-level.pdf)
 * [2025-11-30 18:00 water level](data/river-water-level-and-flood-warnings/20251130.1800.water-level.pdf)
 * [2025-11-30 18:00 Water Level](data/river-water-level-and-flood-warnings/20251130.1800.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-11-30 12:00 water level](data/river-water-level-and-flood-warnings/20251130.1200.water-level.pdf)
 * [2025-11-30 10:00 Flood Warning for Kalu River Basin](data/river-water-level-and-flood-warnings/20251130.1000.flood-warning-for-kalu-river-basin.pdf)
 * [2025-11-30 09:30 water level](data/river-water-level-and-flood-warnings/20251130.0930.water-level.pdf)
-* [2025-11-30 06:30 water level](data/river-water-level-and-flood-warnings/20251130.0630.water-level.pdf)
 
 ## Flood Inundation Maps
 

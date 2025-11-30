@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Advisory",
+    "time_str": "2025-12-01 03:00",
+    "time_id": "20251201.0300",
+    "ut": 1764538200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Deep_Depression_report_on_2025__1764541617.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Reports ",
     "time_str": "2025-11-30 16:00",
     "time_id": "20251130.1600",
