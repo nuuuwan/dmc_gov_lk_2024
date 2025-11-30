@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**4503/4570** documents downloaded.
+**4504/4571** documents downloaded.
 
+* [2025-11-30 07:00 Weather forecast for multi-day boats](data/situation-reports/20251130.0700.weather-forecast-for-multiday-boats.pdf)
 * [2025-11-30 06:00 Situation Report](data/situation-reports/20251130.0600.situation-report.pdf)
 * [2025-11-29 20:00 Situation Report](data/situation-reports/20251129.2000.situation-report.pdf)
 * [2025-11-29 18:00 Situation Report (English)](data/situation-reports/20251129.1800.situation-report-english.pdf)
@@ -45,7 +46,6 @@
 * [2025-11-29 06:00 Situation Report](data/situation-reports/20251129.0600.situation-report.pdf)
 * [2025-11-28 18:00 Situation Report](data/situation-reports/20251128.1800.situation-report.pdf)
 * [2025-11-28 18:00 Situation Report (English)](data/situation-reports/20251128.1800.situation-report-english.pdf)
-* [2025-11-28 18:00 Situation Report](data/situation-reports/20251128.1800.situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
