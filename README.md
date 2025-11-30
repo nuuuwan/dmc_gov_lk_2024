@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10471/10720** documents downloaded.
+**10472/10721** documents downloaded.
 
+* [2025-11-30 14:00 Weather Forecast](data/weather-reports/20251130.1400.weather-forecast.pdf)
 * [2025-11-30 10:00 Weather Advisory](data/weather-reports/20251130.1000.weather-advisory.pdf)
 * [2025-11-30 05:30 Weather Forcast](data/weather-reports/20251130.0530.weather-forcast.pdf)
 * [2025-11-30 02:00 Weather Advisory](data/weather-reports/20251130.0200.weather-advisory.pdf)
@@ -68,7 +69,6 @@
 * [2025-11-29 14:00 Weather Forecast](data/weather-reports/20251129.1400.weather-forecast.pdf)
 * [2025-11-29 14:00 Warning for Cyclonic storm “Ditwah in the vicinity of Sri Lanka](data/weather-reports/20251129.1400.warning-for-cyclonic-storm-ditwah-in-the-vicinity-of-sri-lanka.pdf)
 * [2025-11-29 11:00 Warning for Cyclonic storm “Ditwah in the vicinity of Sri Lanka](data/weather-reports/20251129.1100.warning-for-cyclonic-storm-ditwah-in-the-vicinity-of-sri-lanka.pdf)
-* [2025-11-29 08:00 Warning for Cyclonic storm “Ditwah in the vicinity of Sri Lanka](data/weather-reports/20251129.0800.warning-for-cyclonic-storm-ditwah-in-the-vicinity-of-sri-lanka.pdf)
 
 ## River Water Level And Flood Warnings
 
