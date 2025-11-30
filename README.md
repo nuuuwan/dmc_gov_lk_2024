@@ -34,11 +34,11 @@
 
 ## Situation Reports
 
-**4506/4573** documents downloaded.
+**4507/4573** documents downloaded.
 
+* [2025-11-30 18:00 Situation Report](data/situation-reports/20251130.1800.situation-report.pdf)
 * [2025-11-30 16:00 Situation Report](data/situation-reports/20251130.1600.situation-report.pdf)
 * [2025-11-30 12:00 Situation Report](data/situation-reports/20251130.1200.situation-report.pdf)
-* [2025-11-30 07:00 Weather forecast for multi-day boats](data/situation-reports/20251130.0700.weather-forecast-for-multiday-boats.pdf)
 * [2025-11-30 06:00 Situation Report](data/situation-reports/20251130.0600.situation-report.pdf)
 * [2025-11-29 20:00 Situation Report](data/situation-reports/20251129.2000.situation-report.pdf)
 * [2025-11-29 18:00 Situation Report (English)](data/situation-reports/20251129.1800.situation-report-english.pdf)
@@ -57,18 +57,18 @@
 
 ## Weather Reports
 
-**10473/10722** documents downloaded.
+**10474/10723** documents downloaded.
 
 * [2025-11-30 16:00 Weather Reports](data/weather-reports/20251130.1600.weather-reports.pdf)
 * [2025-11-30 14:00 Weather Forecast](data/weather-reports/20251130.1400.weather-forecast.pdf)
 * [2025-11-30 10:00 Weather Advisory](data/weather-reports/20251130.1000.weather-advisory.pdf)
+* [2025-11-30 07:00 Weather forecast for multi-day boats](data/weather-reports/20251130.0700.weather-forecast-for-multiday-boats.pdf)
 * [2025-11-30 05:30 Weather Forcast](data/weather-reports/20251130.0530.weather-forcast.pdf)
 * [2025-11-30 02:00 Weather Advisory](data/weather-reports/20251130.0200.weather-advisory.pdf)
 * [2025-11-29 20:00 Warning for Cyclonic storm “Ditwah](data/weather-reports/20251129.2000.warning-for-cyclonic-storm-ditwah.pdf)
 * [2025-11-29 17:00 Warning for Cyclonic storm “Ditwah](data/weather-reports/20251129.1700.warning-for-cyclonic-storm-ditwah.pdf)
 * [2025-11-29 16:00 weather Report](data/weather-reports/20251129.1600.weather-report.pdf)
 * [2025-11-29 14:00 Weather Forecast](data/weather-reports/20251129.1400.weather-forecast.pdf)
-* [2025-11-29 14:00 Warning for Cyclonic storm “Ditwah in the vicinity of Sri Lanka](data/weather-reports/20251129.1400.warning-for-cyclonic-storm-ditwah-in-the-vicinity-of-sri-lanka.pdf)
 
 ## River Water Level And Flood Warnings
 
