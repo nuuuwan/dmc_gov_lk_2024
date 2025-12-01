@@ -57,9 +57,10 @@
 
 ## Weather Reports
 
-**10479/10728** documents downloaded.
+**10480/10729** documents downloaded.
 
 * [2025-12-01 16:00 Advisory for Deep Depression (Remnant of Cyclonic Storm “Ditwah”  33](data/weather-reports/20251201.1600.advisory-for-deep-depression-remnant-of-cyclonic-storm-ditwah-33.pdf)
+* [2025-12-01 16:00 Weather Report](data/weather-reports/20251201.1600.weather-report.pdf)
 * [2025-12-01 14:00 Weather Report](data/weather-reports/20251201.1400.weather-report.pdf)
 * [2025-12-01 09:00 Advisory for Deep Depression (Remnant of Cyclonic Storm “Ditwah”).](data/weather-reports/20251201.0900.advisory-for-deep-depression-remnant-of-cyclonic-storm-ditwah.pdf)
 * [2025-12-01 05:30 Weather Forcast](data/weather-reports/20251201.0530.weather-forcast.pdf)
@@ -68,7 +69,6 @@
 * [2025-11-30 14:00 Weather Forecast](data/weather-reports/20251130.1400.weather-forecast.pdf)
 * [2025-11-30 10:00 Weather Advisory](data/weather-reports/20251130.1000.weather-advisory.pdf)
 * [2025-11-30 07:00 Weather forecast for multi-day boats](data/weather-reports/20251130.0700.weather-forecast-for-multiday-boats.pdf)
-* [2025-11-30 05:30 Weather Forcast](data/weather-reports/20251130.0530.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
