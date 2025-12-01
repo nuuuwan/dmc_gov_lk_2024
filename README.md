@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**4507/4573** documents downloaded.
+**4508/4574** documents downloaded.
 
+* [2025-12-01 06:00 Situation Report](data/situation-reports/20251201.0600.situation-report.pdf)
 * [2025-11-30 18:00 Situation Report](data/situation-reports/20251130.1800.situation-report.pdf)
 * [2025-11-30 16:00 Situation Report](data/situation-reports/20251130.1600.situation-report.pdf)
 * [2025-11-30 12:00 Situation Report](data/situation-reports/20251130.1200.situation-report.pdf)
@@ -45,7 +46,6 @@
 * [2025-11-29 14:00 Situation Report (English)](data/situation-reports/20251129.1400.situation-report-english.pdf)
 * [2025-11-29 09:00 Situation Report (Sinhala)](data/situation-reports/20251129.0900.situation-report-sinhala.pdf)
 * [2025-11-29 09:00 Situation Report (English)](data/situation-reports/20251129.0900.situation-report-english.pdf)
-* [2025-11-29 06:00 Situation Report](data/situation-reports/20251129.0600.situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10475/10724** documents downloaded.
+**10476/10725** documents downloaded.
 
+* [2025-12-01 05:30 Weather Forcast](data/weather-reports/20251201.0530.weather-forcast.pdf)
 * [2025-12-01 03:00 Weather Advisory](data/weather-reports/20251201.0300.weather-advisory.pdf)
 * [2025-11-30 16:00 Weather Reports](data/weather-reports/20251130.1600.weather-reports.pdf)
 * [2025-11-30 14:00 Weather Forecast](data/weather-reports/20251130.1400.weather-forecast.pdf)
@@ -68,14 +69,14 @@
 * [2025-11-30 02:00 Weather Advisory](data/weather-reports/20251130.0200.weather-advisory.pdf)
 * [2025-11-29 20:00 Warning for Cyclonic storm “Ditwah](data/weather-reports/20251129.2000.warning-for-cyclonic-storm-ditwah.pdf)
 * [2025-11-29 17:00 Warning for Cyclonic storm “Ditwah](data/weather-reports/20251129.1700.warning-for-cyclonic-storm-ditwah.pdf)
-* [2025-11-29 16:00 weather Report](data/weather-reports/20251129.1600.weather-report.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1940/2257** documents downloaded.
+**1941/2258** documents downloaded.
 
 * [2025-12-01 12:30 water level](data/river-water-level-and-flood-warnings/20251201.1230.water-level.pdf)
 * [2025-12-01 12:00 flood Warning](data/river-water-level-and-flood-warnings/20251201.1200.flood-warning.pdf)
+* [2025-12-01 06:30 water level](data/river-water-level-and-flood-warnings/20251201.0630.water-level.pdf)
 * [2025-12-01 03:00 water level](data/river-water-level-and-flood-warnings/20251201.0300.water-level.pdf)
 * [2025-11-30 21:00 Water Level](data/river-water-level-and-flood-warnings/20251130.2100.water-level.pdf)
 * [2025-11-30 18:00 water level](data/river-water-level-and-flood-warnings/20251130.1800.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-11-30 15:30 water level](data/river-water-level-and-flood-warnings/20251130.1530.water-level.pdf)
 * [2025-11-30 12:00 water level](data/river-water-level-and-flood-warnings/20251130.1200.water-level.pdf)
 * [2025-11-30 10:00 Flood Warning for Kalu River Basin](data/river-water-level-and-flood-warnings/20251130.1000.flood-warning-for-kalu-river-basin.pdf)
-* [2025-11-30 09:30 water level](data/river-water-level-and-flood-warnings/20251130.0930.water-level.pdf)
 
 ## Flood Inundation Maps
 
