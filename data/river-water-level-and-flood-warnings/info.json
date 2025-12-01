@@ -1,5 +1,13 @@
 [
   {
+    "name": "Water Level",
+    "time_str": "2025-12-01 15:30",
+    "time_id": "20251201.1530",
+    "ut": 1764583200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Water_level_&_Rainfall_2025__1764583169.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Flood Waning  Mahaweli River Basin No 0  (Extended warning) ",
     "time_str": "2025-12-01 14:00",
     "time_id": "20251201.1400",

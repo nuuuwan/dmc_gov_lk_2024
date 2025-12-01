@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**701/708** documents downloaded.
+**702/709** documents downloaded.
 
+* [2025-12-01 16:00 Landslide Early Warning](data/landslide-warnings/20251201.1600.landslide-early-warning.pdf)
 * [2025-11-30 16:00 Landslide Early Warning](data/landslide-warnings/20251130.1600.landslide-early-warning.pdf)
 * [2025-11-29 16:00 Landslide Warning](data/landslide-warnings/20251129.1600.landslide-warning.pdf)
 * [2025-11-28 23:00 Landslide Early Warning](data/landslide-warnings/20251128.2300.landslide-early-warning.pdf)
@@ -15,7 +16,6 @@
 * [2025-11-27 16:30 Landslide Early Warning](data/landslide-warnings/20251127.1630.landslide-early-warning.pdf)
 * [2025-11-26 21:30 Landslide Early Warning](data/landslide-warnings/20251126.2130.landslide-early-warning.pdf)
 * [2025-11-26 17:00 Landslide Early Warning](data/landslide-warnings/20251126.1700.landslide-early-warning.pdf)
-* [2025-11-26 08:00 Landslide Warning](data/landslide-warnings/20251126.0800.landslide-warning.pdf)
 
 ## Earthquakes
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10478/10727** documents downloaded.
+**10479/10728** documents downloaded.
 
+* [2025-12-01 16:00 Advisory for Deep Depression (Remnant of Cyclonic Storm “Ditwah”  33](data/weather-reports/20251201.1600.advisory-for-deep-depression-remnant-of-cyclonic-storm-ditwah-33.pdf)
 * [2025-12-01 14:00 Weather Report](data/weather-reports/20251201.1400.weather-report.pdf)
 * [2025-12-01 09:00 Advisory for Deep Depression (Remnant of Cyclonic Storm “Ditwah”).](data/weather-reports/20251201.0900.advisory-for-deep-depression-remnant-of-cyclonic-storm-ditwah.pdf)
 * [2025-12-01 05:30 Weather Forcast](data/weather-reports/20251201.0530.weather-forcast.pdf)
@@ -68,12 +69,12 @@
 * [2025-11-30 10:00 Weather Advisory](data/weather-reports/20251130.1000.weather-advisory.pdf)
 * [2025-11-30 07:00 Weather forecast for multi-day boats](data/weather-reports/20251130.0700.weather-forecast-for-multiday-boats.pdf)
 * [2025-11-30 05:30 Weather Forcast](data/weather-reports/20251130.0530.weather-forcast.pdf)
-* [2025-11-30 02:00 Weather Advisory](data/weather-reports/20251130.0200.weather-advisory.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1945/2262** documents downloaded.
+**1946/2263** documents downloaded.
 
+* [2025-12-01 15:30 Water Level](data/river-water-level-and-flood-warnings/20251201.1530.water-level.pdf)
 * [2025-12-01 14:00 Flood Waning  Mahaweli River Basin No 0  (Extended warning)](data/river-water-level-and-flood-warnings/20251201.1400.flood-waning-mahaweli-river-basin-no-0-extended-warning.pdf)
 * [2025-12-01 12:30 Water Level](data/river-water-level-and-flood-warnings/20251201.1230.water-level.pdf)
 * [2025-12-01 12:30 Water Level](data/river-water-level-and-flood-warnings/20251201.1230.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-12-01 00:30 flood Warning](data/river-water-level-and-flood-warnings/20251201.0030.flood-warning.pdf)
 * [2025-12-01 00:30 water level](data/river-water-level-and-flood-warnings/20251201.0030.water-level.pdf)
 * [2025-11-30 21:00 Water Level](data/river-water-level-and-flood-warnings/20251130.2100.water-level.pdf)
-* [2025-11-30 18:00 water level](data/river-water-level-and-flood-warnings/20251130.1800.water-level.pdf)
 
 ## Flood Inundation Maps
 
