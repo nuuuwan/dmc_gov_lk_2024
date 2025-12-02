@@ -1,5 +1,29 @@
 [
   {
+    "name": "Special Weather Bulletin",
+    "time_str": "2025-12-02 16:45",
+    "time_id": "20251202.1645",
+    "ut": 1764674100.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Special_Weather_Bulletin__1764674106.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Advisory",
+    "time_str": "2025-12-02 16:30",
+    "time_id": "20251202.1630",
+    "ut": 1764673200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Deep_Depression_(Remnant_of_Cyclonic_Storm_'Ditwah'__1764675776.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-02 16:00",
+    "time_id": "20251202.1600",
+    "ut": 1764671400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2025__1764672970.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forecast",
     "time_str": "2025-12-02 14:00",
     "time_id": "20251202.1400",
