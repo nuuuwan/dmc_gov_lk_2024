@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**702/709** documents downloaded.
+**703/710** documents downloaded.
 
+* [2025-12-02 16:00 The Landslide Ew Report](data/landslide-warnings/20251202.1600.the-landslide-ew-report.pdf)
 * [2025-12-01 16:00 Landslide Early Warning](data/landslide-warnings/20251201.1600.landslide-early-warning.pdf)
 * [2025-11-30 16:00 Landslide Early Warning](data/landslide-warnings/20251130.1600.landslide-early-warning.pdf)
 * [2025-11-29 16:00 Landslide Warning](data/landslide-warnings/20251129.1600.landslide-warning.pdf)
@@ -15,7 +16,6 @@
 * [2025-11-28 02:00 Landslide Early Warning](data/landslide-warnings/20251128.0200.landslide-early-warning.pdf)
 * [2025-11-27 16:30 Landslide Early Warning](data/landslide-warnings/20251127.1630.landslide-early-warning.pdf)
 * [2025-11-26 21:30 Landslide Early Warning](data/landslide-warnings/20251126.2130.landslide-early-warning.pdf)
-* [2025-11-26 17:00 Landslide Early Warning](data/landslide-warnings/20251126.1700.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -72,8 +72,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1953/2270** documents downloaded.
+**1954/2271** documents downloaded.
 
+* [2025-12-02 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20251202.1530.water-level-report.pdf)
 * [2025-12-02 12:30 Water Level](data/river-water-level-and-flood-warnings/20251202.1230.water-level.pdf)
 * [2025-12-02 09:30 water level](data/river-water-level-and-flood-warnings/20251202.0930.water-level.pdf)
 * [2025-12-02 06:00 water level](data/river-water-level-and-flood-warnings/20251202.0600.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-12-01 18:30 Water Level](data/river-water-level-and-flood-warnings/20251201.1830.water-level.pdf)
 * [2025-12-01 15:30 Water Level](data/river-water-level-and-flood-warnings/20251201.1530.water-level.pdf)
 * [2025-12-01 14:00 Flood Waning  Mahaweli River Basin No 0  (Extended warning)](data/river-water-level-and-flood-warnings/20251201.1400.flood-waning-mahaweli-river-basin-no-0-extended-warning.pdf)
-* [2025-12-01 12:30 Water Level](data/river-water-level-and-flood-warnings/20251201.1230.water-level.pdf)
 
 ## Flood Inundation Maps
 
