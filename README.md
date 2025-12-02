@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10480/10729** documents downloaded.
+**10481/10730** documents downloaded.
 
+* [2025-12-02 05:30 Weather Forcast](data/weather-reports/20251202.0530.weather-forcast.pdf)
 * [2025-12-01 16:00 Advisory for Deep Depression (Remnant of Cyclonic Storm “Ditwah”  33](data/weather-reports/20251201.1600.advisory-for-deep-depression-remnant-of-cyclonic-storm-ditwah-33.pdf)
 * [2025-12-01 16:00 Weather Report](data/weather-reports/20251201.1600.weather-report.pdf)
 * [2025-12-01 14:00 Weather Report](data/weather-reports/20251201.1400.weather-report.pdf)
@@ -68,12 +69,12 @@
 * [2025-11-30 16:00 Weather Reports](data/weather-reports/20251130.1600.weather-reports.pdf)
 * [2025-11-30 14:00 Weather Forecast](data/weather-reports/20251130.1400.weather-forecast.pdf)
 * [2025-11-30 10:00 Weather Advisory](data/weather-reports/20251130.1000.weather-advisory.pdf)
-* [2025-11-30 07:00 Weather forecast for multi-day boats](data/weather-reports/20251130.0700.weather-forecast-for-multiday-boats.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1950/2267** documents downloaded.
+**1951/2268** documents downloaded.
 
+* [2025-12-02 06:00 water level](data/river-water-level-and-flood-warnings/20251202.0600.water-level.pdf)
 * [2025-12-02 03:30 Water Level](data/river-water-level-and-flood-warnings/20251202.0330.water-level.pdf)
 * [2025-12-02 00:30 Water Level](data/river-water-level-and-flood-warnings/20251202.0030.water-level.pdf)
 * [2025-12-01 21:00 Flood Warning](data/river-water-level-and-flood-warnings/20251201.2100.flood-warning.pdf)
@@ -83,7 +84,6 @@
 * [2025-12-01 12:30 Water Level](data/river-water-level-and-flood-warnings/20251201.1230.water-level.pdf)
 * [2025-12-01 12:30 Water Level](data/river-water-level-and-flood-warnings/20251201.1230.water-level.pdf)
 * [2025-12-01 09:30 water level](data/river-water-level-and-flood-warnings/20251201.0930.water-level.pdf)
-* [2025-12-01 06:30 water level](data/river-water-level-and-flood-warnings/20251201.0630.water-level.pdf)
 
 ## Flood Inundation Maps
 

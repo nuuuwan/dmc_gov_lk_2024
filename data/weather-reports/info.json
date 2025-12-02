@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-02 05:30",
+    "time_id": "20251202.0530",
+    "ut": 1764633600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2025__1764634405.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Deep Depression (Remnant of Cyclonic Storm \u201cDitwah\u201d  33",
     "time_str": "2025-12-01 16:00",
     "time_id": "20251201.1600",
