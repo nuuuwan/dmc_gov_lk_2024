@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**4513/4579** documents downloaded.
+**4514/4580** documents downloaded.
 
+* [2025-12-02 18:00 Situation Report](data/situation-reports/20251202.1800.situation-report.pdf)
 * [2025-12-02 10:00 Situation Report](data/situation-reports/20251202.1000.situation-report.pdf)
 * [2025-12-02 06:00 Situation Report](data/situation-reports/20251202.0600.situation-report.pdf)
 * [2025-12-01 18:00 Situation Report](data/situation-reports/20251201.1800.situation-report.pdf)
@@ -45,7 +46,6 @@
 * [2025-11-30 18:00 Situation Report](data/situation-reports/20251130.1800.situation-report.pdf)
 * [2025-11-30 16:00 Situation Report](data/situation-reports/20251130.1600.situation-report.pdf)
 * [2025-11-30 12:00 Situation Report](data/situation-reports/20251130.1200.situation-report.pdf)
-* [2025-11-30 06:00 Situation Report](data/situation-reports/20251130.0600.situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -72,8 +72,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1954/2271** documents downloaded.
+**1955/2272** documents downloaded.
 
+* [2025-12-02 18:00 Water Level](data/river-water-level-and-flood-warnings/20251202.1800.water-level.pdf)
 * [2025-12-02 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20251202.1530.water-level-report.pdf)
 * [2025-12-02 12:30 Water Level](data/river-water-level-and-flood-warnings/20251202.1230.water-level.pdf)
 * [2025-12-02 09:30 water level](data/river-water-level-and-flood-warnings/20251202.0930.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-12-01 21:00 Flood Warning](data/river-water-level-and-flood-warnings/20251201.2100.flood-warning.pdf)
 * [2025-12-01 18:30 Water Level](data/river-water-level-and-flood-warnings/20251201.1830.water-level.pdf)
 * [2025-12-01 15:30 Water Level](data/river-water-level-and-flood-warnings/20251201.1530.water-level.pdf)
-* [2025-12-01 14:00 Flood Waning  Mahaweli River Basin No 0  (Extended warning)](data/river-water-level-and-flood-warnings/20251201.1400.flood-waning-mahaweli-river-basin-no-0-extended-warning.pdf)
 
 ## Flood Inundation Maps
 
