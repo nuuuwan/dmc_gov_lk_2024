@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**4515/4581** documents downloaded.
+**4516/4582** documents downloaded.
 
+* [2025-12-03 10:00 Situation Report](data/situation-reports/20251203.1000.situation-report.pdf)
 * [2025-12-03 06:00 Situation Report](data/situation-reports/20251203.0600.situation-report.pdf)
 * [2025-12-02 18:00 Situation Report](data/situation-reports/20251202.1800.situation-report.pdf)
 * [2025-12-02 10:00 Situation Report](data/situation-reports/20251202.1000.situation-report.pdf)
@@ -45,7 +46,6 @@
 * [2025-12-01 10:00 Situation Report](data/situation-reports/20251201.1000.situation-report.pdf)
 * [2025-12-01 06:00 Situation Report](data/situation-reports/20251201.0600.situation-report.pdf)
 * [2025-11-30 18:00 Situation Report](data/situation-reports/20251130.1800.situation-report.pdf)
-* [2025-11-30 16:00 Situation Report](data/situation-reports/20251130.1600.situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -72,8 +72,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1959/2276** documents downloaded.
+**1960/2277** documents downloaded.
 
+* [2025-12-03 09:30 Water Level](data/river-water-level-and-flood-warnings/20251203.0930.water-level.pdf)
 * [2025-12-03 06:30 Water Level](data/river-water-level-and-flood-warnings/20251203.0630.water-level.pdf)
 * [2025-12-03 03:30 water level](data/river-water-level-and-flood-warnings/20251203.0330.water-level.pdf)
 * [2025-12-03 00:30 water level](data/river-water-level-and-flood-warnings/20251203.0030.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-12-02 12:30 Water Level](data/river-water-level-and-flood-warnings/20251202.1230.water-level.pdf)
 * [2025-12-02 09:30 water level](data/river-water-level-and-flood-warnings/20251202.0930.water-level.pdf)
 * [2025-12-02 06:00 water level](data/river-water-level-and-flood-warnings/20251202.0600.water-level.pdf)
-* [2025-12-02 03:30 Water Level](data/river-water-level-and-flood-warnings/20251202.0330.water-level.pdf)
 
 ## Flood Inundation Maps
 
