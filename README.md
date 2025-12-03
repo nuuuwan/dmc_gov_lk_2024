@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**4514/4580** documents downloaded.
+**4515/4581** documents downloaded.
 
+* [2025-12-03 06:00 Situation Report](data/situation-reports/20251203.0600.situation-report.pdf)
 * [2025-12-02 18:00 Situation Report](data/situation-reports/20251202.1800.situation-report.pdf)
 * [2025-12-02 10:00 Situation Report](data/situation-reports/20251202.1000.situation-report.pdf)
 * [2025-12-02 06:00 Situation Report](data/situation-reports/20251202.0600.situation-report.pdf)
@@ -45,7 +46,6 @@
 * [2025-12-01 06:00 Situation Report](data/situation-reports/20251201.0600.situation-report.pdf)
 * [2025-11-30 18:00 Situation Report](data/situation-reports/20251130.1800.situation-report.pdf)
 * [2025-11-30 16:00 Situation Report](data/situation-reports/20251130.1600.situation-report.pdf)
-* [2025-11-30 12:00 Situation Report](data/situation-reports/20251130.1200.situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -57,8 +57,10 @@
 
 ## Weather Reports
 
-**10487/10736** documents downloaded.
+**10489/10738** documents downloaded.
 
+* [2025-12-03 07:45 Weather Forecast (Tamil)](data/weather-reports/20251203.0745.weather-forecast-tamil.pdf)
+* [2025-12-03 07:00 Weather Report Tamil](data/weather-reports/20251203.0700.weather-report-tamil.pdf)
 * [2025-12-03 05:30 Weather Report](data/weather-reports/20251203.0530.weather-report.pdf)
 * [2025-12-03 04:30 Weather advisory](data/weather-reports/20251203.0430.weather-advisory.pdf)
 * [2025-12-02 16:45 Special Weather Bulletin](data/weather-reports/20251202.1645.special-weather-bulletin.pdf)
@@ -67,8 +69,6 @@
 * [2025-12-02 14:00 Weather Forecast](data/weather-reports/20251202.1400.weather-forecast.pdf)
 * [2025-12-02 05:30 Weather Forcast](data/weather-reports/20251202.0530.weather-forcast.pdf)
 * [2025-12-01 16:00 Advisory for Deep Depression (Remnant of Cyclonic Storm “Ditwah”  33](data/weather-reports/20251201.1600.advisory-for-deep-depression-remnant-of-cyclonic-storm-ditwah-33.pdf)
-* [2025-12-01 16:00 Weather Report](data/weather-reports/20251201.1600.weather-report.pdf)
-* [2025-12-01 14:00 Weather Report](data/weather-reports/20251201.1400.weather-report.pdf)
 
 ## River Water Level And Flood Warnings
 
