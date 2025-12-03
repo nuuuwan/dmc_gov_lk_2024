@@ -1,5 +1,21 @@
 [
   {
+    "name": "Landslide Early Warning",
+    "time_str": "2025-12-03 16:00",
+    "time_id": "20251203.1600",
+    "ut": 1764757800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/LEWM_03-12-2025_16_00__1764763792.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Landslide Early Warning",
+    "time_str": "2025-12-03 16:00",
+    "time_id": "20251203.1600",
+    "ut": 1764757800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/New_LEWM_03-12-2025_16_00_(1)__1764765904.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "The Landslide Ew Report ",
     "time_str": "2025-12-02 16:00",
     "time_id": "20251202.1600",
