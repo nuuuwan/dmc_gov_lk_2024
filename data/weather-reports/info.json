@@ -1,6 +1,14 @@
 [
   {
     "name": "Weather Forcast",
+    "time_str": "2025-12-04 16:00",
+    "time_id": "20251204.1600",
+    "ut": 1764844200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2025__1764847302.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Severe Lightning",
     "time_str": "2025-12-04 15:30",
     "time_id": "20251204.1530",
     "ut": 1764842400.0,
