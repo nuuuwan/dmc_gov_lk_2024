@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**704/712** documents downloaded.
+**705/713** documents downloaded.
 
+* [2025-12-04 16:00 Landslide Warning](data/landslide-warnings/20251204.1600.landslide-warning.pdf)
 * [2025-12-03 16:00 Landslide Early Warning](data/landslide-warnings/20251203.1600.landslide-early-warning.pdf)
 * [2025-12-03 16:00 Landslide Early Warning](data/landslide-warnings/20251203.1600.landslide-early-warning.pdf)
 * [2025-12-02 16:00 The Landslide Ew Report](data/landslide-warnings/20251202.1600.the-landslide-ew-report.pdf)
@@ -15,7 +16,6 @@
 * [2025-11-28 23:00 Landslide Early Warning](data/landslide-warnings/20251128.2300.landslide-early-warning.pdf)
 * [2025-11-28 16:00 Landslide Early Warning](data/landslide-warnings/20251128.1600.landslide-early-warning.pdf)
 * [2025-11-28 05:00 Landslide Early Warning](data/landslide-warnings/20251128.0500.landslide-early-warning.pdf)
-* [2025-11-28 02:00 Landslide Early Warning](data/landslide-warnings/20251128.0200.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**4518/4584** documents downloaded.
+**4519/4585** documents downloaded.
 
+* [2025-12-04 18:00 Situation Report](data/situation-reports/20251204.1800.situation-report.pdf)
 * [2025-12-04 06:00 Situation Report](data/situation-reports/20251204.0600.situation-report.pdf)
 * [2025-12-03 18:00 Situation Report](data/situation-reports/20251203.1800.situation-report.pdf)
 * [2025-12-03 10:00 Situation Report](data/situation-reports/20251203.1000.situation-report.pdf)
@@ -45,7 +46,6 @@
 * [2025-12-02 06:00 Situation Report](data/situation-reports/20251202.0600.situation-report.pdf)
 * [2025-12-01 18:00 Situation Report](data/situation-reports/20251201.1800.situation-report.pdf)
 * [2025-12-01 12:30 Situation Report](data/situation-reports/20251201.1230.situation-report.pdf)
-* [2025-12-01 10:00 Situation Report](data/situation-reports/20251201.1000.situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
