@@ -72,8 +72,9 @@
 
 ## River Water Level And Flood Warnings
 
-**1968/2285** documents downloaded.
+**1969/2286** documents downloaded.
 
+* [2025-12-04 12:30 water level](data/river-water-level-and-flood-warnings/20251204.1230.water-level.pdf)
 * [2025-12-04 09:30 Water Level](data/river-water-level-and-flood-warnings/20251204.0930.water-level.pdf)
 * [2025-12-04 06:30 Water level](data/river-water-level-and-flood-warnings/20251204.0630.water-level.pdf)
 * [2025-12-04 03:00 Water Level](data/river-water-level-and-flood-warnings/20251204.0300.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-12-03 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20251203.1530.water-level-report.pdf)
 * [2025-12-03 12:30 Water Level](data/river-water-level-and-flood-warnings/20251203.1230.water-level.pdf)
 * [2025-12-03 09:30 Water Level](data/river-water-level-and-flood-warnings/20251203.0930.water-level.pdf)
-* [2025-12-03 06:30 Water Level](data/river-water-level-and-flood-warnings/20251203.0630.water-level.pdf)
 
 ## Flood Inundation Maps
 
