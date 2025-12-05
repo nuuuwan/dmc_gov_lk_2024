@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**4521/4587** documents downloaded.
+**4522/4588** documents downloaded.
 
+* [2025-12-05 18:00 Situation Report](data/situation-reports/20251205.1800.situation-report.pdf)
 * [2025-12-05 06:00 Situation Report](data/situation-reports/20251205.0600.situation-report.pdf)
 * [2025-12-04 19:00 Situation Report](data/situation-reports/20251204.1900.situation-report.pdf)
 * [2025-12-04 18:00 Situation Report](data/situation-reports/20251204.1800.situation-report.pdf)
@@ -45,7 +46,6 @@
 * [2025-12-03 06:00 Situation Report](data/situation-reports/20251203.0600.situation-report.pdf)
 * [2025-12-02 18:00 Situation Report](data/situation-reports/20251202.1800.situation-report.pdf)
 * [2025-12-02 10:00 Situation Report](data/situation-reports/20251202.1000.situation-report.pdf)
-* [2025-12-02 06:00 Situation Report](data/situation-reports/20251202.0600.situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
