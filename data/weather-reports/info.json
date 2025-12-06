@@ -1,5 +1,21 @@
 [
   {
+    "name": "Weather Forecast (With Tamil Report)",
+    "time_str": "2025-12-06 07:50",
+    "time_id": "20251206.0750",
+    "ut": 1764987600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Comman_Weather_letter_on_2025__1764989354.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-06 05:30",
+    "time_id": "20251206.0530",
+    "ut": 1764979200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Comman_Weather_letter_on_2025__1764980399.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forecast",
     "time_str": "2025-12-05 16:00",
     "time_id": "20251205.1600",
