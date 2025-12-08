@@ -1,5 +1,109 @@
 [
   {
+    "name": "Advisory for Severe Lightning  Amber",
+    "time_str": "2025-12-08 12:00",
+    "time_id": "20251208.1200",
+    "ut": 1765175400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1200_noon_on_08__1765177973.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather forecast for multi-day boats",
+    "time_str": "2025-12-08 07:00",
+    "time_id": "20251208.0700",
+    "ut": 1765157400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_for_multi-day_boats_at_07__1765160181.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-08 05:30",
+    "time_id": "20251208.0530",
+    "ut": 1765152000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Reprt_at_0530hrs_on_2025__1765154367.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast -Tamil",
+    "time_str": "2025-12-07 22:00",
+    "time_id": "20251207.2200",
+    "ut": 1765125000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2025__1765131578.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-07 16:00",
+    "time_id": "20251207.1600",
+    "ut": 1765103400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2025__1765104580.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-07 14:00",
+    "time_id": "20251207.1400",
+    "ut": 1765096200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2025__1765098152.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast -Tamil",
+    "time_str": "2025-12-07 14:00",
+    "time_id": "20251207.1400",
+    "ut": 1765096200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_2025__1765099133.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Severe Lightning",
+    "time_str": "2025-12-07 12:00",
+    "time_id": "20251207.1200",
+    "ut": 1765089000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1200_noon_on_07__1765090948.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-07 05:30",
+    "time_id": "20251207.0530",
+    "ut": 1765065600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_Merged__1765068677.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Report",
+    "time_str": "2025-12-06 16:00",
+    "time_id": "20251206.1600",
+    "ut": 1765017000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2025__1765017976.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast -Tamil",
+    "time_str": "2025-12-06 16:00",
+    "time_id": "20251206.1600",
+    "ut": 1765017000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2025__1765019322.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather report at 1400hrs",
+    "time_str": "2025-12-06 14:00",
+    "time_id": "20251206.1400",
+    "ut": 1765009800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report__merged__1765011771.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Severe Lightning",
+    "time_str": "2025-12-06 12:15",
+    "time_id": "20251206.1215",
+    "ut": 1765003500.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_Report_at_1215hrs_on_2025__1765006307.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forecast (With Tamil Report)",
     "time_str": "2025-12-06 07:50",
     "time_id": "20251206.0750",

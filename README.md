@@ -4,8 +4,10 @@
 
 ## Landslide Warnings
 
-**707/715** documents downloaded.
+**709/717** documents downloaded.
 
+* [2025-12-07 16:00 Landslide Early Warning](data/landslide-warnings/20251207.1600.landslide-early-warning.pdf)
+* [2025-12-06 16:00 Landslide Early Warning](data/landslide-warnings/20251206.1600.landslide-early-warning.pdf)
 * [2025-12-05 16:00 Landslide Ew Report](data/landslide-warnings/20251205.1600.landslide-ew-report.pdf)
 * [2025-12-04 19:30 Landslide Early Warning](data/landslide-warnings/20251204.1930.landslide-early-warning.pdf)
 * [2025-12-04 16:00 Landslide Warning](data/landslide-warnings/20251204.1600.landslide-warning.pdf)
@@ -14,8 +16,6 @@
 * [2025-12-02 16:00 The Landslide Ew Report](data/landslide-warnings/20251202.1600.the-landslide-ew-report.pdf)
 * [2025-12-01 16:00 Landslide Early Warning](data/landslide-warnings/20251201.1600.landslide-early-warning.pdf)
 * [2025-11-30 16:00 Landslide Early Warning](data/landslide-warnings/20251130.1600.landslide-early-warning.pdf)
-* [2025-11-29 16:00 Landslide Warning](data/landslide-warnings/20251129.1600.landslide-warning.pdf)
-* [2025-11-28 23:00 Landslide Early Warning](data/landslide-warnings/20251128.2300.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -34,18 +34,18 @@
 
 ## Situation Reports
 
-**4523/4589** documents downloaded.
+**4528/4594** documents downloaded.
 
+* [2025-12-08 12:00 Situation Report](data/situation-reports/20251208.1200.situation-report.pdf)
+* [2025-12-08 06:00 Situation Report](data/situation-reports/20251208.0600.situation-report.pdf)
+* [2025-12-07 12:00 Situation Report](data/situation-reports/20251207.1200.situation-report.pdf)
+* [2025-12-06 20:00 Situation Report](data/situation-reports/20251206.2000.situation-report.pdf)
+* [2025-12-06 12:00 Situation Report](data/situation-reports/20251206.1200.situation-report.pdf)
 * [2025-12-06 06:00 Situation Report](data/situation-reports/20251206.0600.situation-report.pdf)
 * [2025-12-05 18:00 Situation Report](data/situation-reports/20251205.1800.situation-report.pdf)
 * [2025-12-05 06:00 Situation Report](data/situation-reports/20251205.0600.situation-report.pdf)
 * [2025-12-04 19:00 Situation Report](data/situation-reports/20251204.1900.situation-report.pdf)
 * [2025-12-04 18:00 Situation Report](data/situation-reports/20251204.1800.situation-report.pdf)
-* [2025-12-04 06:00 Situation Report](data/situation-reports/20251204.0600.situation-report.pdf)
-* [2025-12-03 18:00 Situation Report](data/situation-reports/20251203.1800.situation-report.pdf)
-* [2025-12-03 10:00 Situation Report](data/situation-reports/20251203.1000.situation-report.pdf)
-* [2025-12-03 06:00 Situation Report](data/situation-reports/20251203.0600.situation-report.pdf)
-* [2025-12-02 18:00 Situation Report](data/situation-reports/20251202.1800.situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -57,33 +57,33 @@
 
 ## Weather Reports
 
-**10504/10752** documents downloaded.
+**10514/10765** documents downloaded.
 
-* [2025-12-06 07:50 Weather Forecast (With Tamil Report)](data/weather-reports/20251206.0750.weather-forecast-with-tamil-report.pdf)
-* [2025-12-06 05:30 Weather Forcast](data/weather-reports/20251206.0530.weather-forcast.pdf)
-* [2025-12-05 16:00 Weather Forecast](data/weather-reports/20251205.1600.weather-forecast.pdf)
-* [2025-12-05 14:00 Weather Forecast](data/weather-reports/20251205.1400.weather-forecast.pdf)
-* [2025-12-05 12:15 The Advisory for severe Lightning](data/weather-reports/20251205.1215.the-advisory-for-severe-lightning.pdf)
-* [2025-12-05 05:30 Weather Forcast](data/weather-reports/20251205.0530.weather-forcast.pdf)
-* [2025-12-04 16:00 Weather Forcast](data/weather-reports/20251204.1600.weather-forcast.pdf)
-* [2025-12-04 15:30 Advisory for Severe Lightning](data/weather-reports/20251204.1530.advisory-for-severe-lightning.pdf)
-* [2025-12-04 14:00 Weather Forcast](data/weather-reports/20251204.1400.weather-forcast.pdf)
-* [2025-12-04 07:00 Weather Forcast (Tamil)](data/weather-reports/20251204.0700.weather-forcast-tamil.pdf)
+* [2025-12-08 12:00 Advisory for Severe Lightning  Amber](data/weather-reports/20251208.1200.advisory-for-severe-lightning-amber.pdf)
+* [2025-12-08 07:00 Weather forecast for multi-day boats](data/weather-reports/20251208.0700.weather-forecast-for-multiday-boats.pdf)
+* [2025-12-08 05:30 Weather Forcast](data/weather-reports/20251208.0530.weather-forcast.pdf)
+* [2025-12-07 22:00 Weather Forcast -Tamil](data/weather-reports/20251207.2200.weather-forcast-tamil.pdf)
+* [2025-12-07 16:00 Weather Forcast](data/weather-reports/20251207.1600.weather-forcast.pdf)
+* [2025-12-07 14:00 Weather Forcast](data/weather-reports/20251207.1400.weather-forcast.pdf)
+* [2025-12-07 14:00 Weather Forcast -Tamil](data/weather-reports/20251207.1400.weather-forcast-tamil.pdf)
+* [2025-12-07 12:00 Advisory for Severe Lightning](data/weather-reports/20251207.1200.advisory-for-severe-lightning.pdf)
+* [2025-12-07 05:30 Weather Forcast](data/weather-reports/20251207.0530.weather-forcast.pdf)
+* [2025-12-06 16:00 Weather Report](data/weather-reports/20251206.1600.weather-report.pdf)
 
 ## River Water Level And Flood Warnings
 
-**1981/2298** documents downloaded.
+**1996/2313** documents downloaded.
 
-* [2025-12-06 06:30 water level](data/river-water-level-and-flood-warnings/20251206.0630.water-level.pdf)
-* [2025-12-06 03:30 water level](data/river-water-level-and-flood-warnings/20251206.0330.water-level.pdf)
-* [2025-12-06 00:30 Water Level](data/river-water-level-and-flood-warnings/20251206.0030.water-level.pdf)
-* [2025-12-05 21:30 water level](data/river-water-level-and-flood-warnings/20251205.2130.water-level.pdf)
-* [2025-12-05 12:30 Water Level](data/river-water-level-and-flood-warnings/20251205.1230.water-level.pdf)
-* [2025-12-05 09:30 water level](data/river-water-level-and-flood-warnings/20251205.0930.water-level.pdf)
-* [2025-12-05 06:30 water level](data/river-water-level-and-flood-warnings/20251205.0630.water-level.pdf)
-* [2025-12-05 03:30 water level](data/river-water-level-and-flood-warnings/20251205.0330.water-level.pdf)
-* [2025-12-05 00:30 water level](data/river-water-level-and-flood-warnings/20251205.0030.water-level.pdf)
-* [2025-12-04 21:00 Water Level](data/river-water-level-and-flood-warnings/20251204.2100.water-level.pdf)
+* [2025-12-08 15:30 Water Level](data/river-water-level-and-flood-warnings/20251208.1530.water-level.pdf)
+* [2025-12-08 09:30 Water Level](data/river-water-level-and-flood-warnings/20251208.0930.water-level.pdf)
+* [2025-12-08 06:30 water level](data/river-water-level-and-flood-warnings/20251208.0630.water-level.pdf)
+* [2025-12-08 03:30 water level](data/river-water-level-and-flood-warnings/20251208.0330.water-level.pdf)
+* [2025-12-08 00:30 water level](data/river-water-level-and-flood-warnings/20251208.0030.water-level.pdf)
+* [2025-12-07 18:30 Water Level](data/river-water-level-and-flood-warnings/20251207.1830.water-level.pdf)
+* [2025-12-07 15:30 Water Level](data/river-water-level-and-flood-warnings/20251207.1530.water-level.pdf)
+* [2025-12-07 09:30 water level](data/river-water-level-and-flood-warnings/20251207.0930.water-level.pdf)
+* [2025-12-07 06:30 Water Level Report](data/river-water-level-and-flood-warnings/20251207.0630.water-level-report.pdf)
+* [2025-12-07 03:30 water level](data/river-water-level-and-flood-warnings/20251207.0330.water-level.pdf)
 
 ## Flood Inundation Maps
 

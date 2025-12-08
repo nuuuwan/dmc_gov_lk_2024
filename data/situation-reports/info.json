@@ -1,6 +1,46 @@
 [
   {
     "name": "Situation Report",
+    "time_str": "2025-12-08 12:00",
+    "time_id": "20251208.1200",
+    "ut": 1765175400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_at_1200hrs_on_2025__1765188103.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Situation Report",
+    "time_str": "2025-12-08 06:00",
+    "time_id": "20251208.0600",
+    "ut": 1765153800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_at_0600hrs_on_2025__1765154945.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Situation Report",
+    "time_str": "2025-12-07 12:00",
+    "time_id": "20251207.1200",
+    "ut": 1765089000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_at_1200hrs_on_2025__1765092356.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Situation Report",
+    "time_str": "2025-12-06 20:00",
+    "time_id": "20251206.2000",
+    "ut": 1765031400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Report_at_2000hrs_on_2025__1765032825.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Situation Report",
+    "time_str": "2025-12-06 12:00",
+    "time_id": "20251206.1200",
+    "ut": 1765002600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Situation_Summary_Report_at_1200hrs_on_2025__1765004157.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Situation Report",
     "time_str": "2025-12-06 06:00",
     "time_id": "20251206.0600",
     "ut": 1764981000.0,
