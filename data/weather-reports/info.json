@@ -1,5 +1,13 @@
 [
   {
+    "name": "Weather Report",
+    "time_str": "2025-12-08 16:00",
+    "time_id": "20251208.1600",
+    "ut": 1765189800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_2025__1765192513.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Severe Lightning  Amber",
     "time_str": "2025-12-08 12:00",
     "time_id": "20251208.1200",

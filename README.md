@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**709/717** documents downloaded.
+**710/718** documents downloaded.
 
+* [2025-12-08 16:00 Landslide Early warning](data/landslide-warnings/20251208.1600.landslide-early-warning.pdf)
 * [2025-12-07 16:00 Landslide Early Warning](data/landslide-warnings/20251207.1600.landslide-early-warning.pdf)
 * [2025-12-06 16:00 Landslide Early Warning](data/landslide-warnings/20251206.1600.landslide-early-warning.pdf)
 * [2025-12-05 16:00 Landslide Ew Report](data/landslide-warnings/20251205.1600.landslide-ew-report.pdf)
@@ -15,7 +16,6 @@
 * [2025-12-03 16:00 Landslide Early Warning](data/landslide-warnings/20251203.1600.landslide-early-warning.pdf)
 * [2025-12-02 16:00 The Landslide Ew Report](data/landslide-warnings/20251202.1600.the-landslide-ew-report.pdf)
 * [2025-12-01 16:00 Landslide Early Warning](data/landslide-warnings/20251201.1600.landslide-early-warning.pdf)
-* [2025-11-30 16:00 Landslide Early Warning](data/landslide-warnings/20251130.1600.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10514/10765** documents downloaded.
+**10518/10766** documents downloaded.
 
+* [2025-12-08 16:00 Weather Report](data/weather-reports/20251208.1600.weather-report.pdf)
 * [2025-12-08 12:00 Advisory for Severe Lightning  Amber](data/weather-reports/20251208.1200.advisory-for-severe-lightning-amber.pdf)
 * [2025-12-08 07:00 Weather forecast for multi-day boats](data/weather-reports/20251208.0700.weather-forecast-for-multiday-boats.pdf)
 * [2025-12-08 05:30 Weather Forcast](data/weather-reports/20251208.0530.weather-forcast.pdf)
@@ -68,7 +69,6 @@
 * [2025-12-07 14:00 Weather Forcast -Tamil](data/weather-reports/20251207.1400.weather-forcast-tamil.pdf)
 * [2025-12-07 12:00 Advisory for Severe Lightning](data/weather-reports/20251207.1200.advisory-for-severe-lightning.pdf)
 * [2025-12-07 05:30 Weather Forcast](data/weather-reports/20251207.0530.weather-forcast.pdf)
-* [2025-12-06 16:00 Weather Report](data/weather-reports/20251206.1600.weather-report.pdf)
 
 ## River Water Level And Flood Warnings
 
