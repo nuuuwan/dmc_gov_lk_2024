@@ -1,5 +1,29 @@
 [
   {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-09 14:00",
+    "time_id": "20251209.1400",
+    "ut": 1765269000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Reprt_at_1400hrs_on_2025__1765271689.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Heavy Rain",
+    "time_str": "2025-12-09 07:30",
+    "time_id": "20251209.0730",
+    "ut": 1765245600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_heavy_Rain_at_0730hrs_on_2025__1765253752.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-09 05:30",
+    "time_id": "20251209.0530",
+    "ut": 1765238400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Reprt_at_0530hrs_on_2025__1765248033.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Report",
     "time_str": "2025-12-08 16:00",
     "time_id": "20251208.1600",
