@@ -1,10 +1,42 @@
 [
   {
     "name": "Weather Forcast",
+    "time_str": "2025-12-09 16:00",
+    "time_id": "20251209.1600",
+    "ut": 1765276200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Common_Weather_letter_-_Edit__1765278077.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-09 16:00",
+    "time_id": "20251209.1600",
+    "ut": 1765276200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Reprt_at_1600hrs_on_2025__1765278094.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-09 16:00",
+    "time_id": "20251209.1600",
+    "ut": 1765276200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Reprt_at_1600hrs_on_2025__1765278567.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
     "time_str": "2025-12-09 14:00",
     "time_id": "20251209.1400",
     "ut": 1765269000.0,
     "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Reprt_at_1400hrs_on_2025__1765271689.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast -Tamil",
+    "time_str": "2025-12-09 14:00",
+    "time_id": "20251209.1400",
+    "ut": 1765269000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Reprt_at_1400hrs_on_2025__1765276002.pdf",
     "ext": "pdf"
   },
   {
