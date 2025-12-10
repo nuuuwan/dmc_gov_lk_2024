@@ -1,5 +1,13 @@
 [
   {
+    "name": "Advisory for Heavy Rain Report (With Tamil Report)",
+    "time_str": "2025-12-10 10:00",
+    "time_id": "20251210.1000",
+    "ut": 1765341000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_heavy_Rain_at_0830hrs_on_2025__1765341855.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Advisory for Heavy Rain",
     "time_str": "2025-12-10 08:30",
     "time_id": "20251210.0830",
