@@ -34,8 +34,9 @@
 
 ## Situation Reports
 
-**4531/4597** documents downloaded.
+**4532/4598** documents downloaded.
 
+* [2025-12-10 12:00 Situation Report](data/situation-reports/20251210.1200.situation-report.pdf)
 * [2025-12-10 06:00 Situation Report](data/situation-reports/20251210.0600.situation-report.pdf)
 * [2025-12-09 10:00 Situation Report](data/situation-reports/20251209.1000.situation-report.pdf)
 * [2025-12-09 06:00 Situation Report](data/situation-reports/20251209.0600.situation-report.pdf)
@@ -45,7 +46,6 @@
 * [2025-12-06 20:00 Situation Report](data/situation-reports/20251206.2000.situation-report.pdf)
 * [2025-12-06 12:00 Situation Report](data/situation-reports/20251206.1200.situation-report.pdf)
 * [2025-12-06 06:00 Situation Report](data/situation-reports/20251206.0600.situation-report.pdf)
-* [2025-12-05 18:00 Situation Report](data/situation-reports/20251205.1800.situation-report.pdf)
 
 ## Emergency Response Data Viewer
 
@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10526/10776** documents downloaded.
+**10527/10777** documents downloaded.
 
+* [2025-12-10 12:00 Advisory for Severe Lightning](data/weather-reports/20251210.1200.advisory-for-severe-lightning.pdf)
 * [2025-12-10 10:00 Advisory for Heavy Rain Report (With Tamil Report)](data/weather-reports/20251210.1000.advisory-for-heavy-rain-report-with-tamil-report.pdf)
 * [2025-12-10 08:30 Advisory for Heavy Rain](data/weather-reports/20251210.0830.advisory-for-heavy-rain.pdf)
 * [2025-12-10 05:30 Weather Forcast](data/weather-reports/20251210.0530.weather-forcast.pdf)
@@ -68,7 +69,6 @@
 * [2025-12-09 14:00 Weather Forcast](data/weather-reports/20251209.1400.weather-forcast.pdf)
 * [2025-12-09 14:00 Weather Forcast -Tamil](data/weather-reports/20251209.1400.weather-forcast-tamil.pdf)
 * [2025-12-09 07:30 Advisory for Heavy Rain](data/weather-reports/20251209.0730.advisory-for-heavy-rain.pdf)
-* [2025-12-09 05:30 Weather Forcast](data/weather-reports/20251209.0530.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
