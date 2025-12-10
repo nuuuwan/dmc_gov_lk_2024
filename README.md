@@ -57,8 +57,10 @@
 
 ## Weather Reports
 
-**10527/10777** documents downloaded.
+**10529/10779** documents downloaded.
 
+* [2025-12-10 16:00 Weather Forecast](data/weather-reports/20251210.1600.weather-forecast.pdf)
+* [2025-12-10 14:00 Weather Forecast](data/weather-reports/20251210.1400.weather-forecast.pdf)
 * [2025-12-10 12:00 Advisory for Severe Lightning](data/weather-reports/20251210.1200.advisory-for-severe-lightning.pdf)
 * [2025-12-10 10:00 Advisory for Heavy Rain Report (With Tamil Report)](data/weather-reports/20251210.1000.advisory-for-heavy-rain-report-with-tamil-report.pdf)
 * [2025-12-10 08:30 Advisory for Heavy Rain](data/weather-reports/20251210.0830.advisory-for-heavy-rain.pdf)
@@ -67,13 +69,12 @@
 * [2025-12-09 16:00 Weather Forcast](data/weather-reports/20251209.1600.weather-forcast.pdf)
 * [2025-12-09 16:00 Weather Forcast](data/weather-reports/20251209.1600.weather-forcast.pdf)
 * [2025-12-09 14:00 Weather Forcast](data/weather-reports/20251209.1400.weather-forcast.pdf)
-* [2025-12-09 14:00 Weather Forcast -Tamil](data/weather-reports/20251209.1400.weather-forcast-tamil.pdf)
-* [2025-12-09 07:30 Advisory for Heavy Rain](data/weather-reports/20251209.0730.advisory-for-heavy-rain.pdf)
 
 ## River Water Level And Flood Warnings
 
-**2006/2323** documents downloaded.
+**2007/2324** documents downloaded.
 
+* [2025-12-10 15:00 Water Level Report](data/river-water-level-and-flood-warnings/20251210.1500.water-level-report.pdf)
 * [2025-12-10 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20251210.0930.water-level-report.pdf)
 * [2025-12-10 06:30 water level](data/river-water-level-and-flood-warnings/20251210.0630.water-level.pdf)
 * [2025-12-10 00:30 water level](data/river-water-level-and-flood-warnings/20251210.0030.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-12-09 06:30 water level](data/river-water-level-and-flood-warnings/20251209.0630.water-level.pdf)
 * [2025-12-09 03:30 water level](data/river-water-level-and-flood-warnings/20251209.0330.water-level.pdf)
 * [2025-12-09 00:30 water level](data/river-water-level-and-flood-warnings/20251209.0030.water-level.pdf)
-* [2025-12-08 18:30 Water level](data/river-water-level-and-flood-warnings/20251208.1830.water-level.pdf)
 
 ## Flood Inundation Maps
 
