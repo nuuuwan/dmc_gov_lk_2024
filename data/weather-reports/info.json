@@ -1,5 +1,13 @@
 [
   {
+    "name": "Advisory for Severe Lightning  Amber",
+    "time_str": "2025-12-12 12:30",
+    "time_id": "20251212.1230",
+    "ut": 1765522800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_12__1765525343.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-12-12 05:30",
     "time_id": "20251212.0530",
