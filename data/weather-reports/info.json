@@ -1,5 +1,85 @@
 [
   {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-15 05:30",
+    "time_id": "20251215.0530",
+    "ut": 1765756800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_15__1765758818.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-14 16:00",
+    "time_id": "20251214.1600",
+    "ut": 1765708200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600hrs_on_14__1765715968.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast",
+    "time_str": "2025-12-14 14:00",
+    "time_id": "20251214.1400",
+    "ut": 1765701000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_14__1765705614.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forecast",
+    "time_str": "2025-12-14 14:00",
+    "time_id": "20251214.1400",
+    "ut": 1765701000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400hrs_on_14__1765706213.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-14 05:30",
+    "time_id": "20251214.0530",
+    "ut": 1765670400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2025__1765671168.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-13 16:30",
+    "time_id": "20251213.1630",
+    "ut": 1765623600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2025__1765624589.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-13 14:00",
+    "time_id": "20251213.1400",
+    "ut": 1765614600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1400_hrs_on_2025__1765616158.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Severe Lightning  Amber",
+    "time_str": "2025-12-13 12:30",
+    "time_id": "20251213.1230",
+    "ut": 1765609200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Severe_Lightning_at_1230hrs_on_13__1765611394.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-13 05:30",
+    "time_id": "20251213.0530",
+    "ut": 1765584000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530_hrs_on_2025__1765585268.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-13 05:30",
+    "time_id": "20251213.0530",
+    "ut": 1765584000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/W20251213a_TM__1765592150.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forecast ",
     "time_str": "2025-12-12 16:00",
     "time_id": "20251212.1600",
@@ -837,6 +917,14 @@
     "time_id": "20251126.0700",
     "ut": 1764120600.0,
     "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_for_multi-day_boats_at_07__1764123538.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Report",
+    "time_str": "2025-11-26 05:30",
+    "time_id": "20251126.0530",
+    "ut": 1764115200.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_0530hrs_on_2025__1765618428.pdf",
     "ext": "pdf"
   },
   {
