@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**716/724** documents downloaded.
+**717/725** documents downloaded.
 
+* [2025-12-15 16:00 Landslide Early Warning](data/landslide-warnings/20251215.1600.landslide-early-warning.pdf)
 * [2025-12-14 16:00 Landslide Early Warning](data/landslide-warnings/20251214.1600.landslide-early-warning.pdf)
 * [2025-12-13 16:30 Landslide Ew Report](data/landslide-warnings/20251213.1630.landslide-ew-report.pdf)
 * [2025-12-12 16:00 Landslide Ew Report](data/landslide-warnings/20251212.1600.landslide-ew-report.pdf)
@@ -15,7 +16,6 @@
 * [2025-12-08 16:00 Landslide Early warning](data/landslide-warnings/20251208.1600.landslide-early-warning.pdf)
 * [2025-12-07 16:00 Landslide Early Warning](data/landslide-warnings/20251207.1600.landslide-early-warning.pdf)
 * [2025-12-06 16:00 Landslide Early Warning](data/landslide-warnings/20251206.1600.landslide-early-warning.pdf)
-* [2025-12-05 16:00 Landslide Ew Report](data/landslide-warnings/20251205.1600.landslide-ew-report.pdf)
 
 ## Earthquakes
 
@@ -57,8 +57,10 @@
 
 ## Weather Reports
 
-**10547/10799** documents downloaded.
+**10549/10801** documents downloaded.
 
+* [2025-12-15 16:00 Weather Forcast](data/weather-reports/20251215.1600.weather-forcast.pdf)
+* [2025-12-15 14:00 Weather Forcast](data/weather-reports/20251215.1400.weather-forcast.pdf)
 * [2025-12-15 05:30 Weather Forcast](data/weather-reports/20251215.0530.weather-forcast.pdf)
 * [2025-12-14 16:00 Weather Forcast](data/weather-reports/20251214.1600.weather-forcast.pdf)
 * [2025-12-14 14:00 Weather Forecast](data/weather-reports/20251214.1400.weather-forecast.pdf)
@@ -67,13 +69,12 @@
 * [2025-12-13 16:30 Weather Forcast](data/weather-reports/20251213.1630.weather-forcast.pdf)
 * [2025-12-13 14:00 Weather Forcast](data/weather-reports/20251213.1400.weather-forcast.pdf)
 * [2025-12-13 12:30 Advisory for Severe Lightning  Amber](data/weather-reports/20251213.1230.advisory-for-severe-lightning-amber.pdf)
-* [2025-12-13 05:30 Weather Forcast](data/weather-reports/20251213.0530.weather-forcast.pdf)
-* [2025-12-13 05:30 Weather Forcast](data/weather-reports/20251213.0530.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**2019/2336** documents downloaded.
+**2020/2337** documents downloaded.
 
+* [2025-12-15 15:00 Water level](data/river-water-level-and-flood-warnings/20251215.1500.water-level.pdf)
 * [2025-12-15 09:30 water level](data/river-water-level-and-flood-warnings/20251215.0930.water-level.pdf)
 * [2025-12-14 15:30 water level](data/river-water-level-and-flood-warnings/20251214.1530.water-level.pdf)
 * [2025-12-14 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20251214.0930.water-level-report.pdf)
@@ -83,7 +84,6 @@
 * [2025-12-12 09:30 water level](data/river-water-level-and-flood-warnings/20251212.0930.water-level.pdf)
 * [2025-12-12 06:30 water level](data/river-water-level-and-flood-warnings/20251212.0630.water-level.pdf)
 * [2025-12-11 15:00 water level](data/river-water-level-and-flood-warnings/20251211.1500.water-level.pdf)
-* [2025-12-11 12:30 Water Level](data/river-water-level-and-flood-warnings/20251211.1230.water-level.pdf)
 
 ## Flood Inundation Maps
 
