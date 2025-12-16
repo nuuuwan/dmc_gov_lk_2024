@@ -1,5 +1,37 @@
 [
   {
+    "name": "Advisory for Heavy Rain",
+    "time_str": "2025-12-16 16:00",
+    "time_id": "20251216.1600",
+    "ut": 1765881000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_1600_hrs_on_2025__1765882158.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-16 16:00",
+    "time_id": "20251216.1600",
+    "ut": 1765881000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2025__1765884258.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Advisory for Heavy Rain  Tamil",
+    "time_str": "2025-12-16 16:00",
+    "time_id": "20251216.1600",
+    "ut": 1765881000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Advisory_for_Heavy_Rain_at_1600_hrs_on_2025__1765884594.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast -Tamil",
+    "time_str": "2025-12-16 16:00",
+    "time_id": "20251216.1600",
+    "ut": 1765881000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2025__1765884942.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-12-16 14:00",
     "time_id": "20251216.1400",

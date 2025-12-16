@@ -4,8 +4,9 @@
 
 ## Landslide Warnings
 
-**717/725** documents downloaded.
+**718/726** documents downloaded.
 
+* [2025-12-16 16:00 Landslide Early Warning](data/landslide-warnings/20251216.1600.landslide-early-warning.pdf)
 * [2025-12-15 16:00 Landslide Early Warning](data/landslide-warnings/20251215.1600.landslide-early-warning.pdf)
 * [2025-12-14 16:00 Landslide Early Warning](data/landslide-warnings/20251214.1600.landslide-early-warning.pdf)
 * [2025-12-13 16:30 Landslide Ew Report](data/landslide-warnings/20251213.1630.landslide-ew-report.pdf)
@@ -15,7 +16,6 @@
 * [2025-12-09 16:00 Landslide Early Warning](data/landslide-warnings/20251209.1600.landslide-early-warning.pdf)
 * [2025-12-08 16:00 Landslide Early warning](data/landslide-warnings/20251208.1600.landslide-early-warning.pdf)
 * [2025-12-07 16:00 Landslide Early Warning](data/landslide-warnings/20251207.1600.landslide-early-warning.pdf)
-* [2025-12-06 16:00 Landslide Early Warning](data/landslide-warnings/20251206.1600.landslide-early-warning.pdf)
 
 ## Earthquakes
 
@@ -57,18 +57,18 @@
 
 ## Weather Reports
 
-**10551/10803** documents downloaded.
+**10555/10807** documents downloaded.
 
+* [2025-12-16 16:00 Advisory for Heavy Rain](data/weather-reports/20251216.1600.advisory-for-heavy-rain.pdf)
+* [2025-12-16 16:00 Weather Forcast](data/weather-reports/20251216.1600.weather-forcast.pdf)
+* [2025-12-16 16:00 Advisory for Heavy Rain  Tamil](data/weather-reports/20251216.1600.advisory-for-heavy-rain-tamil.pdf)
+* [2025-12-16 16:00 Weather Forcast -Tamil](data/weather-reports/20251216.1600.weather-forcast-tamil.pdf)
 * [2025-12-16 14:00 Weather Forcast](data/weather-reports/20251216.1400.weather-forcast.pdf)
 * [2025-12-16 05:30 Weather Forcast](data/weather-reports/20251216.0530.weather-forcast.pdf)
 * [2025-12-15 16:00 Weather Forcast](data/weather-reports/20251215.1600.weather-forcast.pdf)
 * [2025-12-15 14:00 Weather Forcast](data/weather-reports/20251215.1400.weather-forcast.pdf)
 * [2025-12-15 05:30 Weather Forcast](data/weather-reports/20251215.0530.weather-forcast.pdf)
 * [2025-12-14 16:00 Weather Forcast](data/weather-reports/20251214.1600.weather-forcast.pdf)
-* [2025-12-14 14:00 Weather Forecast](data/weather-reports/20251214.1400.weather-forecast.pdf)
-* [2025-12-14 14:00 Weather Forecast](data/weather-reports/20251214.1400.weather-forecast.pdf)
-* [2025-12-14 05:30 Weather Forcast](data/weather-reports/20251214.0530.weather-forcast.pdf)
-* [2025-12-13 16:30 Weather Forcast](data/weather-reports/20251213.1630.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
