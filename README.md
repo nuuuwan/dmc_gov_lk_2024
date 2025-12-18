@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10559/10811** documents downloaded.
+**10560/10812** documents downloaded.
 
+* [2025-12-18 14:00 Weather Forcast](data/weather-reports/20251218.1400.weather-forcast.pdf)
 * [2025-12-18 05:30 Weather Forcast](data/weather-reports/20251218.0530.weather-forcast.pdf)
 * [2025-12-17 16:00 Weather Forcast](data/weather-reports/20251217.1600.weather-forcast.pdf)
 * [2025-12-17 14:00 Weather Forcast](data/weather-reports/20251217.1400.weather-forcast.pdf)
@@ -68,12 +69,12 @@
 * [2025-12-16 16:00 Advisory for Heavy Rain  Tamil](data/weather-reports/20251216.1600.advisory-for-heavy-rain-tamil.pdf)
 * [2025-12-16 16:00 Weather Forcast -Tamil](data/weather-reports/20251216.1600.weather-forcast-tamil.pdf)
 * [2025-12-16 14:00 Weather Forcast](data/weather-reports/20251216.1400.weather-forcast.pdf)
-* [2025-12-16 05:30 Weather Forcast](data/weather-reports/20251216.0530.weather-forcast.pdf)
 
 ## River Water Level And Flood Warnings
 
-**2024/2341** documents downloaded.
+**2025/2342** documents downloaded.
 
+* [2025-12-18 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20251218.1530.water-level-report.pdf)
 * [2025-12-18 09:30 River Water level](data/river-water-level-and-flood-warnings/20251218.0930.river-water-level.pdf)
 * [2025-12-17 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20251217.1530.water-level-report.pdf)
 * [2025-12-17 09:30 Water level](data/river-water-level-and-flood-warnings/20251217.0930.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-12-14 15:30 water level](data/river-water-level-and-flood-warnings/20251214.1530.water-level.pdf)
 * [2025-12-14 09:30 Water Level Report](data/river-water-level-and-flood-warnings/20251214.0930.water-level-report.pdf)
 * [2025-12-13 15:30 water level](data/river-water-level-and-flood-warnings/20251213.1530.water-level.pdf)
-* [2025-12-13 09:30 Water Level](data/river-water-level-and-flood-warnings/20251213.0930.water-level.pdf)
 
 ## Flood Inundation Maps
 
