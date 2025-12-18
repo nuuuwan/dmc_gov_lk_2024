@@ -1,5 +1,21 @@
 [
   {
+    "name": "Weather Report",
+    "time_str": "2025-12-18 17:00",
+    "time_id": "20251218.1700",
+    "ut": 1766057400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2025__1766059034.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather Forcast",
+    "time_str": "2025-12-18 16:00",
+    "time_id": "20251218.1600",
+    "ut": 1766053800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_1600_hrs_on_2025__1766056306.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-12-18 14:00",
     "time_id": "20251218.1400",
