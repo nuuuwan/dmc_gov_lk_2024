@@ -72,8 +72,9 @@
 
 ## River Water Level And Flood Warnings
 
-**2034/2352** documents downloaded.
+**2035/2353** documents downloaded.
 
+* [2025-12-19 18:30 water Level](data/river-water-level-and-flood-warnings/20251219.1830.water-level.pdf)
 * [2025-12-19 17:30 Flood Warning](data/river-water-level-and-flood-warnings/20251219.1730.flood-warning.pdf)
 * [2025-12-19 15:30 Water Level](data/river-water-level-and-flood-warnings/20251219.1530.water-level.pdf)
 * [2025-12-19 12:30 Water Level](data/river-water-level-and-flood-warnings/20251219.1230.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-12-18 21:30 water level](data/river-water-level-and-flood-warnings/20251218.2130.water-level.pdf)
 * [2025-12-18 18:30 Water Level](data/river-water-level-and-flood-warnings/20251218.1830.water-level.pdf)
 * [2025-12-18 18:30 Water Level](data/river-water-level-and-flood-warnings/20251218.1830.water-level.pdf)
-* [2025-12-18 18:00 Flood Warning for Mahaweli River  No 0  2025.12.18](data/river-water-level-and-flood-warnings/20251218.1800.flood-warning-for-mahaweli-river-no-0-20251218.pdf)
 
 ## Flood Inundation Maps
 
