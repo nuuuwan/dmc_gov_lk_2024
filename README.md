@@ -57,8 +57,9 @@
 
 ## Weather Reports
 
-**10564/10816** documents downloaded.
+**10565/10817** documents downloaded.
 
+* [2025-12-19 16:00 Weather Report](data/weather-reports/20251219.1600.weather-report.pdf)
 * [2025-12-19 14:00 Weather Report](data/weather-reports/20251219.1400.weather-report.pdf)
 * [2025-12-19 05:30 Weather Forecast](data/weather-reports/20251219.0530.weather-forecast.pdf)
 * [2025-12-18 17:00 Weather Report](data/weather-reports/20251218.1700.weather-report.pdf)
@@ -68,12 +69,12 @@
 * [2025-12-17 16:00 Weather Forcast](data/weather-reports/20251217.1600.weather-forcast.pdf)
 * [2025-12-17 14:00 Weather Forcast](data/weather-reports/20251217.1400.weather-forcast.pdf)
 * [2025-12-17 05:30 Weather Forcast](data/weather-reports/20251217.0530.weather-forcast.pdf)
-* [2025-12-16 16:00 Advisory for Heavy Rain](data/weather-reports/20251216.1600.advisory-for-heavy-rain.pdf)
 
 ## River Water Level And Flood Warnings
 
-**2032/2350** documents downloaded.
+**2033/2351** documents downloaded.
 
+* [2025-12-19 15:30 Water Level](data/river-water-level-and-flood-warnings/20251219.1530.water-level.pdf)
 * [2025-12-19 12:30 Water Level](data/river-water-level-and-flood-warnings/20251219.1230.water-level.pdf)
 * [2025-12-19 09:30 Water Level](data/river-water-level-and-flood-warnings/20251219.0930.water-level.pdf)
 * [2025-12-19 03:00 water level](data/river-water-level-and-flood-warnings/20251219.0300.water-level.pdf)
@@ -83,7 +84,6 @@
 * [2025-12-18 18:30 Water Level](data/river-water-level-and-flood-warnings/20251218.1830.water-level.pdf)
 * [2025-12-18 18:00 Flood Warning for Mahaweli River  No 0  2025.12.18](data/river-water-level-and-flood-warnings/20251218.1800.flood-warning-for-mahaweli-river-no-0-20251218.pdf)
 * [2025-12-18 15:30 Water Level Report](data/river-water-level-and-flood-warnings/20251218.1530.water-level-report.pdf)
-* [2025-12-18 09:30 River Water level](data/river-water-level-and-flood-warnings/20251218.0930.river-water-level.pdf)
 
 ## Flood Inundation Maps
 
