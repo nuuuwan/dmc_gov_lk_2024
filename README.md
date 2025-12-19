@@ -34,7 +34,7 @@
 
 ## Situation Reports
 
-**4546/4612** documents downloaded.
+**4546/4611** documents downloaded.
 
 * [2025-12-17 16:00 Current Situation Report](data/situation-reports/20251217.1600.current-situation-report.pdf)
 * [2025-12-16 06:00 Situation Report](data/situation-reports/20251216.0600.situation-report.pdf)
