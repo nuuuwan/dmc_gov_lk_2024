@@ -1,5 +1,37 @@
 [
   {
+    "name": "Landslide Warning",
+    "time_str": "2025-12-22 16:00",
+    "time_id": "20251222.1600",
+    "ut": 1766399400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Landslide_Ew_Report_at_1600hrs_on_2025__1766401856.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Landslide Ew Report ",
+    "time_str": "2025-12-21 16:00",
+    "time_id": "20251221.1600",
+    "ut": 1766313000.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Landslide_Ew_Report_at_1600hrs_on_2025__1766314521.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Landslide Ew Report ",
+    "time_str": "2025-12-20 16:00",
+    "time_id": "20251220.1600",
+    "ut": 1766226600.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Landslide_Ew_Report_at_1600hrs_on_2025__1766228619.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Landslide Early Warning",
+    "time_str": "2025-12-20 08:00",
+    "time_id": "20251220.0800",
+    "ut": 1766197800.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Landslide_Ew_Report_at_0800hrs_on_2025__1766201577.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Landslide Early Warning",
     "time_str": "2025-12-19 08:00",
     "time_id": "20251219.0800",
