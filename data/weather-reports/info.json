@@ -1,5 +1,21 @@
 [
   {
+    "name": "Weather Forecast (Tamil Language)",
+    "time_str": "2025-12-23 07:15",
+    "time_id": "20251223.0715",
+    "ut": 1766454300.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_Report_at_05__1766456464.pdf",
+    "ext": "pdf"
+  },
+  {
+    "name": "Weather forecast for multi-day boats For the sea areas",
+    "time_str": "2025-12-23 07:00",
+    "time_id": "20251223.0700",
+    "ut": 1766453400.0,
+    "href": "https://www.dmc.gov.lk/images/dmcreports/Weather_forecast_for_multi-day_boats_For_the_sea_areas_at_07__1766458082.pdf",
+    "ext": "pdf"
+  },
+  {
     "name": "Weather Forcast",
     "time_str": "2025-12-23 05:30",
     "time_id": "20251223.0530",
